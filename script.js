@@ -71,19 +71,19 @@ const toggleBtn = document.getElementById("theme-toggle");
       }
 
       function loadQuiz(filename) {
-        fetch(filename)
-          .then(res => {
-            if (!res.ok) throw new Error(`Failed to load ${filename}`);
-            return res.json();
-          })
-          .then(data => {
-            quiz = data;
-          })
-          .catch(err => {
-            startError.textContent = `Error loading quiz file: ${err.message}`;
-            console.error(err);
-          });
-      }
+          return fetch(filename)  // Add return here
+            .then(res => {
+              if (!res.ok) throw new Error(`Failed to load ${filename}`);
+              return res.json();
+            })
+            .then(data => {
+              quiz = data;
+            })
+            .catch(err => {
+              startError.textContent = `Error loading quiz file: ${err.message}`;
+              console.error(err);
+            });
+        }
 
       function saveResult(result) {
         let results = JSON.parse(localStorage.getItem("quizResults") || "[]");
@@ -379,47 +379,55 @@ const downloadResultPDF = () => {
   }
 
       // Event handlers
-      startBtn.onclick = () => {
-        const name = studentNameInput.value.trim();
-        const cls = studentClassInput.value.trim();
-
-        if (!name || !cls) {
-          startError.textContent = "Please enter your name and class.";
-          return;
-        }
-
-        if (userExists(name, cls)) {
-          startError.textContent = "User already took the quiz. Only one attempt allowed.";
-          return;
-        }
-
-        // Load the appropriate quiz file based on selected class
-        const quizFile = getQuizFileForClass(cls);
-        loadQuiz(quizFile);
-
-        startError.textContent = "";
-        studentInfo = { name, class: cls };
-        currentQuestionIndex = 0;
-        selectedAnswers = [];
-        timer = QUIZ_TIME;
-
-        showScreen(quizScreen);
-        renderQuestion(currentQuestionIndex);
-        updateTimer();
-        timerInterval = setInterval(() => {
-          timer--;
-          updateTimer();
-          if (timer === 5) {
-          const finalBeep = new Audio("https://www.soundjay.com/button/sounds/beep-09.mp3");
-          finalBeep.play();
-        }
-          if (timer <= 0) {
-            clearInterval(timerInterval);
-            alert(" ⏰ Time is up! The quiz will now end.");
-            finishQuiz();
+      startBtn.onclick = async () => {  // Make it async
+          const name = studentNameInput.value.trim();
+          const cls = studentClassInput.value.trim();
+        
+          if (!name || !cls) {
+            startError.textContent = "Please enter your name and class.";
+            return;
           }
-        }, 1000);
-      };
+        
+          if (userExists(name, cls)) {
+            startError.textContent = "User already took the quiz. Only one attempt allowed.";
+            return;
+          }
+        
+          const quizFile = getQuizFileForClass(cls);
+          
+          startError.textContent = "";
+          studentInfo = { name, class: cls };
+          currentQuestionIndex = 0;
+          selectedAnswers = [];
+          timer = QUIZ_TIME;
+        
+          showScreen(quizScreen);
+          
+          // Wait for quiz to load before rendering
+          await loadQuiz(quizFile);  // Add await
+          
+          if (quiz.length === 0) {
+            startError.textContent = "Failed to load questions. Please try again.";
+            showScreen(startScreen);
+            return;
+          }
+        
+          renderQuestion(currentQuestionIndex);
+          updateTimer();
+          timerInterval = setInterval(() => {
+            timer--;
+            updateTimer();
+            if (timer === 5) {
+              const finalBeep = new Audio("https://www.soundjay.com/button/sounds/beep-09.mp3");
+              finalBeep.play();
+            }
+            if (timer <= 0) {
+              clearInterval(timerInterval);
+              alert(" ⏰ Time is up! The quiz will now end.");
+              finishQuiz();
+            }
+          }, 1000);
+        };
   
   
       
@@ -528,4 +536,5 @@ toggleBtn.addEventListener("click", () => {
   toggleBtn.textContent = body.classList.contains("dark") ? "🌙" : "🌞";
 });
 })();
+
 
