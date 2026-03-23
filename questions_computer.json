@@ -1,0 +1,363 @@
+[
+  {
+    "question": "Which generation of computers is associated with the use of Vacuum Tubes?",
+    "options": ["Second Generation", "Third Generation", "First Generation", "Fourth Generation"],
+    "answer": "First Generation",
+    "explanation": "The first generation of computers used vacuum tubes for circuitry."
+  },
+  {
+    "question": "The component of the CPU that directs the flow of data between the ALU and memory is the:",
+    "options": ["Register", "Control Unit", "Bus", "BIOS"],
+    "answer": "Control Unit",
+    "explanation": "The control unit manages and directs data flow between the ALU and memory."
+  },
+  {
+    "question": "Which of the following is a pointing device?",
+    "options": ["Keyboard", "Trackball", "Monitor", "Hard Disk"],
+    "answer": "Trackball",
+    "explanation": "A trackball is a pointing device used to control the cursor."
+  },
+  {
+    "question": "A computer that processes data in a continuous form (like temperature or speed) is:",
+    "options": ["Digital", "Analog", "Hybrid", "Mainframe"],
+    "answer": "Analog",
+    "explanation": "Analog computers process continuous data such as temperature or speed."
+  },
+  {
+    "question": "The speed of a CPU is measured in:",
+    "options": ["Bits per second", "Gigabytes", "Gigahertz", "Terabytes"],
+    "answer": "Gigahertz",
+    "explanation": "CPU speed is measured in gigahertz (GHz), representing billions of cycles per second."
+  },
+  {
+    "question": "Which memory type is volatile (loses data when power is off)?",
+    "options": ["RAM", "ROM", "EPROM", "Hard Disk"],
+    "answer": "RAM",
+    "explanation": "RAM is volatile memory that loses its contents when power is turned off."
+  },
+  {
+    "question": "How many bits make up a Nibble?",
+    "options": ["8", "2", "4", "16"],
+    "answer": "4",
+    "explanation": "A nibble consists of 4 bits."
+  },
+  {
+    "question": "The binary equivalent of decimal 10 is:",
+    "options": ["1111", "1010", "1001", "0001"],
+    "answer": "1010",
+    "explanation": "Decimal 10 is represented as 1010 in binary."
+  },
+  {
+    "question": "Which of the following is an Input device?",
+    "options": ["Projector", "Plotter", "Light Pen", "Speaker"],
+    "answer": "Light Pen",
+    "explanation": "A light pen is an input device used to interact with the computer screen."
+  },
+  {
+    "question": "A collection of 8 bits is referred to as a:",
+    "options": ["Byte", "Word", "Record", "Field"],
+    "answer": "Byte",
+    "explanation": "A byte is made up of 8 bits."
+  },
+  {
+    "question": "Which logic gate produces an output of 1 only when all inputs are 1?",
+    "options": ["AND", "OR", "NOT", "NAND"],
+    "answer": "AND",
+    "explanation": "The AND gate outputs 1 only if all inputs are 1."
+  },
+  {
+    "question": "The Boolean expression Y = ¯(A + B) represents which gate?",
+    "options": ["XOR", "NAND", "NOR", "AND"],
+    "answer": "NOR",
+    "explanation": "The NOR gate outputs 1 only when both inputs are 0."
+  },
+  {
+    "question": "Which of the following is a Universal Gate?",
+    "options": ["OR", "NAND", "AND", "NOT"],
+    "answer": "NAND",
+    "explanation": "NAND is a universal gate because it can be used to construct all other gates."
+  },
+  {
+    "question": "In a truth table with 3 inputs, how many possible combinations are there?",
+    "options": ["4", "6", "8", "9"],
+    "answer": "8",
+    "explanation": "With 3 inputs, there are 2^3 = 8 possible combinations."
+  },
+  {
+    "question": "The gate that performs an Inversion is the:",
+    "options": ["NOT gate", "OR gate", "XOR gate", "AND gate"],
+    "answer": "NOT gate",
+    "explanation": "The NOT gate inverts the input signal."
+  },
+  {
+    "question": "Which flowchart symbol is used for a Decision?",
+    "options": ["Rectangle", "Oval", "Diamond", "Parallelogram"],
+    "answer": "Diamond",
+    "explanation": "A diamond shape in a flowchart represents a decision point."
+  },
+  {
+    "question": "A set of step-by-step instructions to solve a problem is called:",
+    "options": ["Software", "Algorithm", "Hardware", "Topology"],
+    "answer": "Algorithm",
+    "explanation": "An algorithm is a sequence of steps to solve a problem."
+  },
+  {
+    "question": "Which of these is a High-Level programming language?",
+    "options": ["Machine Code", "Assembly", "Java", "Binary"],
+    "answer": "Java",
+    "explanation": "Java is a high-level programming language."
+  },
+  {
+    "question": "A program that translates High-Level code to Machine code line-by-line is:",
+    "options": ["Compiler", "Interpreter", "Assembler", "Debugger"],
+    "answer": "Interpreter",
+    "explanation": "An interpreter translates and executes code line by line."
+  },
+  {
+    "question": "The first stage of the Systems Development Life Cycle (SDLC) is:",
+    "options": ["Feasibility Study/Analysis", "Design", "Coding", "Maintenance"],
+    "answer": "Feasibility Study/Analysis",
+    "explanation": "The SDLC begins with a feasibility study to assess project viability."
+  },
+  {
+    "question": "Which software manages and controls the computer hardware?",
+    "options": ["Application Software", "System Software", "Utility Software", "Word Processor"],
+    "answer": "System Software",
+    "explanation": "System software manages and controls computer hardware resources."
+  },
+  {
+    "question": "An example of an Operating System is:",
+    "options": ["MS Word", "Linux", "CorelDraw", "Norton Antivirus"],
+    "answer": "Linux",
+    "explanation": "Linux is an operating system that manages hardware and software resources."
+  },
+  {
+    "question": "Which utility is used to protect a computer from malicious files?",
+    "options": ["Defragmenter", "Antivirus", "Screen Saver", "Media Player"],
+    "answer": "Antivirus",
+    "explanation": "Antivirus software protects computers from malicious files and programs."
+  },
+  {
+    "question": "A network that connects computers within a single room or building is:",
+    "options": ["LAN", "WAN", "MAN", "PAN"],
+    "answer": "LAN",
+    "explanation": "A Local Area Network (LAN) connects computers within a limited area like a room or building."
+  },
+  {
+    "question": "The physical layout of a network is called:",
+    "options": ["Protocol", "Topology", "Backbone", "Server"],
+    "answer": "Topology",
+    "explanation": "Topology refers to the physical arrangement of devices in a network."
+  },
+  {
+    "question": "Which topology uses a central Hub or Switch?",
+    "options": ["Bus", "Ring", "Star", "Mesh"],
+    "answer": "Star",
+    "explanation": "In a star topology, all devices connect to a central hub or switch."
+  },
+  {
+    "question": "HTTP stands for:",
+    "options": ["High Text Transfer Protocol", "Hypertext Transfer Protocol", "Hyperlink Text Type Protocol", "Home Text Timing Program"],
+    "answer": "Hypertext Transfer Protocol",
+    "explanation": "HTTP stands for Hypertext Transfer Protocol, used for web communication."
+  },
+  {
+    "question": "Which protocol is used to send emails?",
+    "options": ["SMTP", "POP3", "FTP", "HTTP"],
+    "answer": "SMTP",
+    "explanation": "SMTP (Simple Mail Transfer Protocol) is used to send emails."
+  },
+  {
+    "question": "A unique field that identifies a record in a database is the:",
+    "options": ["Foreign Key", "Primary Key", "Candidate Key", "Composite Key"],
+    "answer": "Primary Key",
+    "explanation": "A primary key uniquely identifies each record in a database table."
+  },
+  {
+    "question": "In Microsoft Access, the columns of a table are known as:",
+    "options": ["Records", "Fields", "Tables", "Rows"],
+    "answer": "Fields",
+    "explanation": "In Access, columns are called fields, which store data attributes."
+  },
+  {
+    "question": "Which of the following is not a web browser?",
+    "options": ["Google Chrome", "Safari", "Microsoft Access", "Opera Mini"],
+    "answer": "Microsoft Access",
+    "explanation": "Microsoft Access is a database management tool, not a web browser."
+  },
+  {
+    "question": "The 's' in HTTPS stands for:",
+    "options": ["Secure", "System", "Server", "Standard"],
+    "answer": "Secure",
+    "explanation": "HTTPS means Hypertext Transfer Protocol Secure."
+  },
+  {
+    "question": "Unauthorized access into a computer system is called:",
+    "options": ["Phishing", "Hacking", "Spamming", "Encryption"],
+    "answer": "Hacking",
+    "explanation": "Hacking refers to unauthorized access into computer systems."
+  },
+  {
+    "question": "A secret code used to grant access to a user is:",
+    "options": ["Username", "Password", "Signature", "Protocol"],
+    "answer": "Password",
+    "explanation": "A password is a secret code used to authenticate users."
+  },
+  {
+    "question": "Which of these is a Trade Subject equivalent to Computer Studies?",
+    "options": ["Technical Drawing", "Data Processing", "Bookkeeping", "Marketing"],
+    "answer": "Data Processing",
+    "explanation": "Data Processing is considered a trade subject equivalent to Computer Studies."
+  },
+  {
+    "question": "1024 Megabytes is equal to:",
+    "options": ["1 Kilobyte", "1 Gigabyte", "1 Terabyte", "1 Bit"],
+    "answer": "1 Gigabyte",
+    "explanation": "1024 Megabytes equals 1 Gigabyte."
+  },
+  {
+    "question": "Which unit of the CPU performs comparisons like A > B?",
+    "options": ["ALU", "Control Unit", "Cache", "Register"],
+    "answer": "ALU",
+    "explanation": "The Arithmetic Logic Unit (ALU) performs arithmetic and logical comparisons."
+  },
+  {
+    "question": "A collection of related records forms a:",
+    "options": ["Field", "File", "Database", "Byte"],
+    "answer": "File",
+    "explanation": "A file is a collection of related records."
+  },
+  {
+    "question": "Which of these is a Non-Impact printer?",
+    "options": ["Dot Matrix", "Daisy Wheel", "Laser Printer", "Line Printer"],
+    "answer": "Laser Printer",
+    "explanation": "Laser printers are non-impact printers that do not strike the paper."
+  },
+  {
+    "question": "The process of starting a computer from the power button is:",
+    "options": ["Cold Booting", "Warm Booting", "Restarting", "Hibernating"],
+    "answer": "Cold Booting",
+    "explanation": "Cold booting refers to starting a computer from a powered-off state."
+  },
+  {
+    "question": "Which of these logic gates has only one input?",
+    "options": ["AND", "OR", "NOT", "XOR"],
+    "answer": "NOT",
+    "explanation": "The NOT gate has a single input and inverts its value."
+  },
+  {
+    "question": "The output of an OR gate is 0 only when:",
+    "options": ["All inputs are 0", "All inputs are 1", "One input is 1", "One input is 0"],
+    "answer": "All inputs are 0",
+    "explanation": "An OR gate outputs 0 only if all inputs are 0."
+  },
+  {
+    "question": "Which flowchart symbol is a Parallelogram?",
+    "options": ["Process", "Input/Output", "Decision", "Terminal"],
+    "answer": "Input/Output",
+    "explanation": "A parallelogram in a flowchart represents input/output operations."
+  },
+  {
+    "question": "A program that appears useful but is actually malicious is a:",
+    "options": ["Worm", "Trojan Horse", "Spyware", "Adware"],
+    "answer": "Trojan Horse",
+    "explanation": "A Trojan Horse disguises itself as useful software but is malicious."
+  },
+  {
+    "question": "Which network covers a whole metropolitan city?",
+    "options": ["LAN", "WAN", "MAN", "VPN"],
+    "answer": "MAN",
+    "explanation": "A Metropolitan Area Network (MAN) covers a city-wide area."
+  },
+  {
+    "question": "What is the binary equivalent of Decimal 1?",
+    "options": ["10", "01", "11", "00"],
+    "answer": "01",
+    "explanation": "Decimal 1 is represented as 01 in binary."
+  },
+  {
+    "question": "The 'Brain' of the computer is the:",
+    "options": ["CPU", "RAM", "Hard Disk", "Monitor"],
+    "answer": "CPU",
+    "explanation": "The CPU is considered the brain of the computer."
+  },
+  {
+    "question": "Which software is used to create slide presentations?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "answer": "MS PowerPoint",
+    "explanation": "MS PowerPoint is used to create slide presentations."
+  },
+  {
+    "question": "A small image representing a program or file on the desktop is:",
+    "options": ["Menu", "Icon", "Window", "Toolbar"],
+    "answer": "Icon",
+    "explanation": "An icon is a small image representing a program or file."
+  },
+  {
+    "question": "The smallest unit of data in a computer is a:",
+    "options": ["Bit", "Byte", "Nibble", "Pixel"],
+    "answer": "Bit",
+    "explanation": "A bit is the smallest unit of data in computing."
+  },
+  {
+    "question": "Which device is used to scan images into a computer?",
+    "options": ["Printer", "Scanner", "Plotter", "Speaker"],
+    "answer": "Scanner",
+    "explanation": "A scanner is used to digitize images into a computer."
+  },
+  {
+    "question": "Which generation of computers introduced Transistors?",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "answer": "Second",
+    "explanation": "The second generation of computers used transistors instead of vacuum tubes."
+  },
+  {
+    "question": "A network device that connects a LAN to the Internet is a:",
+    "options": ["Router", "Monitor", "Keyboard", "Mouse"],
+    "answer": "Router",
+    "explanation": "A router connects a LAN to external networks like the Internet."
+  },
+  {
+    "question": "Which coding system uses 16 bits to represent characters globally?",
+    "options": ["ASCII", "EBCDIC", "Unicode", "BCD"],
+    "answer": "Unicode",
+    "explanation": "Unicode uses 16 bits to represent characters worldwide."
+  },
+  {
+    "question": "In Excel, the intersection of a row and a column is a:",
+    "options": ["Block", "Cell", "Range", "Label"],
+    "answer": "Cell",
+    "explanation": "A cell is the intersection of a row and a column in Excel."
+  },
+  {
+    "question": "The shortcut to Paste a copied item is:",
+    "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + P"],
+    "answer": "Ctrl + V",
+    "explanation": "Ctrl + V is the keyboard shortcut for pasting."
+  },
+  {
+    "question": "Which protocol is used for browsing the web?",
+    "options": ["HTTP", "FTP", "SMTP", "POP3"],
+    "answer": "HTTP",
+    "explanation": "HTTP is the protocol used for browsing the web."
+  },
+  {
+    "question": "A computer program that replicates itself is a:",
+    "options": ["Virus", "Hardware", "Firmware", "Software"],
+    "answer": "Virus",
+    "explanation": "A virus is a self-replicating computer program."
+  },
+  {
+    "question": "The primary use of MS Excel is:",
+    "options": ["Document creation", "Spreadsheet/Calculations", "Video editing", "Photo editing"],
+    "answer": "Spreadsheet/Calculations",
+    "explanation": "MS Excel is primarily used for spreadsheets and calculations."
+  },
+  {
+    "question": "Which of these is a Secondary Storage device?",
+    "options": ["RAM", "Register", "Flash Drive", "Cache"],
+    "answer": "Flash Drive",
+    "explanation": "Flash drives are secondary storage devices used to store data permanently."
+  }
+]
+
