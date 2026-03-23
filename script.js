@@ -41,7 +41,7 @@ const toggleBtn = document.getElementById("theme-toggle");
 
 
       // Initial setup      
-      const QUIZ_TIME = 1200; // total time in seconds for the quiz
+      const QUIZ_TIME = 3600; // total time in seconds for the quiz
 
   
       // Set initial theme based on system preference
@@ -62,12 +62,10 @@ const toggleBtn = document.getElementById("theme-toggle");
       // Utility functions
       function getQuizFileForClass(studentClass) {
         const classToQuizMap = {
-          "Scratch Programming": "questions_scratch.json",
-          "Web Development": "questions_web.json",
-          "Python Basics": "questions_python.json"
+          "Computer Studies": "questions_computer.json"
         };
         
-        return classToQuizMap[studentClass] || "questions.json"; // Default fallback
+        return classToQuizMap[studentClass] || "questions_computer.json"; // Default fallback
       }
 
       function loadQuiz(filename) {
