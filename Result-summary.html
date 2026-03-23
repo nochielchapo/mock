@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Quiz Results Report</title>
+  <title>Results Report</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
   <style>
     body {
@@ -124,7 +124,7 @@
   <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🌞</button>
 
   <div id="quizStatsTable">
-    <h1>📊 Quiz Results Report</h1>
+    <h1>📊 Results Report</h1>
     <h2>📚 Grouped by Class</h2>
     <p><strong>Total Students:</strong> <span id="totalStudents"></span></p>
     <p><strong>Total Questions:</strong> <span id="totalQuestions"></span></p>
@@ -219,7 +219,7 @@
           row.innerHTML = `
             <td>${r.name}</td>
             <td>${r.date}</td>
-            <td>${score*5}/${questions.length*5}</td>
+            <td>${score}/${questions.length}</td>
             <td>${detail}</td>
           `;
           table.appendChild(row);
