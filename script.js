@@ -41,7 +41,7 @@ const toggleBtn = document.getElementById("theme-toggle");
 
 
       // Initial setup      
-      const QUIZ_TIME = 3600; // total time in seconds for the quiz
+      const QUIZ_TIME = 3000; // total time in seconds for the quiz
 
   
       // Set initial theme based on system preference
@@ -62,7 +62,13 @@ const toggleBtn = document.getElementById("theme-toggle");
       // Utility functions
       function getQuizFileForClass(studentClass) {
         const classToQuizMap = {
-          "Computer Studies": "questions_computer.json"
+          "Computer Studies": "questions_computer.json",
+          "Computer Studies 2021": "ssce-past(2021).json",
+          "Computer Studies 2022": "ssce-past(2022).json",
+          "Computer Studies 2023": "ssce-past(2023).json",
+          "Computer Studies 2024": "ssce-past(2024).json",
+          "Computer Studies (Another)": "ssce-past(another).json",
+          "Computer Studies (Difficult)": "ssce-past(difficult-compiled).json",
         };
         
         return classToQuizMap[studentClass] || "questions_computer.json"; // Default fallback
