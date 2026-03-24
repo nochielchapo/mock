@@ -1,0 +1,302 @@
+[
+  {
+    "question": "The bootstrap loader is stored in",
+    "options": ["RAM", "ROM", "Cache", "Disk"],
+    "answer": "ROM",
+    "explanation": "The bootstrap loader is stored in ROM and is executed when the computer starts."
+  },
+  {
+    "question": "Bootstrap process is used to",
+    "options": ["Shut down system", "Start the computer", "Format disk", "Delete files"],
+    "answer": "Start the computer",
+    "explanation": "Bootstrap is the process of loading the operating system when the computer starts."
+  },
+  {
+    "question": "Which is a real-time system?",
+    "options": ["Payroll", "Banking", "Air traffic control", "Word processing"],
+    "answer": "Air traffic control",
+    "explanation": "Air traffic control requires real-time processing for immediate responses."
+  },
+  {
+    "question": "Which is NOT an OS type?",
+    "options": ["Batch", "Real-time", "Multitasking", "Compiler"],
+    "answer": "Compiler",
+    "explanation": "A compiler is a translator, not an operating system type."
+  },
+  {
+    "question": "Which is NOT a topology?",
+    "options": ["Star", "Bus", "Ring", "RAM"],
+    "answer": "RAM",
+    "explanation": "RAM is memory, not a network topology."
+  },
+  {
+    "question": "Star topology depends on",
+    "options": ["Cable", "Central hub", "Ring", "Bus"],
+    "answer": "Central hub",
+    "explanation": "Star topology uses a central hub or switch to connect all devices."
+  },
+  {
+    "question": "Bus topology suffers from",
+    "options": ["Speed", "Collision", "Security", "Cost"],
+    "answer": "Collision",
+    "explanation": "Bus topology is prone to data collisions when multiple devices transmit simultaneously."
+  },
+  {
+    "question": "Ring topology uses",
+    "options": ["Central hub", "Circular connection", "Star", "Mesh"],
+    "answer": "Circular connection",
+    "explanation": "Ring topology connects devices in a closed loop or circle."
+  },
+  {
+    "question": "Router is used for",
+    "options": ["Printing", "Connecting networks", "Typing", "Storage"],
+    "answer": "Connecting networks",
+    "explanation": "A router connects different networks and directs data traffic."
+  },
+  {
+    "question": "Switch works at",
+    "options": ["Network level", "Data link level", "Physical level", "Application level"],
+    "answer": "Data link level",
+    "explanation": "A switch operates at the data link layer (Layer 2) of the OSI model."
+  },
+  {
+    "question": "Firewall is used for",
+    "options": ["Speed", "Security", "Storage", "Input"],
+    "answer": "Security",
+    "explanation": "A firewall monitors and controls network traffic for security."
+  },
+  {
+    "question": "Which is NOT security method?",
+    "options": ["Antivirus", "Firewall", "Encryption", "Printer"],
+    "answer": "Printer",
+    "explanation": "A printer is an output device, not a security method."
+  },
+  {
+    "question": "Encryption ensures",
+    "options": ["Speed", "Security", "Storage", "Input"],
+    "answer": "Security",
+    "explanation": "Encryption ensures data security by making it unreadable without a key."
+  },
+  {
+    "question": "Which is malware?",
+    "options": ["Virus", "Firewall", "Router", "Switch"],
+    "answer": "Virus",
+    "explanation": "A virus is a type of malware that replicates and spreads."
+  },
+  {
+    "question": "Worm spreads",
+    "options": ["Manually", "Automatically", "Through hardware", "Through CPU"],
+    "answer": "Automatically",
+    "explanation": "Worms self-replicate and spread automatically across networks without user intervention."
+  },
+  {
+    "question": "Trojan horse is a",
+    "options": ["Hardware", "Malware disguised as legitimate software", "Network device", "Operating system"],
+    "answer": "Malware disguised as legitimate software",
+    "explanation": "A Trojan horse appears legitimate but contains malicious code."
+  },
+  {
+    "question": "Spyware is used to",
+    "options": ["Protect data", "Monitor user activity secretly", "Speed up computer", "Store data"],
+    "answer": "Monitor user activity secretly",
+    "explanation": "Spyware secretly monitors and collects user information."
+  },
+  {
+    "question": "Which of the following is NOT a function of the Control Unit?",
+    "options": ["Direct operations", "Coordinate activities", "Perform arithmetic operations", "Control instruction execution"],
+    "answer": "Perform arithmetic operations",
+    "explanation": "Arithmetic operations are performed by the ALU, not the Control Unit."
+  },
+  {
+    "question": "Registers are used for",
+    "options": ["Permanent storage", "Temporary high-speed storage", "Input", "Output"],
+    "answer": "Temporary high-speed storage",
+    "explanation": "Registers provide temporary, high-speed storage within the CPU."
+  },
+  {
+    "question": "Cache memory is used to",
+    "options": ["Store files", "Increase processing speed", "Print documents", "Input data"],
+    "answer": "Increase processing speed",
+    "explanation": "Cache memory speeds up processing by storing frequently accessed data."
+  },
+  {
+    "question": "Which factor affects CPU performance most?",
+    "options": ["Monitor size", "Clock speed", "Keyboard type", "Printer speed"],
+    "answer": "Clock speed",
+    "explanation": "Clock speed determines how many instructions the CPU can execute per second."
+  },
+  {
+    "question": "Which of the following is NOT a scheduling algorithm?",
+    "options": ["FIFO", "Round Robin", "Priority", "HTML"],
+    "answer": "HTML",
+    "explanation": "HTML is a markup language, not a CPU scheduling algorithm."
+  },
+  {
+    "question": "Which is a function of the operating system?",
+    "options": ["File management", "Typing", "Drawing", "Printing only"],
+    "answer": "File management",
+    "explanation": "File management is a core function of operating systems."
+  },
+  {
+    "question": "Deadlock occurs when",
+    "options": ["CPU is fast", "Processes wait indefinitely", "Memory is large", "Disk is full"],
+    "answer": "Processes wait indefinitely",
+    "explanation": "Deadlock occurs when processes are stuck waiting for resources held by each other."
+  },
+  {
+    "question": "Virtual memory is",
+    "options": ["Physical memory", "Secondary memory used as RAM", "Cache memory", "ROM"],
+    "answer": "Secondary memory used as RAM",
+    "explanation": "Virtual memory uses disk space to extend available RAM."
+  },
+  {
+    "question": "Which is NOT a network device?",
+    "options": ["Router", "Switch", "Keyboard", "Hub"],
+    "answer": "Keyboard",
+    "explanation": "A keyboard is an input device, not a networking device."
+  },
+  {
+    "question": "A bridge is used to",
+    "options": ["Connect networks", "Connect similar network segments", "Print documents", "Store data"],
+    "answer": "Connect similar network segments",
+    "explanation": "A bridge connects and filters traffic between similar network segments."
+  },
+  {
+    "question": "Which topology provides highest reliability?",
+    "options": ["Bus", "Star", "Ring", "Mesh"],
+    "answer": "Mesh",
+    "explanation": "Mesh topology provides redundancy with multiple paths, offering high reliability."
+  },
+  {
+    "question": "Which topology is cheapest to implement?",
+    "options": ["Mesh", "Star", "Bus", "Ring"],
+    "answer": "Bus",
+    "explanation": "Bus topology requires the least cabling, making it the cheapest."
+  },
+  {
+    "question": "Collision occurs in",
+    "options": ["Star", "Bus", "Mesh", "Ring"],
+    "answer": "Bus",
+    "explanation": "Bus topology is prone to collisions when multiple devices transmit simultaneously."
+  },
+  {
+    "question": "Which protocol is used for email sending?",
+    "options": ["HTTP", "FTP", "SMTP", "TCP"],
+    "answer": "SMTP",
+    "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails."
+  },
+  {
+    "question": "Which protocol is used for receiving email?",
+    "options": ["POP3", "HTTP", "FTP", "HTML"],
+    "answer": "POP3",
+    "explanation": "POP3 (Post Office Protocol 3) is used for receiving emails."
+  },
+  {
+    "question": "Which is NOT a database model?",
+    "options": ["Relational", "Hierarchical", "Network", "Circular"],
+    "answer": "Circular",
+    "explanation": "Circular is not a database model; relational, hierarchical, and network are."
+  },
+  {
+    "question": "A foreign key is used to",
+    "options": ["Identify records", "Link tables", "Delete records", "Sort data"],
+    "answer": "Link tables",
+    "explanation": "A foreign key links two tables together in a relational database."
+  },
+  {
+    "question": "Which normal form removes partial dependency?",
+    "options": ["1NF", "2NF", "3NF", "4NF"],
+    "answer": "2NF",
+    "explanation": "Second Normal Form (2NF) removes partial dependencies."
+  },
+  {
+    "question": "Data redundancy means",
+    "options": ["Unique data", "Duplicate data", "Deleted data", "Organized data"],
+    "answer": "Duplicate data",
+    "explanation": "Data redundancy refers to unnecessary duplication of data."
+  },
+  {
+    "question": "Which SQL command updates data?",
+    "options": ["SELECT", "UPDATE", "INSERT", "DELETE"],
+    "answer": "UPDATE",
+    "explanation": "UPDATE modifies existing data in a database table."
+  },
+  {
+    "question": "Which SQL command removes data?",
+    "options": ["SELECT", "INSERT", "DELETE", "UPDATE"],
+    "answer": "DELETE",
+    "explanation": "DELETE removes records from a database table."
+  },
+  {
+    "question": "Which is NOT a high-level language?",
+    "options": ["Python", "Java", "Assembly", "C++"],
+    "answer": "Assembly",
+    "explanation": "Assembly is a low-level language; Python, Java, and C++ are high-level."
+  },
+  {
+    "question": "Which language is machine-dependent?",
+    "options": ["Python", "Java", "Assembly", "C++"],
+    "answer": "Assembly",
+    "explanation": "Assembly language is specific to a particular processor architecture."
+  },
+  {
+    "question": "Debugging is the process of",
+    "options": ["Writing programs", "Fixing errors", "Compiling", "Running"],
+    "answer": "Fixing errors",
+    "explanation": "Debugging is identifying and fixing errors in programs."
+  },
+  {
+    "question": "Syntax error occurs when",
+    "options": ["Logic is wrong", "Rules of language are broken", "Output is incorrect", "Program runs slowly"],
+    "answer": "Rules of language are broken",
+    "explanation": "Syntax errors violate the grammatical rules of a programming language."
+  },
+  {
+    "question": "Logic error results in",
+    "options": ["Program crash", "Wrong output", "No compilation", "Syntax failure"],
+    "answer": "Wrong output",
+    "explanation": "Logic errors produce incorrect results without crashing the program."
+  },
+  {
+    "question": "Which is NOT a programming paradigm?",
+    "options": ["Procedural", "Object-oriented", "Functional", "Electrical"],
+    "answer": "Electrical",
+    "explanation": "Electrical is not a programming paradigm; procedural, object-oriented, and functional are."
+  },
+  {
+    "question": "Bandwidth is measured in",
+    "options": ["Bytes", "Hertz", "Bits per second", "Volts"],
+    "answer": "Bits per second",
+    "explanation": "Bandwidth is measured in bits per second (bps)."
+  },
+  {
+    "question": "Which transmission medium is fastest?",
+    "options": ["Twisted pair", "Coaxial cable", "Fiber optic", "Radio wave"],
+    "answer": "Fiber optic",
+    "explanation": "Fiber optic cables provide the highest data transmission speeds."
+  },
+  {
+    "question": "Cloud computing involves",
+    "options": ["Local storage", "Remote servers", "CPU processing only", "Input devices"],
+    "answer": "Remote servers",
+    "explanation": "Cloud computing uses remote servers over the internet for storage and processing."
+  },
+  {
+    "question": "Which is NOT a cloud service model?",
+    "options": ["SaaS", "PaaS", "IaaS", "LAN"],
+    "answer": "LAN",
+    "explanation": "LAN is a network type; SaaS, PaaS, and IaaS are cloud service models."
+  },
+  {
+    "question": "Which ensures data integrity?",
+    "options": ["Backup", "Virus", "Malware", "Hacking"],
+    "answer": "Backup",
+    "explanation": "Backups ensure data integrity by protecting against data loss."
+  },
+  {
+    "question": "Which is the main goal of computer security?",
+    "options": ["Speed", "Storage", "Protection of data", "Printing"],
+    "answer": "Protection of data",
+    "explanation": "Computer security primarily aims to protect data confidentiality, integrity, and availability."
+  }
+]

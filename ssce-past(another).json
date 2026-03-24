@@ -1,0 +1,302 @@
+[
+  {
+    "question": "The part of the computer that controls all operations is",
+    "options": ["ALU", "CU", "RAM", "ROM"],
+    "answer": "CU",
+    "explanation": "The Control Unit (CU) directs and coordinates all computer operations."
+  },
+  {
+    "question": "The fetch-decode-execute cycle is performed by the",
+    "options": ["Monitor", "CPU", "Keyboard", "Printer"],
+    "answer": "CPU",
+    "explanation": "The CPU executes the fetch-decode-execute cycle to process instructions."
+  },
+  {
+    "question": "Which of the following is NOT a component of the CPU?",
+    "options": ["ALU", "CU", "Register", "Hard disk"],
+    "answer": "Hard disk",
+    "explanation": "Hard disk is secondary storage, not part of the CPU."
+  },
+  {
+    "question": "Which factor directly affects CPU performance?",
+    "options": ["Screen size", "Clock speed", "Keyboard type", "Printer speed"],
+    "answer": "Clock speed",
+    "explanation": "Clock speed determines how many instructions the CPU can process per second."
+  },
+  {
+    "question": "RAM is described as",
+    "options": ["Permanent memory", "Volatile memory", "External memory", "Secondary memory"],
+    "answer": "Volatile memory",
+    "explanation": "RAM loses its contents when power is turned off."
+  },
+  {
+    "question": "Which of the following is a function of an operating system?",
+    "options": ["Typing documents", "Managing files", "Printing", "Drawing"],
+    "answer": "Managing files",
+    "explanation": "File management is a core operating system function."
+  },
+  {
+    "question": "Which operating system allows multiple programs to run simultaneously?",
+    "options": ["Single-task", "Batch", "Multitasking", "Real-time"],
+    "answer": "Multitasking",
+    "explanation": "Multitasking operating systems allow concurrent execution of multiple programs."
+  },
+  {
+    "question": "Which of the following is an example of an operating system?",
+    "options": ["Excel", "Windows", "Word", "Access"],
+    "answer": "Windows",
+    "explanation": "Windows is an operating system; Excel, Word, and Access are applications."
+  },
+  {
+    "question": "A computer network is",
+    "options": ["A single computer", "Connected computers sharing resources", "A storage device", "A software"],
+    "answer": "Connected computers sharing resources",
+    "explanation": "A network connects computers to share resources and communicate."
+  },
+  {
+    "question": "LAN stands for",
+    "options": ["Local Area Network", "Large Area Network", "Long Area Network", "Link Area Network"],
+    "answer": "Local Area Network",
+    "explanation": "LAN connects devices within a limited geographical area."
+  },
+  {
+    "question": "Which topology uses a central hub?",
+    "options": ["Bus", "Ring", "Star", "Mesh"],
+    "answer": "Star",
+    "explanation": "Star topology uses a central hub or switch to connect all devices."
+  },
+  {
+    "question": "Which device directs data between networks?",
+    "options": ["Hub", "Switch", "Router", "Repeater"],
+    "answer": "Router",
+    "explanation": "Routers direct data between different networks."
+  },
+  {
+    "question": "Which is NOT a network type?",
+    "options": ["LAN", "WAN", "MAN", "CPU"],
+    "answer": "CPU",
+    "explanation": "CPU is a computer component, not a network type."
+  },
+  {
+    "question": "Which is an advantage of networking?",
+    "options": ["Increased cost", "Resource sharing", "Data loss", "Virus spread"],
+    "answer": "Resource sharing",
+    "explanation": "Networking enables sharing of resources like printers and files."
+  },
+  {
+    "question": "A database is",
+    "options": ["A program", "Organized collection of data", "A device", "A network"],
+    "answer": "Organized collection of data",
+    "explanation": "A database is an organized collection of structured data."
+  },
+  {
+    "question": "A primary key is used to",
+    "options": ["Duplicate records", "Uniquely identify records", "Delete data", "Print data"],
+    "answer": "Uniquely identify records",
+    "explanation": "A primary key uniquely identifies each record in a table."
+  },
+  {
+    "question": "Normalization is used to",
+    "options": ["Increase redundancy", "Reduce duplication", "Delete tables", "Speed typing"],
+    "answer": "Reduce duplication",
+    "explanation": "Normalization organizes data to reduce redundancy and improve integrity."
+  },
+  {
+    "question": "Which SQL command retrieves data?",
+    "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+    "answer": "SELECT",
+    "explanation": "SELECT retrieves data from a database."
+  },
+  {
+    "question": "Which is a security threat?",
+    "options": ["Antivirus", "Firewall", "Virus", "Backup"],
+    "answer": "Virus",
+    "explanation": "A virus is a malicious program that poses a security threat."
+  },
+  {
+    "question": "Which helps prevent unauthorized access?",
+    "options": ["Password", "Printer", "Mouse", "Scanner"],
+    "answer": "Password",
+    "explanation": "Passwords authenticate users and prevent unauthorized access."
+  },
+  {
+    "question": "Phishing is",
+    "options": ["Fishing in water", "Sending fake messages to steal data", "Printing documents", "Writing programs"],
+    "answer": "Sending fake messages to steal data",
+    "explanation": "Phishing uses deceptive messages to trick victims into revealing sensitive information."
+  },
+  {
+    "question": "Encryption is used for",
+    "options": ["Speed", "Security", "Storage", "Input"],
+    "answer": "Security",
+    "explanation": "Encryption secures data by converting it into an unreadable format."
+  },
+  {
+    "question": "A compiler translates",
+    "options": ["Machine to English", "High-level to machine language", "Binary to decimal", "Output to input"],
+    "answer": "High-level to machine language",
+    "explanation": "A compiler translates high-level code into machine language."
+  },
+  {
+    "question": "Interpreter translates",
+    "options": ["Whole program at once", "Line by line", "Binary code", "Data"],
+    "answer": "Line by line",
+    "explanation": "An interpreter executes code line by line."
+  },
+  {
+    "question": "High-level languages are",
+    "options": ["Difficult to understand", "Close to machine language", "Easy to understand", "Binary only"],
+    "answer": "Easy to understand",
+    "explanation": "High-level languages use human-readable syntax, making them easier to understand."
+  },
+  {
+    "question": "Which memory has the fastest access time?",
+    "options": ["RAM", "ROM", "Register", "Disk"],
+    "answer": "Register",
+    "explanation": "Registers inside the CPU have the fastest access time."
+  },
+  {
+    "question": "Which is NOT a function of the OS?",
+    "options": ["Memory management", "File management", "Program execution", "Program compilation"],
+    "answer": "Program compilation",
+    "explanation": "Compilation is done by compilers, not the operating system."
+  },
+  {
+    "question": "Which topology is prone to data collision?",
+    "options": ["Star", "Bus", "Ring", "Mesh"],
+    "answer": "Bus",
+    "explanation": "Bus topology is prone to collisions when multiple devices transmit simultaneously."
+  },
+  {
+    "question": "Which is NOT a database component?",
+    "options": ["Table", "Field", "Record", "Keyboard"],
+    "answer": "Keyboard",
+    "explanation": "Keyboard is hardware, not a database component."
+  },
+  {
+    "question": "Which is a real-time operating system?",
+    "options": ["Windows", "Linux", "Air traffic system", "Excel"],
+    "answer": "Air traffic system",
+    "explanation": "Air traffic control systems require real-time operating systems for immediate response."
+  },
+  {
+    "question": "Which storage device is non-volatile?",
+    "options": ["RAM", "Cache", "ROM", "Register"],
+    "answer": "ROM",
+    "explanation": "ROM retains data even when power is off."
+  },
+  {
+    "question": "Which device boosts network signal?",
+    "options": ["Router", "Repeater", "Switch", "Hub"],
+    "answer": "Repeater",
+    "explanation": "A repeater amplifies and regenerates network signals over long distances."
+  },
+  {
+    "question": "Which is NOT malware?",
+    "options": ["Virus", "Worm", "Trojan", "Firewall"],
+    "answer": "Firewall",
+    "explanation": "Firewall is a security tool, not malware."
+  },
+  {
+    "question": "Which of the following defines bandwidth?",
+    "options": ["Storage", "Data transfer rate", "CPU speed", "Memory"],
+    "answer": "Data transfer rate",
+    "explanation": "Bandwidth is the maximum data transfer rate of a network."
+  },
+  {
+    "question": "Which identifies a device on a network?",
+    "options": ["URL", "IP address", "HTML", "HTTP"],
+    "answer": "IP address",
+    "explanation": "An IP address uniquely identifies devices on a network."
+  },
+  {
+    "question": "Which is NOT a programming language?",
+    "options": ["Java", "Python", "HTML", "CPU"],
+    "answer": "CPU",
+    "explanation": "CPU is hardware; Java, Python, and HTML are programming/markup languages."
+  },
+  {
+    "question": "Which is an advantage of normalization?",
+    "options": ["Redundancy", "Duplication", "Consistency", "Errors"],
+    "answer": "Consistency",
+    "explanation": "Normalization improves data consistency by reducing redundancy."
+  },
+  {
+    "question": "Which file extension is executable?",
+    "options": [".txt", ".exe", ".doc", ".xls"],
+    "answer": ".exe",
+    "explanation": ".exe files are executable programs in Windows."
+  },
+  {
+    "question": "Which device filters traffic?",
+    "options": ["Router", "Firewall", "Switch", "Hub"],
+    "answer": "Firewall",
+    "explanation": "A firewall filters network traffic based on security rules."
+  },
+  {
+    "question": "Which is NOT an internet service?",
+    "options": ["Email", "FTP", "HTTP", "ALU"],
+    "answer": "ALU",
+    "explanation": "ALU is a CPU component, not an internet service."
+  },
+  {
+    "question": "Which of the following is a function of a database management system (DBMS)?",
+    "options": ["Printing documents", "Managing and organizing data", "Drawing graphics", "Playing media"],
+    "answer": "Managing and organizing data",
+    "explanation": "DBMS manages and organizes data in databases."
+  },
+  {
+    "question": "Which of the following best describes a foreign key?",
+    "options": ["A key used to delete records", "A unique identifier in a table", "A field that links two tables", "A password for database access"],
+    "answer": "A field that links two tables",
+    "explanation": "A foreign key links two tables in a relational database."
+  },
+  {
+    "question": "Which of the following is a characteristic of a good password?",
+    "options": ["Short and simple", "Easy to guess", "Contains letters, numbers, and symbols", "Same as username"],
+    "answer": "Contains letters, numbers, and symbols",
+    "explanation": "Strong passwords use a mix of character types for better security."
+  },
+  {
+    "question": "Which type of network covers a large geographical area?",
+    "options": ["LAN", "MAN", "WAN", "PAN"],
+    "answer": "WAN",
+    "explanation": "WAN (Wide Area Network) covers large geographical areas like countries."
+  },
+  {
+    "question": "Which of the following is NOT a function of a firewall?",
+    "options": ["Blocking unauthorized access", "Monitoring traffic", "Increasing CPU speed", "Filtering data"],
+    "answer": "Increasing CPU speed",
+    "explanation": "Firewalls do not affect CPU speed; they focus on network security."
+  },
+  {
+    "question": "Which of the following best describes multitasking?",
+    "options": ["Running one program at a time", "Running multiple programs simultaneously", "Using multiple computers", "Increasing memory"],
+    "answer": "Running multiple programs simultaneously",
+    "explanation": "Multitasking allows multiple programs to run concurrently."
+  },
+  {
+    "question": "Which of the following is an example of system software?",
+    "options": ["Microsoft Word", "Excel", "Windows Operating System", "PowerPoint"],
+    "answer": "Windows Operating System",
+    "explanation": "Windows is system software; Word, Excel, and PowerPoint are applications."
+  },
+  {
+    "question": "Which of the following is used to protect data from unauthorized access?",
+    "options": ["Encryption", "Formatting", "Printing", "Debugging"],
+    "answer": "Encryption",
+    "explanation": "Encryption protects data by making it unreadable without a key."
+  },
+  {
+    "question": "Which of the following is an example of a high-level programming language?",
+    "options": ["Machine language", "Assembly language", "Python", "Binary code"],
+    "answer": "Python",
+    "explanation": "Python is a high-level programming language; machine, assembly, and binary are low-level."
+  },
+  {
+    "question": "Which of the following best describes normalization?",
+    "options": ["Increasing data redundancy", "Organizing data to reduce duplication", "Deleting records permanently", "Sorting data alphabetically"],
+    "answer": "Organizing data to reduce duplication",
+    "explanation": "Normalization organizes database structures to minimize redundancy."
+  }
+]

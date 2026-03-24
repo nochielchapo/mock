@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A computer is best described as a device that",
+    "options": ["stores data", "processes data into information", "prints documents", "displays graphics"],
+    "answer": "processes data into information",
+    "explanation": "A computer accepts raw data as input, processes it, and produces meaningful information as output."
+  },
+  {
+    "question": "Which of the following is NOT an input device?",
+    "options": ["Keyboard", "Scanner", "Monitor", "Mouse"],
+    "answer": "Monitor",
+    "explanation": "A monitor is an output device that displays information, while keyboard, scanner, and mouse are used to input data."
+  },
+  {
+    "question": "CPU stands for",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Control Processing Unit"],
+    "answer": "Central Processing Unit",
+    "explanation": "CPU is the acronym for Central Processing Unit, the primary component that executes instructions."
+  },
+  {
+    "question": "The brain of the computer is",
+    "options": ["RAM", "Hard disk", "CPU", "Monitor"],
+    "answer": "CPU",
+    "explanation": "The CPU is often called the brain of the computer because it performs all processing and controls other components."
+  },
+  {
+    "question": "Which generation used vacuum tubes?",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "answer": "First",
+    "explanation": "First-generation computers (1940s-1950s) used vacuum tubes as their main electronic components."
+  },
+  {
+    "question": "An example of system software is",
+    "options": ["Microsoft Word", "Excel", "Windows OS", "PowerPoint"],
+    "answer": "Windows OS",
+    "explanation": "Windows OS is system software that manages hardware and provides a platform for application software like Word and Excel."
+  },
+  {
+    "question": "Which memory is volatile?",
+    "options": ["ROM", "RAM", "Hard disk", "Flash"],
+    "answer": "RAM",
+    "explanation": "RAM (Random Access Memory) is volatile, meaning its contents are lost when power is turned off."
+  },
+  {
+    "question": "A byte is equal to",
+    "options": ["4 bits", "8 bits", "16 bits", "2 bits"],
+    "answer": "8 bits",
+    "explanation": "A byte consists of 8 bits and is the standard unit for measuring data storage."
+  },
+  {
+    "question": "The function of ALU is",
+    "options": ["Storage", "Input", "Arithmetic operations", "Output"],
+    "answer": "Arithmetic operations",
+    "explanation": "ALU (Arithmetic Logic Unit) performs arithmetic calculations and logical operations."
+  },
+  {
+    "question": "Spreadsheet software is used for",
+    "options": ["Drawing", "Calculations", "Typing", "Browsing"],
+    "answer": "Calculations",
+    "explanation": "Spreadsheet software like Microsoft Excel is designed for calculations, data analysis, and numerical tasks."
+  },
+  {
+    "question": "Which is an output device?",
+    "options": ["Printer", "Keyboard", "Scanner", "Joystick"],
+    "answer": "Printer",
+    "explanation": "A printer produces hard copy output, while keyboard, scanner, and joystick are input devices."
+  },
+  {
+    "question": "LAN stands for",
+    "options": ["Local Area Network", "Large Area Network", "Long Area Node", "Link Access Network"],
+    "answer": "Local Area Network",
+    "explanation": "LAN is a network that connects computers within a limited area such as a home, school, or office building."
+  },
+  {
+    "question": "The smallest unit of data is",
+    "options": ["Byte", "Bit", "Kilobyte", "Nibble"],
+    "answer": "Bit",
+    "explanation": "A bit (binary digit) is the smallest unit of data, representing either 0 or 1."
+  },
+  {
+    "question": "ROM is",
+    "options": ["Read Only Memory", "Random Only Memory", "Read Open Memory", "Run Only Memory"],
+    "answer": "Read Only Memory",
+    "explanation": "ROM is non-volatile memory that stores data permanently and can only be read, not written to under normal operation."
+  },
+  {
+    "question": "A compiler translates",
+    "options": ["Machine to English", "High-level to machine language", "Binary to decimal", "Data to information"],
+    "answer": "High-level to machine language",
+    "explanation": "A compiler translates entire high-level language programs into machine code before execution."
+  },
+  {
+    "question": "Which is a secondary storage device?",
+    "options": ["RAM", "ROM", "Hard disk", "Cache"],
+    "answer": "Hard disk",
+    "explanation": "A hard disk is secondary storage that stores data permanently, unlike RAM and cache which are primary memory."
+  },
+  {
+    "question": "The physical parts of a computer are called",
+    "options": ["Software", "Hardware", "Firmware", "Data"],
+    "answer": "Hardware",
+    "explanation": "Hardware refers to all physical components of a computer system that you can touch."
+  },
+  {
+    "question": "Which of these is an application software?",
+    "options": ["Linux", "Windows", "MS Word", "DOS"],
+    "answer": "MS Word",
+    "explanation": "MS Word is application software used for word processing, while Linux, Windows, and DOS are operating systems."
+  },
+  {
+    "question": "A modem is used for",
+    "options": ["Input", "Processing", "Communication", "Storage"],
+    "answer": "Communication",
+    "explanation": "A modem (modulator-demodulator) enables communication between computers over telephone lines or cable systems."
+  },
+  {
+    "question": "The process of correcting errors is",
+    "options": ["Debugging", "Editing", "Compiling", "Running"],
+    "answer": "Debugging",
+    "explanation": "Debugging is the process of identifying and fixing errors (bugs) in a computer program."
+  },
+  {
+    "question": "GUI means",
+    "options": ["Graphical User Interface", "General User Interface", "Graphic Utility Interface", "Global User Interface"],
+    "answer": "Graphical User Interface",
+    "explanation": "GUI allows users to interact with computers using visual elements like icons, windows, and buttons."
+  },
+  {
+    "question": "Which is NOT a storage device?",
+    "options": ["Flash drive", "CD", "Monitor", "Hard disk"],
+    "answer": "Monitor",
+    "explanation": "A monitor is an output device for displaying visuals, not a storage device."
+  },
+  {
+    "question": "One kilobyte equals",
+    "options": ["1000 bytes", "1024 bytes", "500 bytes", "512 bytes"],
+    "answer": "1024 bytes",
+    "explanation": "In computing, 1 kilobyte equals 1024 bytes (2^10), though it is sometimes approximated as 1000 bytes."
+  },
+  {
+    "question": "An example of an operating system is",
+    "options": ["Word", "Excel", "Windows", "Access"],
+    "answer": "Windows",
+    "explanation": "Windows is an operating system that manages computer hardware and software resources."
+  },
+  {
+    "question": "The unit of speed in computers is",
+    "options": ["Hertz", "Meter", "Gram", "Watt"],
+    "answer": "Hertz",
+    "explanation": "Processor speed is measured in Hertz (Hz), indicating cycles per second."
+  },
+  {
+    "question": "Which is used to browse the internet?",
+    "options": ["Excel", "Chrome", "Word", "Paint"],
+    "answer": "Chrome",
+    "explanation": "Google Chrome is a web browser used to access and navigate the internet."
+  },
+  {
+    "question": "ICT means",
+    "options": ["Information Communication Technology", "International Computer Tech", "Internet Communication Tool", "Internal Control Tech"],
+    "answer": "Information Communication Technology",
+    "explanation": "ICT refers to technologies used for communication and information management."
+  },
+  {
+    "question": "A program error is called",
+    "options": ["Bug", "Virus", "Fault", "Crash"],
+    "answer": "Bug",
+    "explanation": "A bug is an error or flaw in a computer program that causes unexpected behavior."
+  },
+  {
+    "question": "Which device prints output?",
+    "options": ["Scanner", "Printer", "Mouse", "Keyboard"],
+    "answer": "Printer",
+    "explanation": "A printer produces hard copy output on paper."
+  },
+  {
+    "question": "Binary number system uses",
+    "options": ["0–9", "1–10", "0 and 1", "1–8"],
+    "answer": "0 and 1",
+    "explanation": "The binary system uses only two digits: 0 and 1."
+  },
+  {
+    "question": "The main memory is",
+    "options": ["RAM", "Disk", "Flash", "Tape"],
+    "answer": "RAM",
+    "explanation": "RAM is the main memory where data and instructions are stored temporarily for quick access by the CPU."
+  },
+  {
+    "question": "Which is NOT an example of hardware?",
+    "options": ["CPU", "Keyboard", "Windows", "Monitor"],
+    "answer": "Windows",
+    "explanation": "Windows is software (an operating system), while CPU, keyboard, and monitor are physical hardware components."
+  },
+  {
+    "question": "A website address is called",
+    "options": ["URL", "HTML", "HTTP", "WWW"],
+    "answer": "URL",
+    "explanation": "URL (Uniform Resource Locator) is the address used to access a website on the internet."
+  },
+  {
+    "question": "Internet is a",
+    "options": ["Single computer", "Network of networks", "Program", "Device"],
+    "answer": "Network of networks",
+    "explanation": "The internet is a global network connecting millions of smaller networks and computers worldwide."
+  },
+  {
+    "question": "Which is a search engine?",
+    "options": ["Google", "Word", "Excel", "Paint"],
+    "answer": "Google",
+    "explanation": "Google is a search engine that helps users find information on the internet."
+  },
+  {
+    "question": "Spreadsheet rows are labeled with",
+    "options": ["Numbers", "Letters", "Symbols", "Codes"],
+    "answer": "Numbers",
+    "explanation": "In spreadsheets, rows are identified by numbers (1, 2, 3...)."
+  },
+  {
+    "question": "Columns are labeled with",
+    "options": ["Numbers", "Letters", "Codes", "Symbols"],
+    "answer": "Letters",
+    "explanation": "In spreadsheets, columns are identified by letters (A, B, C...)."
+  },
+  {
+    "question": "The intersection of row and column is",
+    "options": ["Box", "Cell", "Sheet", "Table"],
+    "answer": "Cell",
+    "explanation": "A cell is the intersection of a row and column where data is entered."
+  },
+  {
+    "question": "Which software is used for presentation?",
+    "options": ["PowerPoint", "Excel", "Word", "Paint"],
+    "answer": "PowerPoint",
+    "explanation": "Microsoft PowerPoint is presentation software used to create slideshows."
+  },
+  {
+    "question": "CPU has",
+    "options": ["ALU and CU", "RAM and ROM", "Input and Output", "Disk and Tape"],
+    "answer": "ALU and CU",
+    "explanation": "The CPU consists of the Arithmetic Logic Unit (ALU) and Control Unit (CU)."
+  },
+  {
+    "question": "ALU stands for",
+    "options": ["Arithmetic Logic Unit", "Automatic Logic Unit", "Advanced Logic Unit", "Arithmetic Link Unit"],
+    "answer": "Arithmetic Logic Unit",
+    "explanation": "ALU performs arithmetic and logical operations in the CPU."
+  },
+  {
+    "question": "CU stands for",
+    "options": ["Control Unit", "Central Unit", "Computer Unit", "Core Unit"],
+    "answer": "Control Unit",
+    "explanation": "The Control Unit directs the flow of data and instructions within the CPU."
+  },
+  {
+    "question": "Which is NOT an output device?",
+    "options": ["Monitor", "Printer", "Speaker", "Scanner"],
+    "answer": "Scanner",
+    "explanation": "A scanner is an input device that captures images and text, not an output device."
+  },
+  {
+    "question": "Software piracy means",
+    "options": ["Legal software use", "Illegal copying", "Writing programs", "Testing software"],
+    "answer": "Illegal copying",
+    "explanation": "Software piracy is the unauthorized copying, distribution, or use of copyrighted software."
+  },
+  {
+    "question": "Virus is a",
+    "options": ["Hardware", "Software", "Program", "Network"],
+    "answer": "Program",
+    "explanation": "A computer virus is a malicious program that replicates and spreads to other computers."
+  },
+  {
+    "question": "Which device stores data permanently?",
+    "options": ["RAM", "ROM", "Cache", "Register"],
+    "answer": "ROM",
+    "explanation": "ROM retains data permanently even when power is off, unlike RAM, cache, and registers."
+  },
+  {
+    "question": "Backup means",
+    "options": ["Deleting files", "Copying data", "Editing files", "Printing"],
+    "answer": "Copying data",
+    "explanation": "Backup is the process of copying data to protect against loss in case of system failure."
+  },
+  {
+    "question": "Which is NOT a network type?",
+    "options": ["LAN", "WAN", "RAM", "MAN"],
+    "answer": "RAM",
+    "explanation": "RAM is computer memory, not a network type. LAN, WAN, and MAN are network classifications."
+  },
+  {
+    "question": "E-mail is used for",
+    "options": ["Gaming", "Communication", "Storage", "Printing"],
+    "answer": "Communication",
+    "explanation": "Email (electronic mail) is used to send and receive messages for communication."
+  },
+  {
+    "question": "Which is an input device?",
+    "options": ["Keyboard", "Monitor", "Printer", "Speaker"],
+    "answer": "Keyboard",
+    "explanation": "A keyboard is an input device used to enter text and commands into a computer."
+  }
+]

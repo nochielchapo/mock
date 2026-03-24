@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Data becomes information after",
+    "options": ["Storage", "Processing", "Input", "Output"],
+    "answer": "Processing",
+    "explanation": "Raw data is transformed into meaningful information through processing."
+  },
+  {
+    "question": "Which is NOT a characteristic of a computer?",
+    "options": ["Speed", "Accuracy", "Emotion", "Storage"],
+    "answer": "Emotion",
+    "explanation": "Computers lack emotions; they are machines that operate based on programmed instructions."
+  },
+  {
+    "question": "Which generation used transistors?",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "answer": "Second",
+    "explanation": "Second-generation computers (1950s-1960s) used transistors instead of vacuum tubes."
+  },
+  {
+    "question": "Integrated Circuits belong to",
+    "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
+    "answer": "Third generation",
+    "explanation": "Third-generation computers (1960s-1970s) used integrated circuits."
+  },
+  {
+    "question": "Microprocessors are associated with",
+    "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
+    "answer": "Fourth generation",
+    "explanation": "Fourth-generation computers (1970s-1980s) used microprocessors."
+  },
+  {
+    "question": "Which is NOT a data type?",
+    "options": ["Numeric", "Text", "Image", "CPU"],
+    "answer": "CPU",
+    "explanation": "CPU is hardware, not a data type. Numeric, text, and image are data types."
+  },
+  {
+    "question": "Processing involves",
+    "options": ["Input", "Output", "Transformation of data", "Storage"],
+    "answer": "Transformation of data",
+    "explanation": "Processing is the transformation of raw data into meaningful information."
+  },
+  {
+    "question": "Output is",
+    "options": ["Raw data", "Processed data", "Input data", "Stored data"],
+    "answer": "Processed data",
+    "explanation": "Output is the result produced after processing data."
+  },
+  {
+    "question": "Which stage comes first in data processing?",
+    "options": ["Output", "Storage", "Input", "Processing"],
+    "answer": "Input",
+    "explanation": "The data processing cycle begins with input of raw data."
+  },
+  {
+    "question": "Ethics in computing refers to",
+    "options": ["Illegal activities", "Proper conduct in using computers", "Hacking systems", "Copying software"],
+    "answer": "Proper conduct in using computers",
+    "explanation": "Computer ethics are moral principles that guide the use of computers and technology."
+  },
+  {
+    "question": "Software piracy means",
+    "options": ["Legal use", "Illegal copying", "Programming", "Installation"],
+    "answer": "Illegal copying",
+    "explanation": "Software piracy is the unauthorized copying or distribution of copyrighted software."
+  },
+  {
+    "question": "Which is an example of cybercrime?",
+    "options": ["Typing", "Hacking", "Printing", "Drawing"],
+    "answer": "Hacking",
+    "explanation": "Hacking is a cybercrime involving unauthorized access to computer systems."
+  },
+  {
+    "question": "ICT stands for",
+    "options": ["Information Communication Technology", "International Computer Tech", "Internal Control Tech", "Internet Control Tool"],
+    "answer": "Information Communication Technology",
+    "explanation": "ICT encompasses technologies used for communication and information management."
+  },
+  {
+    "question": "Which is NOT an ICT tool?",
+    "options": ["Computer", "Internet", "Printer", "Chair"],
+    "answer": "Chair",
+    "explanation": "A chair is furniture, not an ICT tool used for information and communication."
+  },
+  {
+    "question": "Which is used for communication?",
+    "options": ["Email", "Excel", "Paint", "Word"],
+    "answer": "Email",
+    "explanation": "Email is used for electronic communication."
+  },
+  {
+    "question": "Internet is",
+    "options": ["A device", "Network of networks", "Software", "Program"],
+    "answer": "Network of networks",
+    "explanation": "The internet is a global network connecting millions of computers worldwide."
+  },
+  {
+    "question": "A website address is called",
+    "options": ["HTML", "URL", "HTTP", "FTP"],
+    "answer": "URL",
+    "explanation": "A URL (Uniform Resource Locator) is the address of a website on the internet."
+  },
+  {
+    "question": "Which is a browser?",
+    "options": ["Word", "Chrome", "Excel", "Paint"],
+    "answer": "Chrome",
+    "explanation": "Google Chrome is a web browser used to access the internet."
+  },
+  {
+    "question": "Which is a search engine?",
+    "options": ["Google", "Word", "Excel", "Paint"],
+    "answer": "Google",
+    "explanation": "Google is a search engine that helps users find information online."
+  },
+  {
+    "question": "FTP is used for",
+    "options": ["Email", "File transfer", "Printing", "Browsing"],
+    "answer": "File transfer",
+    "explanation": "FTP (File Transfer Protocol) is used to transfer files between computers on a network."
+  },
+  {
+    "question": "Which protocol is used for web pages?",
+    "options": ["HTTP", "FTP", "SMTP", "TCP"],
+    "answer": "HTTP",
+    "explanation": "HTTP (Hypertext Transfer Protocol) is used to transfer web pages."
+  },
+  {
+    "question": "Which is NOT internet service?",
+    "options": ["Email", "FTP", "HTTP", "ALU"],
+    "answer": "ALU",
+    "explanation": "ALU is a CPU component, not an internet service."
+  },
+  {
+    "question": "Which is a security threat?",
+    "options": ["Virus", "Keyboard", "Monitor", "Printer"],
+    "answer": "Virus",
+    "explanation": "A computer virus is a security threat that can damage or disrupt systems."
+  },
+  {
+    "question": "A virus is",
+    "options": ["Hardware", "Malicious program", "Device", "Network"],
+    "answer": "Malicious program",
+    "explanation": "A virus is a malicious program designed to replicate and cause harm."
+  },
+  {
+    "question": "Which prevents virus?",
+    "options": ["Antivirus", "Printer", "Mouse", "Monitor"],
+    "answer": "Antivirus",
+    "explanation": "Antivirus software detects and removes viruses."
+  },
+  {
+    "question": "Which is NOT malware?",
+    "options": ["Worm", "Trojan", "Virus", "Firewall"],
+    "answer": "Firewall",
+    "explanation": "Firewall is a security tool that protects against malware, but it is not malware itself."
+  },
+  {
+    "question": "Phishing involves",
+    "options": ["Fishing", "Fake messages to steal data", "Printing", "Drawing"],
+    "answer": "Fake messages to steal data",
+    "explanation": "Phishing is a cyber attack using fake messages to trick victims into revealing sensitive information."
+  },
+  {
+    "question": "Encryption is used for",
+    "options": ["Speed", "Security", "Storage", "Input"],
+    "answer": "Security",
+    "explanation": "Encryption secures data by converting it into an unreadable format."
+  },
+  {
+    "question": "Password is used for",
+    "options": ["Decoration", "Protection", "Storage", "Output"],
+    "answer": "Protection",
+    "explanation": "Passwords protect access to computer systems and data."
+  },
+  {
+    "question": "Which is a good password?",
+    "options": ["1234", "Password", "Abc@1234", "Name"],
+    "answer": "Abc@1234",
+    "explanation": "A strong password contains a mix of letters, numbers, and special characters."
+  },
+  {
+    "question": "File management involves",
+    "options": ["Deleting only", "Organizing files", "Printing", "Drawing"],
+    "answer": "Organizing files",
+    "explanation": "File management includes creating, organizing, storing, and managing files."
+  },
+  {
+    "question": "Folder is used to",
+    "options": ["Print", "Store files", "Input", "Output"],
+    "answer": "Store files",
+    "explanation": "Folders (directories) are used to organize and store files."
+  },
+  {
+    "question": "Which is NOT file operation?",
+    "options": ["Copy", "Delete", "Print", "Move"],
+    "answer": "Print",
+    "explanation": "Printing is an output operation, not a file management operation like copy, delete, or move."
+  },
+  {
+    "question": "Operating system is",
+    "options": ["Hardware", "Software managing resources", "Device", "Network"],
+    "answer": "Software managing resources",
+    "explanation": "An operating system is system software that manages computer hardware and software resources."
+  },
+  {
+    "question": "Which is OS example?",
+    "options": ["Windows", "Word", "Excel", "Paint"],
+    "answer": "Windows",
+    "explanation": "Windows is an operating system; Word, Excel, and Paint are application software."
+  },
+  {
+    "question": "OS manages",
+    "options": ["Hardware and software", "Only input", "Only output", "Only storage"],
+    "answer": "Hardware and software",
+    "explanation": "The operating system manages both hardware components and software applications."
+  },
+  {
+    "question": "Multitasking means",
+    "options": ["One task", "Multiple tasks", "No task", "Slow task"],
+    "answer": "Multiple tasks",
+    "explanation": "Multitasking allows running multiple programs simultaneously."
+  },
+  {
+    "question": "Real-time system is used in",
+    "options": ["Banking", "Air traffic control", "Typing", "Drawing"],
+    "answer": "Air traffic control",
+    "explanation": "Real-time systems respond to events instantly, critical for applications like air traffic control."
+  },
+  {
+    "question": "Database is",
+    "options": ["Device", "Organized data", "Program", "Network"],
+    "answer": "Organized data",
+    "explanation": "A database is an organized collection of structured data."
+  },
+  {
+    "question": "Table in database consists of",
+    "options": ["Records and fields", "CPU and RAM", "Input and output", "Files only"],
+    "answer": "Records and fields",
+    "explanation": "Database tables consist of records (rows) and fields (columns)."
+  },
+  {
+    "question": "Record is",
+    "options": ["Row", "Column", "Table", "Database"],
+    "answer": "Row",
+    "explanation": "A record is a row in a database table containing data about one item."
+  },
+  {
+    "question": "Field is",
+    "options": ["Row", "Column", "Table", "Record"],
+    "answer": "Column",
+    "explanation": "A field is a column in a database table representing a specific attribute."
+  },
+  {
+    "question": "Primary key is",
+    "options": ["Duplicate", "Unique identifier", "Password", "Field"],
+    "answer": "Unique identifier",
+    "explanation": "A primary key uniquely identifies each record in a database table."
+  },
+  {
+    "question": "Which reduces redundancy?",
+    "options": ["Backup", "Normalization", "Formatting", "Sorting"],
+    "answer": "Normalization",
+    "explanation": "Normalization organizes data to reduce redundancy and improve database integrity."
+  },
+  {
+    "question": "SQL is used for",
+    "options": ["Typing", "Data management", "Drawing", "Printing"],
+    "answer": "Data management",
+    "explanation": "SQL is used to manage and query relational databases."
+  },
+  {
+    "question": "SELECT command is used to",
+    "options": ["Insert", "Retrieve", "Delete", "Update"],
+    "answer": "Retrieve",
+    "explanation": "SELECT retrieves data from a database."
+  },
+  {
+    "question": "Which is high-level language?",
+    "options": ["Binary", "Assembly", "Python", "Machine"],
+    "answer": "Python",
+    "explanation": "Python is a high-level programming language; binary, assembly, and machine are low-level."
+  },
+  {
+    "question": "Compiler translates",
+    "options": ["Line by line", "Whole program", "Data", "Output"],
+    "answer": "Whole program",
+    "explanation": "A compiler translates the entire source code at once."
+  },
+  {
+    "question": "Interpreter translates",
+    "options": ["Whole program", "Line by line", "Binary", "Input"],
+    "answer": "Line by line",
+    "explanation": "An interpreter executes code line by line."
+  },
+  {
+    "question": "Bandwidth refers to",
+    "options": ["Storage", "Data transfer rate", "CPU speed", "Memory"],
+    "answer": "Data transfer rate",
+    "explanation": "Bandwidth measures the maximum data transfer rate over a network."
+  }
+]

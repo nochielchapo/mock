@@ -1,0 +1,302 @@
+[
+  {
+    "question": "An input device is used to",
+    "options": ["Display data", "Enter data", "Store data", "Process data"],
+    "answer": "Enter data",
+    "explanation": "Input devices are used to enter data and instructions into a computer system."
+  },
+  {
+    "question": "Which is an output device?",
+    "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+    "answer": "Monitor",
+    "explanation": "A monitor displays visual output, while keyboard, mouse, and scanner are input devices."
+  },
+  {
+    "question": "CPU stands for",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Control Program Unit", "Central Program Utility"],
+    "answer": "Central Processing Unit",
+    "explanation": "CPU is the central processing unit that executes instructions and processes data."
+  },
+  {
+    "question": "Which is NOT hardware?",
+    "options": ["Keyboard", "Monitor", "Windows", "Mouse"],
+    "answer": "Windows",
+    "explanation": "Windows is an operating system (software), while the others are physical hardware components."
+  },
+  {
+    "question": "Which memory is volatile?",
+    "options": ["ROM", "RAM", "Disk", "CD"],
+    "answer": "RAM",
+    "explanation": "RAM loses its contents when power is turned off, making it volatile memory."
+  },
+  {
+    "question": "Which is system software?",
+    "options": ["Excel", "Word", "Windows", "Paint"],
+    "answer": "Windows",
+    "explanation": "Windows is system software that manages hardware and provides a platform for applications."
+  },
+  {
+    "question": "A computer processes",
+    "options": ["Information", "Data", "Signals", "Output"],
+    "answer": "Data",
+    "explanation": "Computers process raw data to produce meaningful information."
+  },
+  {
+    "question": "The smallest unit of data is",
+    "options": ["Byte", "Bit", "Kilobyte", "Word"],
+    "answer": "Bit",
+    "explanation": "A bit is the smallest unit of digital data, representing a binary value of 0 or 1."
+  },
+  {
+    "question": "A byte is equal to",
+    "options": ["4 bits", "8 bits", "16 bits", "2 bits"],
+    "answer": "8 bits",
+    "explanation": "One byte consists of 8 bits."
+  },
+  {
+    "question": "The brain of the computer is",
+    "options": ["Monitor", "CPU", "Keyboard", "Printer"],
+    "answer": "CPU",
+    "explanation": "The CPU is called the brain because it performs all processing and controls operations."
+  },
+  {
+    "question": "Which device is used for printing?",
+    "options": ["Scanner", "Printer", "Mouse", "Keyboard"],
+    "answer": "Printer",
+    "explanation": "A printer produces hard copy output on paper."
+  },
+  {
+    "question": "ROM is",
+    "options": ["Read Only Memory", "Random Only Memory", "Read Open Memory", "Run Only Memory"],
+    "answer": "Read Only Memory",
+    "explanation": "ROM is non-volatile memory that can only be read, not written to under normal operation."
+  },
+  {
+    "question": "Which is a storage device?",
+    "options": ["RAM", "Monitor", "Printer", "Speaker"],
+    "answer": "RAM",
+    "explanation": "RAM is primary storage that temporarily holds data for processing."
+  },
+  {
+    "question": "Which is NOT an input device?",
+    "options": ["Mouse", "Scanner", "Monitor", "Keyboard"],
+    "answer": "Monitor",
+    "explanation": "A monitor is an output device that displays information."
+  },
+  {
+    "question": "Spreadsheet software is used for",
+    "options": ["Typing", "Drawing", "Calculations", "Printing"],
+    "answer": "Calculations",
+    "explanation": "Spreadsheets are primarily used for calculations, data analysis, and financial tasks."
+  },
+  {
+    "question": "The function of ALU is",
+    "options": ["Input", "Output", "Calculation", "Storage"],
+    "answer": "Calculation",
+    "explanation": "ALU performs arithmetic calculations and logical operations."
+  },
+  {
+    "question": "GUI stands for",
+    "options": ["General User Interface", "Graphical User Interface", "Global User Interface", "Graphic Utility Interface"],
+    "answer": "Graphical User Interface",
+    "explanation": "GUI allows users to interact with computers using graphical elements like icons and windows."
+  },
+  {
+    "question": "Which is an example of application software?",
+    "options": ["Windows", "Linux", "Word", "DOS"],
+    "answer": "Word",
+    "explanation": "Microsoft Word is application software for word processing, while Windows, Linux, and DOS are operating systems."
+  },
+  {
+    "question": "Which device displays output?",
+    "options": ["Printer", "Monitor", "Scanner", "Mouse"],
+    "answer": "Monitor",
+    "explanation": "A monitor displays visual output such as text, images, and videos."
+  },
+  {
+    "question": "Which is NOT a storage device?",
+    "options": ["Flash drive", "CD", "Monitor", "Hard disk"],
+    "answer": "Monitor",
+    "explanation": "A monitor is an output device, not used for data storage."
+  },
+  {
+    "question": "LAN stands for",
+    "options": ["Local Area Network", "Large Area Network", "Link Area Network", "Long Area Network"],
+    "answer": "Local Area Network",
+    "explanation": "LAN connects computers within a limited geographical area like a building or campus."
+  },
+  {
+    "question": "Which is used for communication?",
+    "options": ["Email", "Word", "Paint", "Excel"],
+    "answer": "Email",
+    "explanation": "Email is an electronic communication tool for sending and receiving messages."
+  },
+  {
+    "question": "Internet is",
+    "options": ["A device", "Network of networks", "Software", "Program"],
+    "answer": "Network of networks",
+    "explanation": "The internet is a global system of interconnected computer networks."
+  },
+  {
+    "question": "Which is a browser?",
+    "options": ["Word", "Chrome", "Excel", "Paint"],
+    "answer": "Chrome",
+    "explanation": "Google Chrome is a web browser used to access websites on the internet."
+  },
+  {
+    "question": "Virus is",
+    "options": ["Hardware", "Software", "Program", "Network"],
+    "answer": "Program",
+    "explanation": "A computer virus is a malicious program that replicates and spreads."
+  },
+  {
+    "question": "Which is used to detect viruses?",
+    "options": ["Antivirus", "Firewall", "Router", "Switch"],
+    "answer": "Antivirus",
+    "explanation": "Antivirus software detects, prevents, and removes malicious software like viruses."
+  },
+  {
+    "question": "Backup means",
+    "options": ["Delete files", "Copy data", "Print data", "Edit data"],
+    "answer": "Copy data",
+    "explanation": "Backup is the process of copying data to protect against loss."
+  },
+  {
+    "question": "Which is NOT a network device?",
+    "options": ["Router", "Switch", "CPU", "Hub"],
+    "answer": "CPU",
+    "explanation": "CPU is a computer component, not a networking device like router, switch, or hub."
+  },
+  {
+    "question": "Which identifies a computer on a network?",
+    "options": ["URL", "IP address", "HTTP", "HTML"],
+    "answer": "IP address",
+    "explanation": "An IP address uniquely identifies each device on a network."
+  },
+  {
+    "question": "Which protocol is used for web browsing?",
+    "options": ["FTP", "HTTP", "SMTP", "TCP"],
+    "answer": "HTTP",
+    "explanation": "HTTP (Hypertext Transfer Protocol) is used for transferring web pages."
+  },
+  {
+    "question": "Which is NOT malware?",
+    "options": ["Virus", "Worm", "Trojan", "Firewall"],
+    "answer": "Firewall",
+    "explanation": "A firewall is a security system that protects networks, while viruses, worms, and Trojans are malware."
+  },
+  {
+    "question": "Which is a security method?",
+    "options": ["Password", "Printer", "Monitor", "Mouse"],
+    "answer": "Password",
+    "explanation": "A password is an authentication method used to secure access to systems and data."
+  },
+  {
+    "question": "Which device connects networks?",
+    "options": ["Router", "Hub", "Switch", "Repeater"],
+    "answer": "Router",
+    "explanation": "A router connects different networks and directs data traffic between them."
+  },
+  {
+    "question": "Which topology uses a central hub?",
+    "options": ["Bus", "Ring", "Star", "Mesh"],
+    "answer": "Star",
+    "explanation": "In star topology, all devices are connected to a central hub or switch."
+  },
+  {
+    "question": "Which is NOT a topology?",
+    "options": ["Star", "Ring", "LAN", "Bus"],
+    "answer": "LAN",
+    "explanation": "LAN is a network type, not a topology. Star, ring, and bus are network topologies."
+  },
+  {
+    "question": "Database is",
+    "options": ["Device", "Organized data", "Program", "Network"],
+    "answer": "Organized data",
+    "explanation": "A database is an organized collection of structured data stored electronically."
+  },
+  {
+    "question": "Primary key is",
+    "options": ["Duplicate", "Unique identifier", "Password", "Field"],
+    "answer": "Unique identifier",
+    "explanation": "A primary key uniquely identifies each record in a database table."
+  },
+  {
+    "question": "Which reduces redundancy?",
+    "options": ["Backup", "Normalization", "Formatting", "Sorting"],
+    "answer": "Normalization",
+    "explanation": "Normalization organizes data to minimize redundancy and improve integrity."
+  },
+  {
+    "question": "SQL is used for",
+    "options": ["Drawing", "Data management", "Printing", "Typing"],
+    "answer": "Data management",
+    "explanation": "SQL (Structured Query Language) is used to manage and manipulate relational databases."
+  },
+  {
+    "question": "SELECT command is used to",
+    "options": ["Delete", "Retrieve", "Update", "Insert"],
+    "answer": "Retrieve",
+    "explanation": "The SELECT command retrieves data from a database."
+  },
+  {
+    "question": "Which is high-level language?",
+    "options": ["Binary", "Assembly", "Java", "Machine"],
+    "answer": "Java",
+    "explanation": "Java is a high-level programming language, while binary, assembly, and machine are low-level."
+  },
+  {
+    "question": "Compiler translates",
+    "options": ["Line by line", "Whole program", "Data", "Output"],
+    "answer": "Whole program",
+    "explanation": "A compiler translates the entire source code into machine code before execution."
+  },
+  {
+    "question": "Interpreter translates",
+    "options": ["Whole program", "Line by line", "Binary", "Input"],
+    "answer": "Line by line",
+    "explanation": "An interpreter translates and executes code line by line."
+  },
+  {
+    "question": "Bandwidth means",
+    "options": ["Storage", "Speed", "Data rate", "Memory"],
+    "answer": "Data rate",
+    "explanation": "Bandwidth refers to the maximum data transfer rate of a network or internet connection."
+  },
+  {
+    "question": "Which is non-volatile?",
+    "options": ["RAM", "Cache", "ROM", "Register"],
+    "answer": "ROM",
+    "explanation": "ROM retains data even when power is off, making it non-volatile."
+  },
+  {
+    "question": "Which memory is fastest?",
+    "options": ["RAM", "Disk", "Register", "Flash"],
+    "answer": "Register",
+    "explanation": "Registers are the fastest memory, located inside the CPU for immediate data access."
+  },
+  {
+    "question": "Which is NOT OS function?",
+    "options": ["File management", "Memory management", "Printing", "Cooking"],
+    "answer": "Cooking",
+    "explanation": "Cooking is not a function of an operating system; OS manages hardware and software resources."
+  },
+  {
+    "question": "Multitasking means",
+    "options": ["One task", "Multiple tasks", "No task", "Slow task"],
+    "answer": "Multiple tasks",
+    "explanation": "Multitasking allows multiple programs to run simultaneously on a computer."
+  },
+  {
+    "question": "Encryption is used for",
+    "options": ["Speed", "Security", "Storage", "Input"],
+    "answer": "Security",
+    "explanation": "Encryption converts data into a coded format to protect it from unauthorized access."
+  },
+  {
+    "question": "Which is NOT internet service?",
+    "options": ["Email", "FTP", "HTTP", "ALU"],
+    "answer": "ALU",
+    "explanation": "ALU is a CPU component, not an internet service. Email, FTP, and HTTP are internet services."
+  }
+]

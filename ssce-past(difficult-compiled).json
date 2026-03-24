@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following best describes firmware?",
+    "options": ["Temporary memory", "Software embedded in hardware", "Application software", "Input device"],
+    "answer": "Software embedded in hardware",
+    "explanation": "Firmware is permanent software programmed into read-only memory."
+  },
+  {
+    "question": "The fetch-decode-execute cycle is carried out by the",
+    "options": ["RAM", "ALU", "CPU", "ROM"],
+    "answer": "CPU",
+    "explanation": "The CPU performs the fetch-decode-execute cycle to process instructions."
+  },
+  {
+    "question": "Which memory type is both volatile and cache-based?",
+    "options": ["ROM", "Cache memory", "Flash", "Disk"],
+    "answer": "Cache memory",
+    "explanation": "Cache memory is volatile and used for high-speed data access."
+  },
+  {
+    "question": "A computer that combines analog and digital features is",
+    "options": ["Hybrid computer", "Mainframe", "Supercomputer", "Microcomputer"],
+    "answer": "Hybrid computer",
+    "explanation": "Hybrid computers combine analog and digital characteristics."
+  },
+  {
+    "question": "Which topology requires a central device?",
+    "options": ["Ring", "Bus", "Star", "Mesh"],
+    "answer": "Star",
+    "explanation": "Star topology requires a central hub or switch."
+  },
+  {
+    "question": "A translator that converts assembly language to machine code is",
+    "options": ["Compiler", "Interpreter", "Assembler", "Debugger"],
+    "answer": "Assembler",
+    "explanation": "An assembler translates assembly language into machine code."
+  },
+  {
+    "question": "Which is NOT a function of an operating system?",
+    "options": ["File management", "Device control", "Program translation", "Memory management"],
+    "answer": "Program translation",
+    "explanation": "Program translation is done by compilers and assemblers, not the OS."
+  },
+  {
+    "question": "In spreadsheets, absolute referencing is denoted by",
+    "options": ["#", "$", "%", "&"],
+    "answer": "$",
+    "explanation": "Absolute referencing in spreadsheets uses the $ symbol (e.g., $A$1)."
+  },
+  {
+    "question": "Which number system is base 16?",
+    "options": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+    "answer": "Hexadecimal",
+    "explanation": "Hexadecimal uses base 16 with digits 0-9 and A-F."
+  },
+  {
+    "question": "The time taken to access data is called",
+    "options": ["Access time", "Cycle time", "Processing time", "Execution time"],
+    "answer": "Access time",
+    "explanation": "Access time is the delay between a request and data retrieval."
+  },
+  {
+    "question": "Which device converts digital signals to analog?",
+    "options": ["Router", "Switch", "Modem", "Hub"],
+    "answer": "Modem",
+    "explanation": "A modem converts digital signals to analog for transmission and vice versa."
+  },
+  {
+    "question": "Which is NOT a primary storage device?",
+    "options": ["Cache", "RAM", "ROM", "Hard disk"],
+    "answer": "Hard disk",
+    "explanation": "Hard disk is secondary storage; cache, RAM, and ROM are primary storage."
+  },
+  {
+    "question": "Multitasking refers to",
+    "options": ["Running multiple users", "Running multiple programs simultaneously", "Multiple CPUs", "Fast processing"],
+    "answer": "Running multiple programs simultaneously",
+    "explanation": "Multitasking allows concurrent execution of multiple programs."
+  },
+  {
+    "question": "A pixel refers to",
+    "options": ["Printer unit", "Screen resolution element", "Data unit", "Memory unit"],
+    "answer": "Screen resolution element",
+    "explanation": "A pixel is the smallest unit of a digital image or display."
+  },
+  {
+    "question": "Which protocol is used for web pages?",
+    "options": ["FTP", "HTTP", "SMTP", "TCP"],
+    "answer": "HTTP",
+    "explanation": "HTTP transfers web pages from servers to browsers."
+  },
+  {
+    "question": "Which of the following is NOT an example of secondary storage?",
+    "options": ["SSD", "HDD", "RAM", "CD"],
+    "answer": "RAM",
+    "explanation": "RAM is primary storage; SSD, HDD, and CD are secondary storage."
+  },
+  {
+    "question": "Interrupts are signals that",
+    "options": ["Stop power supply", "Request CPU attention", "Delete data", "Format memory"],
+    "answer": "Request CPU attention",
+    "explanation": "Interrupts signal the CPU to pause current tasks and handle urgent events."
+  },
+  {
+    "question": "GUI improves usability through",
+    "options": ["Commands", "Graphics and icons", "Codes", "Programming"],
+    "answer": "Graphics and icons",
+    "explanation": "GUI uses visual elements like icons and windows for user interaction."
+  },
+  {
+    "question": "The smallest addressable unit in memory is",
+    "options": ["Bit", "Byte", "Word", "Block"],
+    "answer": "Byte",
+    "explanation": "Most computer systems address memory at the byte level."
+  },
+  {
+    "question": "Which generation introduced ICs?",
+    "options": ["1st", "2nd", "3rd", "4th"],
+    "answer": "3rd",
+    "explanation": "Integrated circuits were introduced in the third generation of computers."
+  },
+  {
+    "question": "Which is NOT a type of computer network?",
+    "options": ["PAN", "LAN", "WAN", "CPU"],
+    "answer": "CPU",
+    "explanation": "CPU is a computer component, not a network type."
+  },
+  {
+    "question": "Which device performs routing?",
+    "options": ["Hub", "Router", "Switch", "Modem"],
+    "answer": "Router",
+    "explanation": "Routers direct data packets between networks."
+  },
+  {
+    "question": "Which is an example of utility software?",
+    "options": ["Antivirus", "Word", "Excel", "PowerPoint"],
+    "answer": "Antivirus",
+    "explanation": "Antivirus is utility software that protects against malware."
+  },
+  {
+    "question": "Spooling is associated with",
+    "options": ["Printing", "Input", "Processing", "Storage"],
+    "answer": "Printing",
+    "explanation": "Spooling buffers print jobs to improve efficiency."
+  },
+  {
+    "question": "Which is a high-level language?",
+    "options": ["Assembly", "Machine", "Java", "Binary"],
+    "answer": "Java",
+    "explanation": "Java is a high-level programming language."
+  },
+  {
+    "question": "Which of the following best describes virtualization?",
+    "options": ["Running multiple OS on one machine", "Increasing RAM", "Using external storage", "Connecting networks"],
+    "answer": "Running multiple OS on one machine",
+    "explanation": "Virtualization allows multiple operating systems to run on a single physical machine."
+  },
+  {
+    "question": "The bootstrap program is stored in",
+    "options": ["RAM", "ROM", "Cache", "Hard disk"],
+    "answer": "ROM",
+    "explanation": "The bootstrap loader is stored in ROM and runs at startup."
+  },
+  {
+    "question": "Which scheduling method gives equal CPU time?",
+    "options": ["FIFO", "Round Robin", "Priority", "SJF"],
+    "answer": "Round Robin",
+    "explanation": "Round Robin allocates equal CPU time slices to each process."
+  },
+  {
+    "question": "Which of the following is NOT a function of the ALU?",
+    "options": ["Addition", "Comparison", "Logic operations", "Data storage"],
+    "answer": "Data storage",
+    "explanation": "Data storage is handled by memory, not the ALU."
+  },
+  {
+    "question": "Which is an example of a real-time system?",
+    "options": ["Payroll system", "Banking system", "Air traffic control", "Word processing"],
+    "answer": "Air traffic control",
+    "explanation": "Air traffic control requires real-time responses to events."
+  },
+  {
+    "question": "Parity bit is used for",
+    "options": ["Storage", "Error detection", "Processing", "Output"],
+    "answer": "Error detection",
+    "explanation": "Parity bits help detect errors in data transmission."
+  },
+  {
+    "question": "Which device amplifies signals in a network?",
+    "options": ["Router", "Repeater", "Switch", "Bridge"],
+    "answer": "Repeater",
+    "explanation": "A repeater amplifies and regenerates network signals."
+  },
+  {
+    "question": "Which is NOT a characteristic of cloud computing?",
+    "options": ["On-demand access", "Scalability", "Local storage only", "Remote servers"],
+    "answer": "Local storage only",
+    "explanation": "Cloud computing uses remote servers, not just local storage."
+  },
+  {
+    "question": "Which is the fastest memory?",
+    "options": ["RAM", "Cache", "Register", "ROM"],
+    "answer": "Register",
+    "explanation": "Registers inside the CPU have the fastest access speed."
+  },
+  {
+    "question": "Which language is closest to machine language?",
+    "options": ["Java", "Assembly", "Python", "BASIC"],
+    "answer": "Assembly",
+    "explanation": "Assembly language has a one-to-one correspondence with machine code."
+  },
+  {
+    "question": "Which is NOT a type of malware?",
+    "options": ["Worm", "Trojan", "Firewall", "Spyware"],
+    "answer": "Firewall",
+    "explanation": "Firewall is a security tool, not malware."
+  },
+  {
+    "question": "The term bandwidth refers to",
+    "options": ["Storage size", "Data transmission capacity", "CPU speed", "Memory size"],
+    "answer": "Data transmission capacity",
+    "explanation": "Bandwidth is the maximum data transfer rate of a network."
+  },
+  {
+    "question": "Which is used to uniquely identify a computer on a network?",
+    "options": ["URL", "IP address", "Domain", "Protocol"],
+    "answer": "IP address",
+    "explanation": "IP addresses uniquely identify devices on a network."
+  },
+  {
+    "question": "Which device filters network traffic?",
+    "options": ["Router", "Firewall", "Switch", "Hub"],
+    "answer": "Firewall",
+    "explanation": "Firewalls filter network traffic based on security rules."
+  },
+  {
+    "question": "Which is NOT a database model?",
+    "options": ["Relational", "Hierarchical", "Network", "Linear"],
+    "answer": "Linear",
+    "explanation": "Linear is not a database model; relational, hierarchical, and network are."
+  },
+  {
+    "question": "Which SQL command retrieves data?",
+    "options": ["INSERT", "DELETE", "SELECT", "UPDATE"],
+    "answer": "SELECT",
+    "explanation": "SELECT retrieves data from a database."
+  },
+  {
+    "question": "Which is NOT a programming paradigm?",
+    "options": ["Procedural", "Object-oriented", "Functional", "Mechanical"],
+    "answer": "Mechanical",
+    "explanation": "Mechanical is not a programming paradigm; procedural, object-oriented, and functional are."
+  },
+  {
+    "question": "Which is a benefit of normalization?",
+    "options": ["Data redundancy", "Data inconsistency", "Reduced duplication", "Increased errors"],
+    "answer": "Reduced duplication",
+    "explanation": "Normalization reduces data redundancy and duplication."
+  },
+  {
+    "question": "Which file extension represents an executable file?",
+    "options": [".txt", ".doc", ".exe", ".xls"],
+    "answer": ".exe",
+    "explanation": ".exe files are executable programs."
+  },
+  {
+    "question": "Which is NOT an example of volatile memory?",
+    "options": ["RAM", "Cache", "Register", "ROM"],
+    "answer": "ROM",
+    "explanation": "ROM is non-volatile; RAM, cache, and registers are volatile."
+  },
+  {
+    "question": "Which device connects different networks?",
+    "options": ["Hub", "Router", "Switch", "Repeater"],
+    "answer": "Router",
+    "explanation": "Routers connect different networks and direct traffic between them."
+  },
+  {
+    "question": "Encryption is used for",
+    "options": ["Speed", "Security", "Storage", "Input"],
+    "answer": "Security",
+    "explanation": "Encryption protects data security by making it unreadable without a key."
+  },
+  {
+    "question": "Which is a disadvantage of star topology?",
+    "options": ["Slow speed", "Central node failure affects all", "Difficult to install", "Expensive cables"],
+    "answer": "Central node failure affects all",
+    "explanation": "If the central hub fails, the entire star network fails."
+  },
+  {
+    "question": "Which is NOT an internet service?",
+    "options": ["Email", "FTP", "HTTP", "ALU"],
+    "answer": "ALU",
+    "explanation": "ALU is a CPU component, not an internet service."
+  },
+  {
+    "question": "Which storage device uses magnetic disks?",
+    "options": ["SSD", "HDD", "Flash", "ROM"],
+    "answer": "HDD",
+    "explanation": "Hard Disk Drives (HDD) use magnetic platters for storage."
+  }
+]
