@@ -12,12 +12,6 @@
     "explanation": "The control unit manages and directs data flow between the ALU and memory."
   },
   {
-    "question": "Which of the following is a pointing device?",
-    "options": ["Keyboard", "Trackball", "Monitor", "Hard Disk"],
-    "answer": "Trackball",
-    "explanation": "A trackball is a pointing device used to control the cursor."
-  },
-  {
     "question": "A computer that processes data in a continuous form (like temperature or speed) is:",
     "options": ["Digital", "Analog", "Hybrid", "Mainframe"],
     "answer": "Analog",
@@ -30,12 +24,6 @@
     "explanation": "CPU speed is measured in gigahertz (GHz), representing billions of cycles per second."
   },
   {
-    "question": "Which memory type is volatile (loses data when power is off)?",
-    "options": ["RAM", "ROM", "EPROM", "Hard Disk"],
-    "answer": "RAM",
-    "explanation": "RAM is volatile memory that loses its contents when power is turned off."
-  },
-  {
     "question": "How many bits make up a Nibble?",
     "options": ["8", "2", "4", "16"],
     "answer": "4",
@@ -46,12 +34,6 @@
     "options": ["1111", "1010", "1001", "0001"],
     "answer": "1010",
     "explanation": "Decimal 10 is represented as 1010 in binary."
-  },
-  {
-    "question": "Which of the following is an Input device?",
-    "options": ["Projector", "Plotter", "Light Pen", "Speaker"],
-    "answer": "Light Pen",
-    "explanation": "A light pen is an input device used to interact with the computer screen."
   },
   {
     "question": "A collection of 8 bits is referred to as a:",
@@ -126,22 +108,10 @@
     "explanation": "System software manages and controls computer hardware resources."
   },
   {
-    "question": "An example of an Operating System is:",
-    "options": ["MS Word", "Linux", "CorelDraw", "Norton Antivirus"],
-    "answer": "Linux",
-    "explanation": "Linux is an operating system that manages hardware and software resources."
-  },
-  {
     "question": "Which utility is used to protect a computer from malicious files?",
     "options": ["Defragmenter", "Antivirus", "Screen Saver", "Media Player"],
     "answer": "Antivirus",
     "explanation": "Antivirus software protects computers from malicious files and programs."
-  },
-  {
-    "question": "A network that connects computers within a single room or building is:",
-    "options": ["LAN", "WAN", "MAN", "PAN"],
-    "answer": "LAN",
-    "explanation": "A Local Area Network (LAN) connects computers within a limited area like a room or building."
   },
   {
     "question": "The physical layout of a network is called:",
@@ -168,22 +138,10 @@
     "explanation": "SMTP (Simple Mail Transfer Protocol) is used to send emails."
   },
   {
-    "question": "A unique field that identifies a record in a database is the:",
-    "options": ["Foreign Key", "Primary Key", "Candidate Key", "Composite Key"],
-    "answer": "Primary Key",
-    "explanation": "A primary key uniquely identifies each record in a database table."
-  },
-  {
     "question": "In Microsoft Access, the columns of a table are known as:",
     "options": ["Records", "Fields", "Tables", "Rows"],
     "answer": "Fields",
     "explanation": "In Access, columns are called fields, which store data attributes."
-  },
-  {
-    "question": "Which of the following is not a web browser?",
-    "options": ["Google Chrome", "Safari", "Microsoft Access", "Opera Mini"],
-    "answer": "Microsoft Access",
-    "explanation": "Microsoft Access is a database management tool, not a web browser."
   },
   {
     "question": "The 's' in HTTPS stands for:",
@@ -312,12 +270,6 @@
     "explanation": "The second generation of computers used transistors instead of vacuum tubes."
   },
   {
-    "question": "A network device that connects a LAN to the Internet is a:",
-    "options": ["Router", "Monitor", "Keyboard", "Mouse"],
-    "answer": "Router",
-    "explanation": "A router connects a LAN to external networks like the Internet."
-  },
-  {
     "question": "Which coding system uses 16 bits to represent characters globally?",
     "options": ["ASCII", "EBCDIC", "Unicode", "BCD"],
     "answer": "Unicode",
@@ -328,12 +280,6 @@
     "options": ["Block", "Cell", "Range", "Label"],
     "answer": "Cell",
     "explanation": "A cell is the intersection of a row and a column in Excel."
-  },
-  {
-    "question": "The shortcut to Paste a copied item is:",
-    "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + P"],
-    "answer": "Ctrl + V",
-    "explanation": "Ctrl + V is the keyboard shortcut for pasting."
   },
   {
     "question": "Which protocol is used for browsing the web?",
@@ -348,16 +294,9 @@
     "explanation": "A virus is a self-replicating computer program."
   },
   {
-    "question": "The primary use of MS Excel is:",
-    "options": ["Document creation", "Spreadsheet/Calculations", "Video editing", "Photo editing"],
-    "answer": "Spreadsheet/Calculations",
-    "explanation": "MS Excel is primarily used for spreadsheets and calculations."
-  },
-  {
     "question": "Which of these is a Secondary Storage device?",
     "options": ["RAM", "Register", "Flash Drive", "Cache"],
     "answer": "Flash Drive",
     "explanation": "Flash drives are secondary storage devices used to store data permanently."
   }
 ]
-
