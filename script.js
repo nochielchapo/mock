@@ -63,10 +63,22 @@ const toggleBtn = document.getElementById("theme-toggle");
       function getQuizFileForClass(studentClass) {
         const classToQuizMap = {
           "Computer Studies": "questions_computer.json",
+            "Computer Studies 2021": "ssce-past(2010).json",
+            "Computer Studies 2021": "ssce-past(2011).json",
+            "Computer Studies 2021": "ssce-past(2012).json",
+            "Computer Studies 2021": "ssce-past(2013).json",
+            "Computer Studies 2021": "ssce-past(2014).json",
+            "Computer Studies 2021": "ssce-past(2015).json",
+            "Computer Studies 2021": "ssce-past(2016).json",
+            "Computer Studies 2021": "ssce-past(2017).json",
+            "Computer Studies 2021": "ssce-past(2018).json",
+            "Computer Studies 2021": "ssce-past(2019).json",
+            "Computer Studies 2021": "ssce-past(2020).json",
           "Computer Studies 2021": "ssce-past(2021).json",
           "Computer Studies 2022": "ssce-past(2022).json",
           "Computer Studies 2023": "ssce-past(2023).json",
           "Computer Studies 2024": "ssce-past(2024).json",
+            "Computer Studies 2024": "ssce-past(2025).json",
           "Computer Studies (Another)": "ssce-past(another).json",
           "Computer Studies (Difficult)": "ssce-past(difficult-compiled).json",
         };
