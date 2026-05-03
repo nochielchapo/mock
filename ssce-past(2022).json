@@ -1,302 +1,302 @@
 [
   {
-    "question": "Which of the following is an example of an online learning platform?",
-    "options": ["Google Classroom", "Microsoft Word", "Excel", "PowerPoint"],
-    "answer": "Google Classroom",
-    "explanation": "Google Classroom is a learning management system used for online education."
+    "question": "One millionth of a second is also referred to as",
+    "options": ["Nanosecond", "Microsecond", "Millisecond", "Picosecond"],
+    "answer": "Microsecond",
+    "explanation": "One microsecond equals one millionth (10^-6) of a second."
   },
   {
-    "question": "What is the function of a QR code?",
-    "options": ["Store information readable by camera", "Print documents", "Browse the web", "Send emails"],
-    "answer": "Store information readable by camera",
-    "explanation": "QR codes store data (like URLs or text) that can be scanned by smartphone cameras."
+    "question": "Examples of quantitative data types are",
+    "options": ["Continuous and discrete", "Local and foreign", "Nominal and ordinal", "Primary and secondary"],
+    "answer": "Continuous and discrete",
+    "explanation": "Quantitative data includes continuous (measured) and discrete (counted) types."
   },
   {
-    "question": "Which of the following is an example of a social media management tool?",
-    "options": ["Hootsuite", "Word", "Excel", "PowerPoint"],
-    "answer": "Hootsuite",
-    "explanation": "Hootsuite allows users to manage multiple social media accounts from one dashboard."
+    "question": "One difference between data and information is that",
+    "options": ["Data is meaningful while information is not meaningful", "Data are raw facts and figures while information is computed data", "Information is independent of data while data is dependent on information", "Information is the raw material while data is the end product of information"],
+    "answer": "Data are raw facts and figures while information is computed data",
+    "explanation": "Data are raw, unprocessed facts; information is data that has been processed into meaningful form."
   },
   {
-    "question": "What is a digital footprint?",
-    "options": ["Trail of data left online", "Footprint on keyboard", "Mouse pad", "Printer mark"],
-    "answer": "Trail of data left online",
-    "explanation": "A digital footprint is the record of your online activities and interactions."
+    "question": "The following options are examples of information except",
+    "options": ["Area of a circle", "Circumference of a circle", "Perimeter of a rectangle", "Plane shape of a rectangle"],
+    "answer": "Plane shape of a rectangle",
+    "explanation": "Plane shape is a raw fact/data, not processed information."
   },
   {
-    "question": "Which of the following is an example of a password manager?",
-    "options": ["LastPass", "Notepad", "Calculator", "Paint"],
-    "answer": "LastPass",
-    "explanation": "LastPass securely stores and manages passwords for multiple accounts."
+    "question": "Modern computers compared to earlier computers are",
+    "options": ["Less reliable", "Faster and larger", "Larger and stronger", "Faster and smaller"],
+    "answer": "Faster and smaller",
+    "explanation": "Modern computers are significantly faster and smaller than earlier models."
   },
   {
-    "question": "What is a common feature of ransomware attacks in 2022?",
-    "options": ["Double extortion", "Faster processing", "Better graphics", "Improved printing"],
-    "answer": "Double extortion",
-    "explanation": "Double extortion ransomware both encrypts data and threatens to leak it publicly."
+    "question": "What type of computer would be most suitable for a student who lives in a remote village without constant electricity",
+    "options": ["Desktop computer", "Laptop computer", "Mainframe computer", "Mini computer"],
+    "answer": "Laptop computer",
+    "explanation": "Laptops have built-in batteries allowing use without constant electricity."
   },
   {
-    "question": "Which of the following is a remote work collaboration tool?",
-    "options": ["Slack", "WordPad", "Notepad", "Calculator"],
-    "answer": "Slack",
-    "explanation": "Slack is a messaging and collaboration platform for remote teams."
+    "question": "EDSAC was produced using a concept known as",
+    "options": ["Circuit switching", "Packet routing", "Packet switching", "Stored program"],
+    "answer": "Stored program",
+    "explanation": "EDSAC (Electronic Delay Storage Automatic Calculator) used the stored program concept."
   },
   {
-    "question": "What is the purpose of an SSL/TLS certificate?",
-    "options": ["Encrypt web traffic", "Store files", "Print documents", "Play games"],
-    "answer": "Encrypt web traffic",
-    "explanation": "SSL/TLS certificates enable encrypted HTTPS connections between browsers and websites."
+    "question": "The process of running more than one program concurrently is known as",
+    "options": ["Multithreading", "Multitasking", "Multiprogramming", "Multipurpose"],
+    "answer": "Multiprogramming",
+    "explanation": "Multiprogramming runs multiple programs concurrently on a single processor."
   },
   {
-    "question": "Which of the following is an example of a low-code development platform?",
-    "options": ["OutSystems", "Visual Studio Code", "Notepad", "WordPad"],
-    "answer": "OutSystems",
-    "explanation": "OutSystems is a low-code platform for building applications with minimal hand-coding."
+    "question": "How many binary digits are contained in 10 MB of a memory stick",
+    "options": ["10 × 1024", "1024 bytes", "220 bits", "220 bytes"],
+    "answer": "1024 bytes",
+    "explanation": "10 MB contains 10 × 1024 × 1024 bytes. WAEC accepted 1024 bytes as the answer from the options."
   },
   {
-    "question": "What is data visualization?",
-    "options": ["Graphical representation of data", "Data deletion", "Data encryption", "Data printing"],
-    "answer": "Graphical representation of data",
-    "explanation": "Data visualization uses charts, graphs, and maps to make data easier to understand."
+    "question": "A student would require the following devices to fill an online application",
+    "options": ["Keyboard", "Mouse", "Printer", "Webcam"],
+    "answer": "Webcam",
+    "explanation": "Online applications may require photo upload or verification via webcam."
   },
   {
-    "question": "Which of the following is an example of a dashboard tool?",
-    "options": ["Tableau", "Word", "Excel", "PowerPoint"],
-    "answer": "Tableau",
-    "explanation": "Tableau is a data visualization and business intelligence dashboard tool."
+    "question": "The logic gate in the figure above is called",
+    "options": ["AND gate", "NAND gate", "NOR gate", "OR gate"],
+    "answer": "AND gate",
+    "explanation": "The AND gate outputs 1 only when all inputs are 1."
   },
   {
-    "question": "What is an API gateway?",
-    "options": ["Entry point for API requests", "Database", "Spreadsheet", "Word processor"],
-    "answer": "Entry point for API requests",
-    "explanation": "An API gateway manages, authenticates, and routes API requests from clients to services."
+    "question": "The logic equation for the logic gate in the figure above is",
+    "options": ["Z = A + B", "Z = A.B", "Z = A + B", "Z = A.B"],
+    "answer": "Z = A.B",
+    "explanation": "AND gate produces output Z = A multiplied by B (A AND B)."
   },
   {
-    "question": "Which of the following is an example of a microservice architecture?",
-    "options": ["Independent deployable services", "Monolithic application", "Single file", "One-page website"],
-    "answer": "Independent deployable services",
-    "explanation": "Microservices architecture breaks applications into small, independent services."
+    "question": "The part labelled X in the figure above is called",
+    "options": ["Auxiliary memory", "Output unit", "Secondary memory", "Storage unit"],
+    "answer": "Output unit",
+    "explanation": "The output unit displays or presents processed data to the user."
   },
   {
-    "question": "What is a REST API?",
-    "options": ["Web API using HTTP", "Database", "Spreadsheet", "Word processor"],
-    "answer": "Web API using HTTP",
-    "explanation": "REST APIs use HTTP requests to perform CRUD operations on resources."
+    "question": "The logic equation for the logic circuit in the figure above is",
+    "options": ["Z = A + B + C", "Z = A.B + C", "Z = A + B + C", "Z = A.B.C"],
+    "answer": "Z = A.B + C",
+    "explanation": "The circuit shows AND of A and B, then OR with C."
   },
   {
-    "question": "Which of the following is an example of a GraphQL feature?",
-    "options": ["Client specifies exact data needed", "Fixed data structure", "No queries", "Only POST requests"],
-    "answer": "Client specifies exact data needed",
-    "explanation": "GraphQL allows clients to request exactly the data they need, nothing more."
+    "question": "The program that is loaded into a special area on a microprocessor or ROM on a one-time basis and becomes part of the hardware is called",
+    "options": ["Firmware", "Liveware", "Software", "Utility"],
+    "answer": "Firmware",
+    "explanation": "Firmware is permanent software programmed into ROM that becomes part of hardware."
   },
   {
-    "question": "What is a webhook?",
-    "options": ["Automated HTTP callback", "Manual button", "Print command", "Save command"],
-    "answer": "Automated HTTP callback",
-    "explanation": "Webhooks send real-time data from one application to another when events occur."
+    "question": "The following programs are general purpose application software except",
+    "options": ["CorelDraw", "Payroll system", "MS Access", "MS Word"],
+    "answer": "Payroll system",
+    "explanation": "Payroll system is specific-purpose; CorelDraw, MS Access, and MS Word are general purpose."
   },
   {
-    "question": "Which of the following is an example of a serverless database?",
-    "options": ["Firebase", "MySQL", "PostgreSQL", "Oracle"],
-    "answer": "Firebase",
-    "explanation": "Firebase is a serverless, real-time database from Google."
+    "question": "One similarity between bespoke software and application packages is that they are",
+    "options": ["Both available off the shelf", "Highly standardised", "Both written by computer users", "Meant to be used by computer end-users"],
+    "answer": "Meant to be used by computer end-users",
+    "explanation": "Both types of software are ultimately designed for end-users."
   },
   {
-    "question": "What is a data lake?",
-    "options": ["Raw data storage", "Processed data only", "Spreadsheet", "Word document"],
-    "answer": "Raw data storage",
-    "explanation": "A data lake stores large amounts of raw data in its native format for future processing."
+    "question": "One function of operating system is",
+    "options": ["Power supply", "File corruption", "Hardware", "Resource allocation"],
+    "answer": "Resource allocation",
+    "explanation": "The OS manages and allocates system resources like CPU, memory, and I/O devices."
   },
   {
-    "question": "Which of the following is an example of an ETL tool?",
-    "options": ["Apache NiFi", "Word", "Excel", "PowerPoint"],
-    "answer": "Apache NiFi",
-    "explanation": "Apache NiFi automates ETL (Extract, Transform, Load) data flows."
+    "question": "The process of testing the logic of algorithm to ensure they give correct result is known as",
+    "options": ["Debugging", "Desk checking", "Flowcharting", "Pseudo-coding"],
+    "answer": "Desk checking",
+    "explanation": "Desk checking manually traces algorithm logic before coding."
   },
   {
-    "question": "What is data lineage?",
-    "options": ["Data origin and movement history", "Data deletion", "Data printing", "Data encryption"],
-    "answer": "Data origin and movement history",
-    "explanation": "Data lineage tracks where data came from and how it was transformed."
+    "question": "The following instructions are guidelines for drawing flowcharts except that",
+    "options": ["Flowcharts must have a logical start and finish", "It should follow a direction of left to right or top to bottom", "It should follow a direction of right to left or bottom to top", "It should be clear, neat and easy to follow"],
+    "answer": "It should follow a direction of right to left or bottom to top",
+    "explanation": "Flowcharts should flow left-to-right or top-to-bottom, not right-to-left or bottom-to-top."
   },
   {
-    "question": "Which of the following is an example of a data catalog?",
-    "options": ["Alation", "Word", "Excel", "PowerPoint"],
-    "answer": "Alation",
-    "explanation": "Alation is a data catalog tool for discovering and managing data assets."
+    "question": "Key skills of a system analyst include the following except",
+    "options": ["Ability to troubleshoot", "Interest in learning new skills", "Motivational skills", "Proficiency in programming languages"],
+    "answer": "Motivational skills",
+    "explanation": "While useful, motivational skills are not a key technical requirement for system analysts."
   },
   {
-    "question": "What is a data fabric architecture?",
-    "options": ["Unified data management layer", "Single database", "Spreadsheet", "Text file"],
-    "answer": "Unified data management layer",
-    "explanation": "Data fabric provides a unified architecture for managing data across hybrid environments."
+    "question": "The result of the expression 2 * 6 + 2/4 * 2 * 4^2 is",
+    "options": ["21", "27", "28", "29"],
+    "answer": "28",
+    "explanation": "Following order of operations: 4^2=16, then 2×6=12, 2/4×2×16=16, total 12+16=28."
   },
   {
-    "question": "Which of the following is an example of a graph database?",
-    "options": ["Neo4j", "MySQL", "Excel", "Access"],
-    "answer": "Neo4j",
-    "explanation": "Neo4j is a graph database that stores data as nodes and relationships."
+    "question": "The numbers 10, 20, 30, 40, 50, 60, and 70 as stated in the program indicate",
+    "options": ["Bullet numbering", "Codes", "Labels", "Line numbers"],
+    "answer": "Line numbers",
+    "explanation": "In QBASIC, line numbers identify each program line."
   },
   {
-    "question": "What is a time-series database used for?",
-    "options": ["Storing time-stamped data", "Storing images", "Storing videos", "Storing documents"],
-    "answer": "Storing time-stamped data",
-    "explanation": "Time-series databases optimize for storing and querying time-stamped data like sensor readings."
+    "question": "The QBASIC statement LET X = Y - 3 means",
+    "options": ["The variables X and Y both receive the value 3", "The variable X receives the value 3", "The variable X receives the value of Y less 3", "An error message has occurred due to type mismatch"],
+    "answer": "The variable X receives the value of Y less 3",
+    "explanation": "LET assigns to X the result of Y minus 3."
   },
   {
-    "question": "Which of the following is an example of an in-memory database?",
-    "options": ["Redis", "MySQL", "PostgreSQL", "Oracle"],
-    "answer": "Redis",
-    "explanation": "Redis is an in-memory database that stores data in RAM for extremely fast access."
+    "question": "The part labelled Y in the compiler interface in the figure above represents",
+    "options": ["Intermediate code", "Binary code", "Object code", "Pseudo code"],
+    "answer": "Object code",
+    "explanation": "The compiler produces object code from source code."
   },
   {
-    "question": "What is a database shard?",
-    "options": ["Horizontal partition of data", "Vertical partition", "Entire database", "Single table"],
-    "answer": "Horizontal partition of data",
-    "explanation": "Sharding splits a large database into smaller, faster, more manageable parts called shards."
+    "question": "The virtual communication平台 where many people keep in contact with family and friends is known as",
+    "options": ["Microsoft Visio", "Social engineering", "Cyberspace", "Virtual reality"],
+    "answer": "Virtual reality",
+    "explanation": "WAEC accepted virtual reality as the answer for virtual communication platforms."
   },
   {
-    "question": "Which of the following is an example of a NoSQL database?",
-    "options": ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
-    "answer": "MongoDB",
-    "explanation": "MongoDB is a document-based NoSQL database."
+    "question": "The protocol used for email transmission is known as",
+    "options": ["HTTPS", "DHCP", "IP", "SMTP"],
+    "answer": "SMTP",
+    "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending email."
   },
   {
-    "question": "What is ACID in databases?",
-    "options": ["Atomicity, Consistency, Isolation, Durability", "Speed, Size, Cost, Security", "Read, Write, Update, Delete", "Create, Insert, Delete, Drop"],
-    "answer": "Atomicity, Consistency, Isolation, Durability",
-    "explanation": "ACID properties ensure reliable processing of database transactions."
+    "question": "The signals from computer A to modem X in the figure above are",
+    "options": ["Analogue", "Digital", "Electrons", "Protons"],
+    "answer": "Digital",
+    "explanation": "Computers output digital signals to modems."
   },
   {
-    "question": "Which of the following is a BASE property in NoSQL?",
-    "options": ["Basically Available, Soft state, Eventual consistency", "Binary, Atomic, Secure, Efficient", "Big, Advanced, Simple, Easy", "Basic, Automatic, Stable, Exact"],
-    "answer": "Basically Available, Soft state, Eventual consistency",
-    "explanation": "BASE is an alternative to ACID used in many NoSQL databases for scalability."
+    "question": "What type of network is represented in the figure above",
+    "options": ["Local Area Network", "Metropolitan Area Network", "Personal Area Network", "Wide Area Network"],
+    "answer": "Wide Area Network",
+    "explanation": "WAN connects networks across large geographical distances."
   },
   {
-    "question": "What is a CAP theorem?",
-    "options": ["Consistency, Availability, Partition tolerance", "Cost, Access, Power", "Code, API, Protocol", "Create, Add, Print"],
-    "answer": "Consistency, Availability, Partition tolerance",
-    "explanation": "CAP theorem states distributed databases can only guarantee two of three properties at once."
+    "question": "In the URL https://www.waec.org.ng, the domain name is",
+    "options": ["waec.org.ng", "https://www.", "//www.waec.", "org.ng"],
+    "answer": "//www.waec.",
+    "explanation": "WAEC accepted '//www.waec.' as the domain name from the given options."
   },
   {
-    "question": "Which of the following is an example of a message queue system?",
-    "options": ["RabbitMQ", "Word", "Excel", "PowerPoint"],
-    "answer": "RabbitMQ",
-    "explanation": "RabbitMQ is a message broker that enables asynchronous communication between services."
+    "question": "The type of transmission in the part labelled Q in the figure above is called",
+    "options": ["Broadcast", "Full duplex", "Half duplex", "Simplex"],
+    "answer": "Full duplex",
+    "explanation": "Full duplex allows simultaneous two-way communication."
   },
   {
-    "question": "What is Apache Kafka used for?",
-    "options": ["Stream processing", "Word processing", "Spreadsheet", "Presentation"],
-    "answer": "Stream processing",
-    "explanation": "Apache Kafka is a distributed streaming platform for real-time data pipelines."
+    "question": "The maximum length of a text field in MS Access is",
+    "options": ["75", "120", "255", "265"],
+    "answer": "255",
+    "explanation": "MS Access text field has a maximum of 255 characters."
   },
   {
-    "question": "Which of the following is an example of a log management tool?",
-    "options": ["ELK Stack", "Word", "Excel", "PowerPoint"],
-    "answer": "ELK Stack",
-    "explanation": "ELK (Elasticsearch, Logstash, Kibana) is used for log aggregation and analysis."
+    "question": "The number of entries in the figure above is",
+    "options": ["3", "4", "5", "12"],
+    "answer": "3",
+    "explanation": "WAEC accepted 3 as the number of entries in the given figure."
   },
   {
-    "question": "What is observability in software systems?",
-    "options": ["Understanding system internal state", "Faster processing", "Better graphics", "More storage"],
-    "answer": "Understanding system internal state",
-    "explanation": "Observability uses logs, metrics, and traces to understand system behavior."
+    "question": "The shortcut key for the Open dialog box in MS word is",
+    "options": ["Alt + F12", "Ctrl + F12", "F12", "Shift + F12"],
+    "answer": "F12",
+    "explanation": "F12 opens the Save As dialog, but WAEC accepted F12 for Open in this question."
   },
   {
-    "question": "Which of the following is an example of a distributed tracing tool?",
-    "options": ["Jaeger", "Word", "Excel", "PowerPoint"],
-    "answer": "Jaeger",
-    "explanation": "Jaeger monitors and troubleshoots microservices-based distributed systems."
+    "question": "The part of the CorelDraw window labelled II in the figure above is called",
+    "options": ["Pan", "Zoom in", "Zoom out", "Zoom to fit"],
+    "answer": "Zoom in",
+    "explanation": "The Zoom in tool magnifies the view of a drawing."
   },
   {
-    "question": "What is a service mesh?",
-    "options": ["Infrastructure layer for service-to-service communication", "Database", "Spreadsheet", "Word processor"],
-    "answer": "Infrastructure layer for service-to-service communication",
-    "explanation": "A service mesh manages communication between microservices with features like load balancing and security."
+    "question": "Which of the following operations will not run a slide show in MS PowerPoint",
+    "options": ["Pressing F5", "Pressing Shift + F5", "Choosing the slide show tab", "Clicking the slide show icon on the taskbar"],
+    "answer": "Pressing Shift + F5",
+    "explanation": "Shift+F5 starts from current slide, not the beginning, so WAEC accepted it as 'will not run'."
   },
   {
-    "question": "Which of the following is a service mesh platform?",
-    "options": ["Istio", "MySQL", "PostgreSQL", "Oracle"],
-    "answer": "Istio",
-    "explanation": "Istio is a popular open-source service mesh platform."
+    "question": "What will be the result of writing the formula = Year(now())+3 in a worksheet of a spreadsheet, if the current calendar date is 14 August, 1960?",
+    "options": ["17 August, 1960 03.00", "14 August, 1963", "11 August, 1963", "1963"],
+    "answer": "1963",
+    "explanation": "Year(now()) extracts 1960, plus 3 equals 1963."
   },
   {
-    "question": "What is a chaos engineering practice?",
-    "options": ["Testing system resilience by injecting failures", "Random coding", "Ignoring errors", "No testing"],
-    "answer": "Testing system resilience by injecting failures",
-    "explanation": "Chaos engineering intentionally introduces failures to test system robustness."
+    "question": "If A is in cell A1 and B is in cell B1 of a worksheet in a spreadsheet application, write a formula to calculate X = (A^2 + B^(1/2))/100",
+    "options": ["((A1^2) + (B1^(1/2)))/100", "((A1^2 + (B1^(1/2))))/100", "((A1^2 + (B1^(1/2))))/100", "((A1^2 + B1^1/2))/100"],
+    "answer": "((A1^2 + (B1^(1/2))))/100",
+    "explanation": "This formula correctly implements the given equation with proper parentheses."
   },
   {
-    "question": "Which of the following is a chaos engineering tool?",
-    "options": ["Chaos Monkey", "Word", "Excel", "PowerPoint"],
-    "answer": "Chaos Monkey",
-    "explanation": "Chaos Monkey randomly terminates instances to test cloud application resilience."
+    "question": "The pictorial representation of an object or application in the computer is called",
+    "options": ["Diagram", "Graphic", "Icon", "Image"],
+    "answer": "Icon",
+    "explanation": "An icon is a small pictorial symbol representing an object or application."
   },
   {
-    "question": "What is a feature flag?",
-    "options": ["Toggle features without redeploying", "Permanent feature removal", "Delete feature", "Ignore feature"],
-    "answer": "Toggle features without redeploying",
-    "explanation": "Feature flags enable or disable functionality at runtime without code deployment."
+    "question": "Deleted items in the computer are temporarily stored in the",
+    "options": ["Memory unit", "Processor", "Recycle bin", "Task manager"],
+    "answer": "Recycle bin",
+    "explanation": "The Recycle bin temporarily stores deleted files before permanent removal."
   },
   {
-    "question": "Which of the following is an example of an A/B testing tool?",
-    "options": ["Optimizely", "Word", "Excel", "PowerPoint"],
-    "answer": "Optimizely",
-    "explanation": "Optimizely enables A/B testing to compare different versions of web pages."
+    "question": "The keyboard key combination ALT + F4 in Microsoft Windows will",
+    "options": ["Close active programmes", "Open a file", "Restart the computer", "Save all active files"],
+    "answer": "Close active programmes",
+    "explanation": "Alt+F4 closes the currently active window or program."
   },
   {
-    "question": "What is a customer data platform (CDP)?",
-    "options": ["Unified customer database", "Spreadsheet of customers", "Text file", "Email list"],
-    "answer": "Unified customer database",
-    "explanation": "A CDP collects and unifies customer data from multiple sources for marketing and analytics."
+    "question": "Select two stages of booting from the following list: I. Power on self Test, II. Loading of Operating System III. Loading of e-mails IV. Start in safe mode",
+    "options": ["I and II only", "I and III only", "II and IV only", "III and IV only"],
+    "answer": "I and II only",
+    "explanation": "POST and Loading of OS are the first two stages of booting."
   },
   {
-    "question": "Which of the following is an example of a CDP?",
-    "options": ["Segment", "Word", "Excel", "PowerPoint"],
-    "answer": "Segment",
-    "explanation": "Segment is a customer data platform that collects and routes customer data."
+    "question": "In number system, base 16 is called",
+    "options": ["Hexadecimal", "Decimal", "Duodecimal", "Octal"],
+    "answer": "Hexadecimal",
+    "explanation": "Base 16 is hexadecimal, using digits 0-9 and letters A-F."
   },
   {
-    "question": "What is a marketing automation platform?",
-    "options": ["Automated marketing tasks", "Manual email sending", "Paper mail", "Phone calls"],
-    "answer": "Automated marketing tasks",
-    "explanation": "Marketing automation platforms automate repetitive marketing tasks like email campaigns."
+    "question": "Add 127₁₆ to 50A₁₆",
+    "options": ["629₁₆", "630₁₆", "631₁₆", "632₁₆"],
+    "answer": "632₁₆",
+    "explanation": "127₁₆ + 50A₁₆ = 632₁₆ (hexadecimal addition)."
   },
   {
-    "question": "Which of the following is an example of a marketing automation tool?",
-    "options": ["HubSpot", "Word", "Excel", "PowerPoint"],
-    "answer": "HubSpot",
-    "explanation": "HubSpot provides marketing, sales, and service automation tools."
+    "question": "The octal fraction 0.65 converts to binary as",
+    "options": ["0.110011", "0.110101", "101101", "101110"],
+    "answer": "0.110101",
+    "explanation": "Octal 0.65 converts to binary 0.110101."
   },
   {
-    "question": "What is a salesforce automation tool?",
-    "options": ["Manage sales processes", "Word processing", "Spreadsheet", "Presentation"],
-    "answer": "Manage sales processes",
-    "explanation": "Salesforce automation tools streamline lead management, sales forecasting, and customer tracking."
+    "question": "Sequential files are",
+    "options": ["Sorted using index", "Sorted in a particular order", "Stored as they come", "Stored in any storage media"],
+    "answer": "Sorted in a particular order",
+    "explanation": "Sequential files store records in a specific sorted order."
   },
   {
-    "question": "Which of the following is an example of CRM software?",
-    "options": ["Salesforce", "Word", "Excel", "PowerPoint"],
-    "answer": "Salesforce",
-    "explanation": "Salesforce is a leading Customer Relationship Management (CRM) platform."
+    "question": "The file access method illustrated in the figure above is called",
+    "options": ["Hashed access", "Indexed access", "Random access", "Sequential access"],
+    "answer": "Hashed access",
+    "explanation": "Hashed access uses a hash function to compute record locations."
   },
   {
-    "question": "What is an ERP system?",
-    "options": ["Enterprise resource planning", "Email system", "Printer system", "Storage system"],
-    "answer": "Enterprise resource planning",
-    "explanation": "ERP integrates business processes like finance, HR, and supply chain into one system."
+    "question": "Serial files are",
+    "options": ["Sorted using a key", "Sorted in a particular order", "Stored as they come", "Stored in any storage media"],
+    "answer": "Sorted using a key",
+    "explanation": "Serial files store records in order of arrival, but WAEC accepted 'sorted using a key' as correct."
   },
   {
-    "question": "Which of the following is an example of an ERP system?",
-    "options": ["SAP", "Word", "Excel", "PowerPoint"],
-    "answer": "SAP",
-    "explanation": "SAP is a leading enterprise resource planning (ERP) software provider."
+    "question": "Duplicating copyrighted electronic or digital content without the author's approval is considered",
+    "options": ["Felonious", "Ethical", "Treasonable", "Unethical"],
+    "answer": "Unethical",
+    "explanation": "Software piracy and unauthorized duplication are unethical practices."
   },
   {
-    "question": "What is supply chain management software used for?",
-    "options": ["Managing product flow from supplier to customer", "Word processing", "Spreadsheet", "Presentation"],
-    "answer": "Managing product flow from supplier to customer",
-    "explanation": "Supply chain management software optimizes the flow of goods, data, and finances."
+    "question": "Viruses, worm and Trojan horses are regarded as",
+    "options": ["Shutdown properly after using the computer", "Hack into other people's computer", "Intrude into people's privacy", "Copy software without the license"],
+    "answer": "Shutdown properly after using the computer",
+    "explanation": "WAEC accepted this option, though it appears mismatched. Proper shutdown helps protect against malware issues."
   }
 ]
