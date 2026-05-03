@@ -1,0 +1,296 @@
+[
+  {
+    "question": "Which of the following is a volatile memory?",
+    "options": ["ROM", "RAM", "Hard disk", "CD-ROM"],
+    "answer": "RAM",
+    "explanation": "RAM (Random Access Memory) is volatile, meaning its contents are lost when power is turned off."
+  },
+  {
+    "question": "The brain of the computer is the",
+    "options": ["Monitor", "Keyboard", "CPU", "Mouse"],
+    "answer": "CPU",
+    "explanation": "The Central Processing Unit (CPU) is considered the brain of the computer as it executes instructions."
+  },
+  {
+    "question": "Which of these is an output device?",
+    "options": ["Mouse", "Scanner", "Printer", "Keyboard"],
+    "answer": "Printer",
+    "explanation": "A printer produces hard copy output from a computer."
+  },
+  {
+    "question": "Which generation of computers used integrated circuits?",
+    "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
+    "answer": "Third generation",
+    "explanation": "Third generation computers (mid-1960s to early 1970s) used integrated circuits (ICs)."
+  },
+  {
+    "question": "Which of the following is an example of system software?",
+    "options": ["Microsoft Word", "Spreadsheet", "Operating system", "Games"],
+    "answer": "Operating system",
+    "explanation": "An operating system is system software that manages computer hardware and software resources."
+  },
+  {
+    "question": "Which number system is used by computers internally?",
+    "options": ["Decimal", "Hexadecimal", "Octal", "Binary"],
+    "answer": "Binary",
+    "explanation": "Computers use the binary system (0s and 1s) for internal operations."
+  },
+  {
+    "question": "The shortcut key for copying text is",
+    "options": ["Ctrl + C", "Ctrl + X", "Ctrl + V", "Ctrl + Z"],
+    "answer": "Ctrl + C",
+    "explanation": "Ctrl + C is the standard shortcut for copying selected text or objects."
+  },
+  {
+    "question": "A megabyte is approximately",
+    "options": ["1000 bytes", "1 million bytes", "1 billion bytes", "1000 kilobytes"],
+    "answer": "1 million bytes",
+    "explanation": "One megabyte (MB) is approximately 1 million bytes (exactly 1,048,576 bytes)."
+  },
+  {
+    "question": "Which of these is NOT a storage device?",
+    "options": ["Hard disk", "USB flash drive", "CPU", "SSD"],
+    "answer": "CPU",
+    "explanation": "The CPU is a processing unit, not a storage device."
+  },
+  {
+    "question": "The internet is a",
+    "options": ["Local network", "Wide area network", "Personal network", "Single computer"],
+    "answer": "Wide area network",
+    "explanation": "The internet is a global wide area network (WAN) connecting millions of computers."
+  },
+  {
+    "question": "Which of these is an email protocol?",
+    "options": ["HTTP", "FTP", "SMTP", "TCP/IP"],
+    "answer": "SMTP",
+    "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending and relaying email messages."
+  },
+  {
+    "question": "A website's main page is called the",
+    "options": ["Web page", "Home page", "Browser", "Search engine"],
+    "answer": "Home page",
+    "explanation": "The home page is the main or introductory page of a website."
+  },
+  {
+    "question": "Which device connects a computer to a telephone line for internet access?",
+    "options": ["Router", "Switch", "Modem", "Hub"],
+    "answer": "Modem",
+    "explanation": "A modem (modulator-demodulator) converts digital signals to analog for telephone lines and vice versa."
+  },
+  {
+    "question": "Which of the following is a social media platform?",
+    "options": ["Google", "Facebook", "Microsoft", "Apple"],
+    "answer": "Facebook",
+    "explanation": "Facebook is a social media platform for connecting and sharing with others."
+  },
+  {
+    "question": "The term 'URL' stands for",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Response Link", "Uniform Response Location"],
+    "answer": "Uniform Resource Locator",
+    "explanation": "URL stands for Uniform Resource Locator, which is the address of a web page."
+  },
+  {
+    "question": "Which of these is a programming language?",
+    "options": ["Windows", "Linux", "Python", "MacOS"],
+    "answer": "Python",
+    "explanation": "Python is a high-level programming language; the others are operating systems."
+  },
+  {
+    "question": "A collection of related records is a",
+    "options": ["Field", "Byte", "File", "Character"],
+    "answer": "File",
+    "explanation": "A file is a collection of related records in a database or storage system."
+  },
+  {
+    "question": "Which of these is NOT a Microsoft Office application?",
+    "options": ["Word", "Excel", "Access", "Adobe Photoshop"],
+    "answer": "Adobe Photoshop",
+    "explanation": "Adobe Photoshop is an image editing software, not part of Microsoft Office."
+  },
+  {
+    "question": "Which key deletes characters to the left of the cursor?",
+    "options": ["Delete", "Backspace", "Insert", "Home"],
+    "answer": "Backspace",
+    "explanation": "The Backspace key deletes characters to the left of the cursor position."
+  },
+  {
+    "question": "Which of the following is an example of application software?",
+    "options": ["Windows 10", "Linux", "Microsoft Word", "macOS"],
+    "answer": "Microsoft Word",
+    "explanation": "Microsoft Word is application software; the others are operating systems."
+  },
+  {
+    "question": "GUI stands for",
+    "options": ["Graphical User Interface", "General User Interface", "Graphical Unit Interface", "General Unit Interface"],
+    "answer": "Graphical User Interface",
+    "explanation": "GUI refers to a visual interface with icons, windows, and menus."
+  },
+  {
+    "question": "Which of these is an antivirus software?",
+    "options": ["Windows", "Linux", "Norton", "Photoshop"],
+    "answer": "Norton",
+    "explanation": "Norton Antivirus is a security software for detecting and removing malware."
+  },
+  {
+    "question": "The smallest unit of data in a computer is a",
+    "options": ["Byte", "Bit", "Kilobyte", "Megabyte"],
+    "answer": "Bit",
+    "explanation": "A bit (binary digit) is the smallest unit of data, representing a 0 or 1."
+  },
+  {
+    "question": "Which of these is NOT an input device?",
+    "options": ["Keyboard", "Mouse", "Scanner", "Monitor"],
+    "answer": "Monitor",
+    "explanation": "A monitor is an output device, not an input device."
+  },
+  {
+    "question": "The process of starting a computer is called",
+    "options": ["Booting", "Logging in", "Shutting down", "Restarting"],
+    "answer": "Booting",
+    "explanation": "Booting is the process of starting up a computer and loading the operating system."
+  },
+  {
+    "question": "Which of the following is a search engine?",
+    "options": ["Facebook", "Google", "YouTube", "WhatsApp"],
+    "answer": "Google",
+    "explanation": "Google is a search engine used to find information on the internet."
+  },
+  {
+    "question": "Which storage device has the largest capacity?",
+    "options": ["Floppy disk", "CD-ROM", "Hard disk", "DVD"],
+    "answer": "Hard disk",
+    "explanation": "Hard disks typically have much larger storage capacities than floppy disks, CDs, or DVDs."
+  },
+  {
+    "question": "RAM stands for",
+    "options": ["Readily Available Memory", "Random Access Memory", "Read Access Memory", "Rapid Access Memory"],
+    "answer": "Random Access Memory",
+    "explanation": "RAM stands for Random Access Memory, used for temporary data storage."
+  },
+  {
+    "question": "Which of these is a valid email address format?",
+    "options": ["user@domain.com", "user.domain.com", "user@domain@com", "user#domain.com"],
+    "answer": "user@domain.com",
+    "explanation": "A valid email address has the format local-part@domain-name."
+  },
+  {
+    "question": "A group of 8 bits is called a",
+    "options": ["Word", "Byte", "Nibble", "Character"],
+    "answer": "Byte",
+    "explanation": "A byte consists of 8 bits and is a standard unit of data."
+  },
+  {
+    "question": "Which key combination is used to save a file?",
+    "options": ["Ctrl + S", "Ctrl + O", "Ctrl + N", "Ctrl + P"],
+    "answer": "Ctrl + S",
+    "explanation": "Ctrl + S is the common shortcut for saving a file in most applications."
+  },
+  {
+    "question": "Which of these is NOT a web browser?",
+    "options": ["Chrome", "Firefox", "Windows", "Safari"],
+    "answer": "Windows",
+    "explanation": "Windows is an operating system; Chrome, Firefox, and Safari are web browsers."
+  },
+  {
+    "question": "Which device is used to read printed barcodes?",
+    "options": ["Scanner", "Barcode reader", "Keyboard", "Mouse"],
+    "answer": "Barcode reader",
+    "explanation": "A barcode reader is specifically designed to scan and decode barcodes."
+  },
+  {
+    "question": "The main circuit board of a computer is the",
+    "options": ["CPU", "Motherboard", "Hard disk", "RAM"],
+    "answer": "Motherboard",
+    "explanation": "The motherboard is the main circuit board that connects all computer components."
+  },
+  {
+    "question": "Which of these is an example of cloud storage?",
+    "options": ["Hard disk", "USB drive", "Google Drive", "CD-ROM"],
+    "answer": "Google Drive",
+    "explanation": "Google Drive is a cloud storage service that stores data on remote servers."
+  },
+  {
+    "question": "Which of these is used to display PowerPoint slides?",
+    "options": ["Monitor", "Projector", "Printer", "Scanner"],
+    "answer": "Projector",
+    "explanation": "A projector displays PowerPoint slides onto a large screen for presentations."
+  },
+  {
+    "question": "Which of these is a system software that controls hardware?",
+    "options": ["OS", "Word processor", "Spreadsheet", "Web browser"],
+    "answer": "OS",
+    "explanation": "The operating system (OS) controls and manages computer hardware."
+  },
+  {
+    "question": "Which of these is a characteristic of first-generation computers?",
+    "options": ["Integrated circuits", "Transistors", "Vacuum tubes", "Microprocessors"],
+    "answer": "Vacuum tubes",
+    "explanation": "First-generation computers used vacuum tubes for circuitry."
+  },
+  {
+    "question": "Which of these is an output from a computer?",
+    "options": ["Mouse click", "Keyboard press", "Sound from speakers", "Scanner input"],
+    "answer": "Sound from speakers",
+    "explanation": "Sound from speakers is an output generated by the computer."
+  },
+  {
+    "question": "A computer virus is a",
+    "options": ["Hardware", "Software", "Malicious program", "Antivirus"],
+    "answer": "Malicious program",
+    "explanation": "A computer virus is a type of malicious software (malware) that replicates and spreads."
+  },
+  {
+    "question": "Which of these is used to connect to Wi-Fi?",
+    "options": ["Ethernet cable", "Wireless adapter", "USB cable", "HDMI cable"],
+    "answer": "Wireless adapter",
+    "explanation": "A wireless adapter (Wi-Fi card) allows a device to connect to wireless networks."
+  },
+  {
+    "question": "Which of these is a type of printer?",
+    "options": ["Laser", "Mouse", "Keyboard", "Scanner"],
+    "answer": "Laser",
+    "explanation": "Laser printer is a common type of printer that uses toner and laser technology."
+  },
+  {
+    "question": "The 'www' in a web address stands for",
+    "options": ["World Wide Web", "Web World Wide", "Wide World Web", "World Web Wide"],
+    "answer": "World Wide Web",
+    "explanation": "WWW stands for World Wide Web, the system of interlinked web pages."
+  },
+  {
+    "question": "Which of these is NOT a social media app?",
+    "options": ["Instagram", "Twitter", "WhatsApp", "Microsoft Word"],
+    "answer": "Microsoft Word",
+    "explanation": "Microsoft Word is a word processor, not a social media application."
+  },
+  {
+    "question": "Which of these is used to type letters and numbers?",
+    "options": ["Mouse", "Keyboard", "Monitor", "Printer"],
+    "answer": "Keyboard",
+    "explanation": "A keyboard is an input device used to type letters, numbers, and symbols."
+  },
+  {
+    "question": "Which of these is a pointing device?",
+    "options": ["Keyboard", "Monitor", "Mouse", "Printer"],
+    "answer": "Mouse",
+    "explanation": "A mouse is a pointing device used to control the cursor on screen."
+  },
+  {
+    "question": "Which of these is used to listen to audio from a computer?",
+    "options": ["Microphone", "Speaker", "Scanner", "Camera"],
+    "answer": "Speaker",
+    "explanation": "Speakers are output devices that produce sound from a computer."
+  },
+  {
+    "question": "Which of these is used to capture video?",
+    "options": ["Webcam", "Printer", "Speaker", "Monitor"],
+    "answer": "Webcam",
+    "explanation": "A webcam is an input device used to capture video and images."
+  },
+  {
+    "question": "Which of these is an example of online payment?",
+    "options": ["Cash", "Cheque", "PayPal", "Money order"],
+    "answer": "PayPal",
+    "explanation": "PayPal is a digital payment platform used for online transactions."
+  }
+]

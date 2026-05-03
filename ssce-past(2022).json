@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is an example of an online learning platform?",
+    "options": ["Google Classroom", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Google Classroom",
+    "explanation": "Google Classroom is a learning management system used for online education."
+  },
+  {
+    "question": "What is the function of a QR code?",
+    "options": ["Store information readable by camera", "Print documents", "Browse the web", "Send emails"],
+    "answer": "Store information readable by camera",
+    "explanation": "QR codes store data (like URLs or text) that can be scanned by smartphone cameras."
+  },
+  {
+    "question": "Which of the following is an example of a social media management tool?",
+    "options": ["Hootsuite", "Word", "Excel", "PowerPoint"],
+    "answer": "Hootsuite",
+    "explanation": "Hootsuite allows users to manage multiple social media accounts from one dashboard."
+  },
+  {
+    "question": "What is a digital footprint?",
+    "options": ["Trail of data left online", "Footprint on keyboard", "Mouse pad", "Printer mark"],
+    "answer": "Trail of data left online",
+    "explanation": "A digital footprint is the record of your online activities and interactions."
+  },
+  {
+    "question": "Which of the following is an example of a password manager?",
+    "options": ["LastPass", "Notepad", "Calculator", "Paint"],
+    "answer": "LastPass",
+    "explanation": "LastPass securely stores and manages passwords for multiple accounts."
+  },
+  {
+    "question": "What is a common feature of ransomware attacks in 2022?",
+    "options": ["Double extortion", "Faster processing", "Better graphics", "Improved printing"],
+    "answer": "Double extortion",
+    "explanation": "Double extortion ransomware both encrypts data and threatens to leak it publicly."
+  },
+  {
+    "question": "Which of the following is a remote work collaboration tool?",
+    "options": ["Slack", "WordPad", "Notepad", "Calculator"],
+    "answer": "Slack",
+    "explanation": "Slack is a messaging and collaboration platform for remote teams."
+  },
+  {
+    "question": "What is the purpose of an SSL/TLS certificate?",
+    "options": ["Encrypt web traffic", "Store files", "Print documents", "Play games"],
+    "answer": "Encrypt web traffic",
+    "explanation": "SSL/TLS certificates enable encrypted HTTPS connections between browsers and websites."
+  },
+  {
+    "question": "Which of the following is an example of a low-code development platform?",
+    "options": ["OutSystems", "Visual Studio Code", "Notepad", "WordPad"],
+    "answer": "OutSystems",
+    "explanation": "OutSystems is a low-code platform for building applications with minimal hand-coding."
+  },
+  {
+    "question": "What is data visualization?",
+    "options": ["Graphical representation of data", "Data deletion", "Data encryption", "Data printing"],
+    "answer": "Graphical representation of data",
+    "explanation": "Data visualization uses charts, graphs, and maps to make data easier to understand."
+  },
+  {
+    "question": "Which of the following is an example of a dashboard tool?",
+    "options": ["Tableau", "Word", "Excel", "PowerPoint"],
+    "answer": "Tableau",
+    "explanation": "Tableau is a data visualization and business intelligence dashboard tool."
+  },
+  {
+    "question": "What is an API gateway?",
+    "options": ["Entry point for API requests", "Database", "Spreadsheet", "Word processor"],
+    "answer": "Entry point for API requests",
+    "explanation": "An API gateway manages, authenticates, and routes API requests from clients to services."
+  },
+  {
+    "question": "Which of the following is an example of a microservice architecture?",
+    "options": ["Independent deployable services", "Monolithic application", "Single file", "One-page website"],
+    "answer": "Independent deployable services",
+    "explanation": "Microservices architecture breaks applications into small, independent services."
+  },
+  {
+    "question": "What is a REST API?",
+    "options": ["Web API using HTTP", "Database", "Spreadsheet", "Word processor"],
+    "answer": "Web API using HTTP",
+    "explanation": "REST APIs use HTTP requests to perform CRUD operations on resources."
+  },
+  {
+    "question": "Which of the following is an example of a GraphQL feature?",
+    "options": ["Client specifies exact data needed", "Fixed data structure", "No queries", "Only POST requests"],
+    "answer": "Client specifies exact data needed",
+    "explanation": "GraphQL allows clients to request exactly the data they need, nothing more."
+  },
+  {
+    "question": "What is a webhook?",
+    "options": ["Automated HTTP callback", "Manual button", "Print command", "Save command"],
+    "answer": "Automated HTTP callback",
+    "explanation": "Webhooks send real-time data from one application to another when events occur."
+  },
+  {
+    "question": "Which of the following is an example of a serverless database?",
+    "options": ["Firebase", "MySQL", "PostgreSQL", "Oracle"],
+    "answer": "Firebase",
+    "explanation": "Firebase is a serverless, real-time database from Google."
+  },
+  {
+    "question": "What is a data lake?",
+    "options": ["Raw data storage", "Processed data only", "Spreadsheet", "Word document"],
+    "answer": "Raw data storage",
+    "explanation": "A data lake stores large amounts of raw data in its native format for future processing."
+  },
+  {
+    "question": "Which of the following is an example of an ETL tool?",
+    "options": ["Apache NiFi", "Word", "Excel", "PowerPoint"],
+    "answer": "Apache NiFi",
+    "explanation": "Apache NiFi automates ETL (Extract, Transform, Load) data flows."
+  },
+  {
+    "question": "What is data lineage?",
+    "options": ["Data origin and movement history", "Data deletion", "Data printing", "Data encryption"],
+    "answer": "Data origin and movement history",
+    "explanation": "Data lineage tracks where data came from and how it was transformed."
+  },
+  {
+    "question": "Which of the following is an example of a data catalog?",
+    "options": ["Alation", "Word", "Excel", "PowerPoint"],
+    "answer": "Alation",
+    "explanation": "Alation is a data catalog tool for discovering and managing data assets."
+  },
+  {
+    "question": "What is a data fabric architecture?",
+    "options": ["Unified data management layer", "Single database", "Spreadsheet", "Text file"],
+    "answer": "Unified data management layer",
+    "explanation": "Data fabric provides a unified architecture for managing data across hybrid environments."
+  },
+  {
+    "question": "Which of the following is an example of a graph database?",
+    "options": ["Neo4j", "MySQL", "Excel", "Access"],
+    "answer": "Neo4j",
+    "explanation": "Neo4j is a graph database that stores data as nodes and relationships."
+  },
+  {
+    "question": "What is a time-series database used for?",
+    "options": ["Storing time-stamped data", "Storing images", "Storing videos", "Storing documents"],
+    "answer": "Storing time-stamped data",
+    "explanation": "Time-series databases optimize for storing and querying time-stamped data like sensor readings."
+  },
+  {
+    "question": "Which of the following is an example of an in-memory database?",
+    "options": ["Redis", "MySQL", "PostgreSQL", "Oracle"],
+    "answer": "Redis",
+    "explanation": "Redis is an in-memory database that stores data in RAM for extremely fast access."
+  },
+  {
+    "question": "What is a database shard?",
+    "options": ["Horizontal partition of data", "Vertical partition", "Entire database", "Single table"],
+    "answer": "Horizontal partition of data",
+    "explanation": "Sharding splits a large database into smaller, faster, more manageable parts called shards."
+  },
+  {
+    "question": "Which of the following is an example of a NoSQL database?",
+    "options": ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
+    "answer": "MongoDB",
+    "explanation": "MongoDB is a document-based NoSQL database."
+  },
+  {
+    "question": "What is ACID in databases?",
+    "options": ["Atomicity, Consistency, Isolation, Durability", "Speed, Size, Cost, Security", "Read, Write, Update, Delete", "Create, Insert, Delete, Drop"],
+    "answer": "Atomicity, Consistency, Isolation, Durability",
+    "explanation": "ACID properties ensure reliable processing of database transactions."
+  },
+  {
+    "question": "Which of the following is a BASE property in NoSQL?",
+    "options": ["Basically Available, Soft state, Eventual consistency", "Binary, Atomic, Secure, Efficient", "Big, Advanced, Simple, Easy", "Basic, Automatic, Stable, Exact"],
+    "answer": "Basically Available, Soft state, Eventual consistency",
+    "explanation": "BASE is an alternative to ACID used in many NoSQL databases for scalability."
+  },
+  {
+    "question": "What is a CAP theorem?",
+    "options": ["Consistency, Availability, Partition tolerance", "Cost, Access, Power", "Code, API, Protocol", "Create, Add, Print"],
+    "answer": "Consistency, Availability, Partition tolerance",
+    "explanation": "CAP theorem states distributed databases can only guarantee two of three properties at once."
+  },
+  {
+    "question": "Which of the following is an example of a message queue system?",
+    "options": ["RabbitMQ", "Word", "Excel", "PowerPoint"],
+    "answer": "RabbitMQ",
+    "explanation": "RabbitMQ is a message broker that enables asynchronous communication between services."
+  },
+  {
+    "question": "What is Apache Kafka used for?",
+    "options": ["Stream processing", "Word processing", "Spreadsheet", "Presentation"],
+    "answer": "Stream processing",
+    "explanation": "Apache Kafka is a distributed streaming platform for real-time data pipelines."
+  },
+  {
+    "question": "Which of the following is an example of a log management tool?",
+    "options": ["ELK Stack", "Word", "Excel", "PowerPoint"],
+    "answer": "ELK Stack",
+    "explanation": "ELK (Elasticsearch, Logstash, Kibana) is used for log aggregation and analysis."
+  },
+  {
+    "question": "What is observability in software systems?",
+    "options": ["Understanding system internal state", "Faster processing", "Better graphics", "More storage"],
+    "answer": "Understanding system internal state",
+    "explanation": "Observability uses logs, metrics, and traces to understand system behavior."
+  },
+  {
+    "question": "Which of the following is an example of a distributed tracing tool?",
+    "options": ["Jaeger", "Word", "Excel", "PowerPoint"],
+    "answer": "Jaeger",
+    "explanation": "Jaeger monitors and troubleshoots microservices-based distributed systems."
+  },
+  {
+    "question": "What is a service mesh?",
+    "options": ["Infrastructure layer for service-to-service communication", "Database", "Spreadsheet", "Word processor"],
+    "answer": "Infrastructure layer for service-to-service communication",
+    "explanation": "A service mesh manages communication between microservices with features like load balancing and security."
+  },
+  {
+    "question": "Which of the following is a service mesh platform?",
+    "options": ["Istio", "MySQL", "PostgreSQL", "Oracle"],
+    "answer": "Istio",
+    "explanation": "Istio is a popular open-source service mesh platform."
+  },
+  {
+    "question": "What is a chaos engineering practice?",
+    "options": ["Testing system resilience by injecting failures", "Random coding", "Ignoring errors", "No testing"],
+    "answer": "Testing system resilience by injecting failures",
+    "explanation": "Chaos engineering intentionally introduces failures to test system robustness."
+  },
+  {
+    "question": "Which of the following is a chaos engineering tool?",
+    "options": ["Chaos Monkey", "Word", "Excel", "PowerPoint"],
+    "answer": "Chaos Monkey",
+    "explanation": "Chaos Monkey randomly terminates instances to test cloud application resilience."
+  },
+  {
+    "question": "What is a feature flag?",
+    "options": ["Toggle features without redeploying", "Permanent feature removal", "Delete feature", "Ignore feature"],
+    "answer": "Toggle features without redeploying",
+    "explanation": "Feature flags enable or disable functionality at runtime without code deployment."
+  },
+  {
+    "question": "Which of the following is an example of an A/B testing tool?",
+    "options": ["Optimizely", "Word", "Excel", "PowerPoint"],
+    "answer": "Optimizely",
+    "explanation": "Optimizely enables A/B testing to compare different versions of web pages."
+  },
+  {
+    "question": "What is a customer data platform (CDP)?",
+    "options": ["Unified customer database", "Spreadsheet of customers", "Text file", "Email list"],
+    "answer": "Unified customer database",
+    "explanation": "A CDP collects and unifies customer data from multiple sources for marketing and analytics."
+  },
+  {
+    "question": "Which of the following is an example of a CDP?",
+    "options": ["Segment", "Word", "Excel", "PowerPoint"],
+    "answer": "Segment",
+    "explanation": "Segment is a customer data platform that collects and routes customer data."
+  },
+  {
+    "question": "What is a marketing automation platform?",
+    "options": ["Automated marketing tasks", "Manual email sending", "Paper mail", "Phone calls"],
+    "answer": "Automated marketing tasks",
+    "explanation": "Marketing automation platforms automate repetitive marketing tasks like email campaigns."
+  },
+  {
+    "question": "Which of the following is an example of a marketing automation tool?",
+    "options": ["HubSpot", "Word", "Excel", "PowerPoint"],
+    "answer": "HubSpot",
+    "explanation": "HubSpot provides marketing, sales, and service automation tools."
+  },
+  {
+    "question": "What is a salesforce automation tool?",
+    "options": ["Manage sales processes", "Word processing", "Spreadsheet", "Presentation"],
+    "answer": "Manage sales processes",
+    "explanation": "Salesforce automation tools streamline lead management, sales forecasting, and customer tracking."
+  },
+  {
+    "question": "Which of the following is an example of CRM software?",
+    "options": ["Salesforce", "Word", "Excel", "PowerPoint"],
+    "answer": "Salesforce",
+    "explanation": "Salesforce is a leading Customer Relationship Management (CRM) platform."
+  },
+  {
+    "question": "What is an ERP system?",
+    "options": ["Enterprise resource planning", "Email system", "Printer system", "Storage system"],
+    "answer": "Enterprise resource planning",
+    "explanation": "ERP integrates business processes like finance, HR, and supply chain into one system."
+  },
+  {
+    "question": "Which of the following is an example of an ERP system?",
+    "options": ["SAP", "Word", "Excel", "PowerPoint"],
+    "answer": "SAP",
+    "explanation": "SAP is a leading enterprise resource planning (ERP) software provider."
+  },
+  {
+    "question": "What is supply chain management software used for?",
+    "options": ["Managing product flow from supplier to customer", "Word processing", "Spreadsheet", "Presentation"],
+    "answer": "Managing product flow from supplier to customer",
+    "explanation": "Supply chain management software optimizes the flow of goods, data, and finances."
+  }
+]

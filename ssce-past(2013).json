@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is a storage device?",
+    "options": ["CPU", "RAM", "Hard disk", "Mouse"],
+    "answer": "Hard disk",
+    "explanation": "A hard disk is a storage device; CPU and RAM are not storage devices."
+  },
+  {
+    "question": "The full meaning of CPU is",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Computer Processing Unit"],
+    "answer": "Central Processing Unit",
+    "explanation": "CPU stands for Central Processing Unit, the brain of the computer."
+  },
+  {
+    "question": "Which of these is an output device?",
+    "options": ["Keyboard", "Mouse", "Scanner", "Speaker"],
+    "answer": "Speaker",
+    "explanation": "A speaker is an output device that produces sound."
+  },
+  {
+    "question": "Which of the following is an example of an application software?",
+    "options": ["Windows", "Linux", "macOS", "Microsoft Word"],
+    "answer": "Microsoft Word",
+    "explanation": "Microsoft Word is application software; the others are operating systems."
+  },
+  {
+    "question": "The shortcut key for cutting text is",
+    "options": ["Ctrl + C", "Ctrl + X", "Ctrl + V", "Ctrl + Z"],
+    "answer": "Ctrl + X",
+    "explanation": "Ctrl + X is the standard shortcut for cutting selected text or objects."
+  },
+  {
+    "question": "Which of the following is a web browser?",
+    "options": ["Mozilla Firefox", "Windows", "MS Word", "Excel"],
+    "answer": "Mozilla Firefox",
+    "explanation": "Mozilla Firefox is a web browser; the others are operating systems or applications."
+  },
+  {
+    "question": "Which of these is a type of computer virus?",
+    "options": ["Trojan horse", "Firewall", "Antivirus", "Router"],
+    "answer": "Trojan horse",
+    "explanation": "Trojan horse is a type of malware that disguises itself as legitimate software."
+  },
+  {
+    "question": "Which of the following is used to connect to the internet?",
+    "options": ["ISP", "CPU", "RAM", "ROM"],
+    "answer": "ISP",
+    "explanation": "Internet Service Provider (ISP) provides internet connectivity."
+  },
+  {
+    "question": "Which of these is an example of a social media platform?",
+    "options": ["Twitter", "Google", "Bing", "Yahoo"],
+    "answer": "Twitter",
+    "explanation": "Twitter is a social media platform; the others are search engines."
+  },
+  {
+    "question": "Which of the following is a secondary storage device?",
+    "options": ["RAM", "Cache", "USB flash drive", "Register"],
+    "answer": "USB flash drive",
+    "explanation": "USB flash drive is a secondary storage device used for portable data storage."
+  },
+  {
+    "question": "Which number system is base 16?",
+    "options": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+    "answer": "Hexadecimal",
+    "explanation": "Hexadecimal is a base-16 number system using digits 0-9 and letters A-F."
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "options": ["Monitor", "Printer", "Microphone", "Speaker"],
+    "answer": "Microphone",
+    "explanation": "A microphone is an input device that captures audio."
+  },
+  {
+    "question": "The operating system is an example of",
+    "options": ["System software", "Application software", "Utility software", "Malware"],
+    "answer": "System software",
+    "explanation": "An operating system is system software that manages hardware and software resources."
+  },
+  {
+    "question": "Which of the following is used to protect a computer from viruses?",
+    "options": ["Antivirus software", "Firewall", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "explanation": "Antivirus software and firewalls both help protect against malware and unauthorized access."
+  },
+  {
+    "question": "Which of these is a programming language?",
+    "options": ["Java", "Windows", "Linux", "macOS"],
+    "answer": "Java",
+    "explanation": "Java is a programming language; the others are operating systems."
+  },
+  {
+    "question": "The internet is a",
+    "options": ["LAN", "MAN", "WAN", "PAN"],
+    "answer": "WAN",
+    "explanation": "The internet is a global Wide Area Network (WAN)."
+  },
+  {
+    "question": "Which of the following is a type of network topology?",
+    "options": ["Star", "Bus", "Ring", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Star, Bus, and Ring are all common network topologies."
+  },
+  {
+    "question": "Which key is used to delete characters to the right of the cursor?",
+    "options": ["Backspace", "Delete", "Insert", "Home"],
+    "answer": "Delete",
+    "explanation": "The Delete key removes characters to the right of the cursor position."
+  },
+  {
+    "question": "Which of these is an example of an email service?",
+    "options": ["Outlook", "Google", "Bing", "Yahoo Search"],
+    "answer": "Outlook",
+    "explanation": "Outlook is an email service/client; the others are search engines."
+  },
+  {
+    "question": "Which of these is used to create documents?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "answer": "MS Word",
+    "explanation": "Microsoft Word is used for creating text documents."
+  },
+  {
+    "question": "Which of these is a type of computer memory?",
+    "options": ["RAM", "CPU", "ALU", "CU"],
+    "answer": "RAM",
+    "explanation": "RAM (Random Access Memory) is a type of computer memory."
+  },
+  {
+    "question": "Which of the following is an output device for printing large drawings?",
+    "options": ["Printer", "Plotter", "Scanner", "Monitor"],
+    "answer": "Plotter",
+    "explanation": "A plotter is used for printing large-scale drawings and designs."
+  },
+  {
+    "question": "Which of these is a search engine?",
+    "options": ["Google", "Facebook", "Instagram", "WhatsApp"],
+    "answer": "Google",
+    "explanation": "Google is a search engine; the others are social media apps."
+  },
+  {
+    "question": "Which of these is used for online communication?",
+    "options": ["Email", "Chat", "Video conferencing", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Email, chat, and video conferencing are all forms of online communication."
+  },
+  {
+    "question": "Which of these is an example of cloud storage?",
+    "options": ["Dropbox", "Hard disk", "USB drive", "DVD"],
+    "answer": "Dropbox",
+    "explanation": "Dropbox is a cloud storage service that stores data on remote servers."
+  },
+  {
+    "question": "Which of the following is a type of software?",
+    "options": ["System software", "Application software", "Utility software", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "System, application, and utility software are all categories of software."
+  },
+  {
+    "question": "Which of these is used to display PowerPoint slides for a large audience?",
+    "options": ["Projector", "Monitor", "Printer", "Scanner"],
+    "answer": "Projector",
+    "explanation": "A projector displays slides onto a large screen for presentations."
+  },
+  {
+    "question": "Which key combination is used to print a document?",
+    "options": ["Ctrl + P", "Ctrl + S", "Ctrl + O", "Ctrl + N"],
+    "answer": "Ctrl + P",
+    "explanation": "Ctrl + P is the shortcut for printing a document."
+  },
+  {
+    "question": "Which of these is an example of a spreadsheet application?",
+    "options": ["MS Excel", "MS Word", "MS PowerPoint", "MS Access"],
+    "answer": "MS Excel",
+    "explanation": "Microsoft Excel is used for creating spreadsheets and performing calculations."
+  },
+  {
+    "question": "Which of these is used to create presentations?",
+    "options": ["MS PowerPoint", "MS Word", "MS Excel", "MS Access"],
+    "answer": "MS PowerPoint",
+    "explanation": "Microsoft PowerPoint is used to create slide presentations."
+  },
+  {
+    "question": "Which of these is an example of a database software?",
+    "options": ["MS Access", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "MS Access",
+    "explanation": "Microsoft Access is a database management system."
+  },
+  {
+    "question": "Which of the following is a type of computer?",
+    "options": ["Analog", "Digital", "Hybrid", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Analog, digital, and hybrid are three main types of computers."
+  },
+  {
+    "question": "Which of these is a characteristic of a computer?",
+    "options": ["Speed", "Accuracy", "Storage", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Computers are known for their speed, accuracy, and large storage capacity."
+  },
+  {
+    "question": "Which of these is used to scan barcodes?",
+    "options": ["Barcode reader", "Scanner", "Keyboard", "Mouse"],
+    "answer": "Barcode reader",
+    "explanation": "A barcode reader is specifically designed to scan and decode barcodes."
+  },
+  {
+    "question": "Which of these is used to read handwritten text?",
+    "options": ["OCR", "OMR", "MICR", "Barcode reader"],
+    "answer": "OCR",
+    "explanation": "OCR (Optical Character Recognition) reads handwritten or printed text."
+  },
+  {
+    "question": "Which of these is used to read magnetic ink characters?",
+    "options": ["MICR", "OCR", "OMR", "Barcode reader"],
+    "answer": "MICR",
+    "explanation": "MICR (Magnetic Ink Character Recognition) reads magnetic ink, used on cheques."
+  },
+  {
+    "question": "Which of these is used to mark multiple-choice answers?",
+    "options": ["OMR", "OCR", "MICR", "Barcode reader"],
+    "answer": "OMR",
+    "explanation": "OMR (Optical Mark Recognition) reads marked bubbles on answer sheets."
+  },
+  {
+    "question": "Which of the following is a type of printer that uses ribbons?",
+    "options": ["Dot matrix", "Inkjet", "Laser", "Thermal"],
+    "answer": "Dot matrix",
+    "explanation": "Dot matrix printers use ink-soaked ribbons to produce print."
+  },
+  {
+    "question": "Which of these is an example of a portable computer?",
+    "options": ["Laptop", "Desktop", "Server", "Mainframe"],
+    "answer": "Laptop",
+    "explanation": "A laptop is a portable computer that can be carried easily."
+  },
+  {
+    "question": "Which of these is used to connect peripheral devices wirelessly?",
+    "options": ["Bluetooth", "USB cable", "Ethernet cable", "HDMI cable"],
+    "answer": "Bluetooth",
+    "explanation": "Bluetooth is a wireless technology for connecting peripheral devices."
+  },
+  {
+    "question": "Which of these is an example of an operating system?",
+    "options": ["Android", "iOS", "Windows", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Android, iOS, and Windows are all operating systems."
+  },
+  {
+    "question": "Which of these is used to secure a wireless network?",
+    "options": ["WPA2", "HTTP", "FTP", "SMTP"],
+    "answer": "WPA2",
+    "explanation": "WPA2 (Wi-Fi Protected Access 2) is a security protocol for wireless networks."
+  },
+  {
+    "question": "Which of these is a video conferencing app?",
+    "options": ["Zoom", "Google Meet", "Microsoft Teams", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Zoom, Google Meet, and Microsoft Teams are all video conferencing apps."
+  },
+  {
+    "question": "Which of these is an example of e-learning platform?",
+    "options": ["Moodle", "Google Classroom", "Canvas", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Moodle, Google Classroom, and Canvas are all e-learning platforms."
+  },
+  {
+    "question": "Which of these is used for online payments?",
+    "options": ["PayPal", "Venmo", "Stripe", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "PayPal, Venmo, and Stripe are all online payment platforms."
+  },
+  {
+    "question": "Which of these is a type of cybercrime?",
+    "options": ["Phishing", "Hacking", "Identity theft", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Phishing, hacking, and identity theft are all forms of cybercrime."
+  },
+  {
+    "question": "Which of these is used to protect against phishing?",
+    "options": ["Antivirus", "Firewall", "Email filtering", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Antivirus, firewalls, and email filtering help protect against phishing attacks."
+  },
+  {
+    "question": "Which of these is a strong password practice?",
+    "options": ["Using uppercase and lowercase letters", "Using numbers and symbols", "Using at least 8 characters", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Strong passwords combine uppercase, lowercase, numbers, symbols, and sufficient length."
+  },
+  {
+    "question": "Which of these is an example of two-factor authentication?",
+    "options": ["Password and OTP", "Password only", "Username only", "Email only"],
+    "answer": "Password and OTP",
+    "explanation": "Two-factor authentication requires two forms of verification, like a password and an OTP."
+  },
+  {
+    "question": "Which of these is a safe practice when using public Wi-Fi?",
+    "options": ["Use VPN", "Avoid banking", "Use HTTPS", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Using a VPN, avoiding banking, and using HTTPS are safe practices on public Wi-Fi."
+  }
+]

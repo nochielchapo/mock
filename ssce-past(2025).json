@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is an example of Generative AI?",
+    "options": ["ChatGPT", "Windows 11", "Excel", "PowerPoint"],
+    "answer": "ChatGPT",
+    "explanation": "Generative AI models like ChatGPT create text, images, code, and other content based on prompts."
+  },
+  {
+    "question": "What is the main purpose of the Metaverse?",
+    "options": ["Immersive virtual world", "Word processing", "Spreadsheet calculation", "Email sending"],
+    "answer": "Immersive virtual world",
+    "explanation": "The Metaverse is a collective virtual shared space created by converging virtually enhanced physical and digital reality."
+  },
+  {
+    "question": "Which technology is used to verify identity using unique physical characteristics?",
+    "options": ["Biometrics", "Firewall", "Encryption", "Antivirus"],
+    "answer": "Biometrics",
+    "explanation": "Biometrics uses physical characteristics like fingerprints, facial recognition, or iris scans for identification."
+  },
+  {
+    "question": "What does Web 3.0 primarily focus on?",
+    "options": ["Decentralization and blockchain", "Static web pages", "Email services", "Basic HTML"],
+    "answer": "Decentralization and blockchain",
+    "explanation": "Web 3.0 incorporates decentralization, blockchain, and semantic web technologies for user-owned data."
+  },
+  {
+    "question": "Which of the following is a large language model (LLM)?",
+    "options": ["GPT-4", "Windows", "macOS", "Linux"],
+    "answer": "GPT-4",
+    "explanation": "GPT-4 is a large language model developed by OpenAI for natural language processing tasks."
+  },
+  {
+    "question": "What is prompt engineering?",
+    "options": ["Designing inputs for AI models", "Building hardware", "Writing code", "Designing databases"],
+    "answer": "Designing inputs for AI models",
+    "explanation": "Prompt engineering involves crafting effective inputs to get desired outputs from AI models like ChatGPT."
+  },
+  {
+    "question": "Which of the following is a quantum computing concept?",
+    "options": ["Qubit", "Byte", "Bit", "Nibble"],
+    "answer": "Qubit",
+    "explanation": "A qubit (quantum bit) is the basic unit of quantum information, unlike classical bits which are 0 or 1."
+  },
+  {
+    "question": "What is a smart contract?",
+    "options": ["Self-executing contract on blockchain", "Paper contract", "Email agreement", "Phone agreement"],
+    "answer": "Self-executing contract on blockchain",
+    "explanation": "Smart contracts are self-executing contracts with terms directly written into code on a blockchain."
+  },
+  {
+    "question": "Which of the following is an example of a decentralized finance (DeFi) application?",
+    "options": ["Uniswap", "Microsoft Word", "Google Chrome", "Excel"],
+    "answer": "Uniswap",
+    "explanation": "Uniswap is a decentralized exchange (DEX) for cryptocurrency trading without intermediaries."
+  },
+  {
+    "question": "What is an NFT (Non-Fungible Token)?",
+    "options": ["Unique digital asset on blockchain", "Cryptocurrency", "Web browser", "Email service"],
+    "answer": "Unique digital asset on blockchain",
+    "explanation": "NFTs are unique digital assets representing ownership of items like art, music, or collectibles on a blockchain."
+  },
+  {
+    "question": "Which of the following is a metaverse platform?",
+    "options": ["Decentraland", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Decentraland",
+    "explanation": "Decentraland is a decentralized virtual reality platform (metaverse) where users can buy land and interact."
+  },
+  {
+    "question": "What is edge computing?",
+    "options": ["Processing data near the source", "Cloud computing only", "Centralized data center", "Offline processing"],
+    "answer": "Processing data near the source",
+    "explanation": "Edge computing processes data closer to where it is generated, reducing latency and bandwidth use."
+  },
+  {
+    "question": "Which of the following is an example of a 5G application?",
+    "options": ["Autonomous vehicles", "Word processing", "Spreadsheet", "Email"],
+    "answer": "Autonomous vehicles",
+    "explanation": "5G's low latency and high speed enable real-time communication for autonomous vehicles."
+  },
+  {
+    "question": "What is a digital twin?",
+    "options": ["Virtual replica of a physical object", "Computer virus", "Antivirus", "Firewall"],
+    "answer": "Virtual replica of a physical object",
+    "explanation": "A digital twin is a virtual model that mirrors a physical object, process, or system."
+  },
+  {
+    "question": "Which of the following is an example of computer vision?",
+    "options": ["Facial recognition", "Spell check", "Email filtering", "File compression"],
+    "answer": "Facial recognition",
+    "explanation": "Facial recognition is a computer vision technology that identifies or verifies faces."
+  },
+  {
+    "question": "What is natural language processing (NLP)?",
+    "options": ["AI interaction with human language", "Computer networking", "Database management", "File storage"],
+    "answer": "AI interaction with human language",
+    "explanation": "NLP enables computers to understand, interpret, and respond to human language."
+  },
+  {
+    "question": "Which of the following is a responsible AI principle?",
+    "options": ["Fairness", "Accountability", "Transparency", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Fairness, accountability, and transparency are key principles of responsible AI development."
+  },
+  {
+    "question": "What is AI bias?",
+    "options": ["Unfair prejudice in AI outputs", "Fast processing", "High accuracy", "Low cost"],
+    "answer": "Unfair prejudice in AI outputs",
+    "explanation": "AI bias occurs when AI systems produce systematically prejudiced results due to biased training data or algorithms."
+  },
+  {
+    "question": "Which of the following is a zero-trust security model principle?",
+    "options": ["Never trust, always verify", "Trust everyone", "Trust by default", "No verification needed"],
+    "answer": "Never trust, always verify",
+    "explanation": "Zero-trust security assumes no user or device is trusted by default, requiring continuous verification."
+  },
+  {
+    "question": "What is a Security Operations Center (SOC)?",
+    "options": ["Centralized security monitoring team", "Coding team", "Sales team", "Marketing team"],
+    "answer": "Centralized security monitoring team",
+    "explanation": "A SOC is a team that monitors, detects, responds to, and prevents cybersecurity incidents."
+  },
+  {
+    "question": "Which of the following is an example of a post-quantum cryptography algorithm?",
+    "options": ["Lattice-based cryptography", "RSA", "AES", "DES"],
+    "answer": "Lattice-based cryptography",
+    "explanation": "Lattice-based cryptography is considered resistant to attacks from quantum computers."
+  },
+  {
+    "question": "What is homomorphic encryption?",
+    "options": ["Computing on encrypted data", "Simple password", "Basic firewall", "Standard antivirus"],
+    "answer": "Computing on encrypted data",
+    "explanation": "Homomorphic encryption allows computations to be performed on encrypted data without decryption."
+  },
+  {
+    "question": "Which of the following is a federated learning system?",
+    "options": ["Training AI without sharing raw data", "Centralized data storage", "Manual data entry", "Paper records"],
+    "answer": "Training AI without sharing raw data",
+    "explanation": "Federated learning trains AI models across devices without exchanging local data, preserving privacy."
+  },
+  {
+    "question": "What is a GAN (Generative Adversarial Network)?",
+    "options": ["Two neural networks competing", "Single network", "Database", "Spreadsheet"],
+    "answer": "Two neural networks competing",
+    "explanation": "GANs consist of a generator and discriminator competing to create realistic synthetic data."
+  },
+  {
+    "question": "Which of the following is an example of a diffusion model?",
+    "options": ["DALL-E", "Windows", "macOS", "Linux"],
+    "answer": "DALL-E",
+    "explanation": "DALL-E is a diffusion model that generates images from text descriptions."
+  },
+  {
+    "question": "What is a vector database used for?",
+    "options": ["Storing AI embeddings", "Storing text only", "Storing numbers only", "Storing images only"],
+    "answer": "Storing AI embeddings",
+    "explanation": "Vector databases store and query high-dimensional vectors used in AI applications like similarity search."
+  },
+  {
+    "question": "Which of the following is a retrieval-augmented generation (RAG) technique?",
+    "options": ["Combining retrieval with LLM generation", "Only retrieval", "Only generation", "No retrieval"],
+    "answer": "Combining retrieval with LLM generation",
+    "explanation": "RAG enhances LLM responses by retrieving relevant information from external knowledge sources."
+  },
+  {
+    "question": "What is an AI agent?",
+    "options": ["Autonomous AI system performing tasks", "Chatbot only", "Spell checker", "Calculator"],
+    "answer": "Autonomous AI system performing tasks",
+    "explanation": "AI agents can perceive their environment and take actions to achieve goals autonomously."
+  },
+  {
+    "question": "Which of the following is an example of a multimodal AI model?",
+    "options": ["GPT-4 with vision", "Text-only model", "Number-only model", "Binary-only model"],
+    "answer": "GPT-4 with vision",
+    "explanation": "Multimodal AI models can process and generate multiple types of data like text, images, and audio."
+  },
+  {
+    "question": "What is a deepfake?",
+    "options": ["AI-generated synthetic media", "Antivirus software", "Firewall", "Spreadsheet"],
+    "answer": "AI-generated synthetic media",
+    "explanation": "Deepfakes use AI to create realistic but fake videos, images, or audio of people."
+  },
+  {
+    "question": "Which of the following is a method to detect deepfakes?",
+    "options": ["Artifact analysis", "Spell check", "Print preview", "Save as"],
+    "answer": "Artifact analysis",
+    "explanation": "Deepfake detection analyzes digital artifacts like inconsistent lighting or unnatural eye movements."
+  },
+  {
+    "question": "What is the EU AI Act?",
+    "options": ["Regulation for AI systems", "Speed law", "Tax law", "Education law"],
+    "answer": "Regulation for AI systems",
+    "explanation": "The EU AI Act is a regulatory framework classifying AI systems by risk levels."
+  },
+  {
+    "question": "Which of the following is an example of a digital identity wallet?",
+    "options": ["Self-sovereign identity app", "Google Docs", "Excel", "PowerPoint"],
+    "answer": "Self-sovereign identity app",
+    "explanation": "Digital identity wallets allow users to control and share their identity credentials securely."
+  },
+  {
+    "question": "What is a CBDC (Central Bank Digital Currency)?",
+    "options": ["Digital form of fiat currency", "Cryptocurrency", "Bitcoin", "Ethereum"],
+    "answer": "Digital form of fiat currency",
+    "explanation": "CBDCs are digital currencies issued and regulated by a country's central bank."
+  },
+  {
+    "question": "Which of the following is an example of a stablecoin?",
+    "options": ["USDC", "Bitcoin", "Ethereum", "Dogecoin"],
+    "answer": "USDC",
+    "explanation": "USDC is a stablecoin pegged to the US dollar, maintaining a stable value."
+  },
+  {
+    "question": "What is a DAO (Decentralized Autonomous Organization)?",
+    "options": ["Organization governed by smart contracts", "Traditional company", "Government agency", "School"],
+    "answer": "Organization governed by smart contracts",
+    "explanation": "DAOs use blockchain and smart contracts for decentralized decision-making without central leadership."
+  },
+  {
+    "question": "Which of the following is a Layer 2 blockchain solution?",
+    "options": ["Polygon", "Bitcoin", "Ethereum", "Solana"],
+    "answer": "Polygon",
+    "explanation": "Polygon is a Layer 2 scaling solution for Ethereum, improving transaction speed and reducing costs."
+  },
+  {
+    "question": "What is a zk-rollup?",
+    "options": ["Zero-knowledge proof scaling solution", "Database", "Spreadsheet", "Word processor"],
+    "answer": "Zero-knowledge proof scaling solution",
+    "explanation": "Zk-rollups use zero-knowledge proofs to bundle transactions, increasing blockchain scalability."
+  },
+  {
+    "question": "Which of the following is an example of a green blockchain?",
+    "options": ["Proof-of-stake blockchain", "Proof-of-work blockchain", "Bitcoin", "Ethereum PoW"],
+    "answer": "Proof-of-stake blockchain",
+    "explanation": "Proof-of-stake blockchains consume significantly less energy than proof-of-work systems."
+  },
+  {
+    "question": "What is the purpose of the EU Digital Services Act?",
+    "options": ["Regulate online platforms", "Increase internet speed", "Lower computer prices", "Promote software sales"],
+    "answer": "Regulate online platforms",
+    "explanation": "The Digital Services Act regulates online platforms to protect users and ensure transparency."
+  },
+  {
+    "question": "Which of the following is a data privacy right under GDPR/NDPR?",
+    "options": ["Right to be forgotten", "Right to fast internet", "Right to free software", "Right to print"],
+    "answer": "Right to be forgotten",
+    "explanation": "The right to be forgotten allows individuals to request deletion of their personal data."
+  },
+  {
+    "question": "What is a data breach notification requirement?",
+    "options": ["Informing authorities of data breach", "Deleting data", "Printing data", "Hiding data"],
+    "answer": "Informing authorities of data breach",
+    "explanation": "Data protection laws require organizations to notify authorities and affected users of data breaches."
+  },
+  {
+    "question": "Which of the following is an example of a cybersecurity mesh?",
+    "options": ["Distributed security architecture", "Single firewall", "One antivirus", "One password"],
+    "answer": "Distributed security architecture",
+    "explanation": "Cybersecurity mesh is a flexible, modular approach to security in distributed environments."
+  },
+  {
+    "question": "What is SASE (Secure Access Service Edge)?",
+    "options": ["Cloud-based security framework", "Local firewall", "Desktop antivirus", "USB security"],
+    "answer": "Cloud-based security framework",
+    "explanation": "SASE combines network and security functions into a single cloud-delivered service."
+  },
+  {
+    "question": "Which of the following is an example of an Extended Detection and Response (XDR) system?",
+    "options": ["Unified security across multiple layers", "Single antivirus", "One firewall", "One IDS"],
+    "answer": "Unified security across multiple layers",
+    "explanation": "XDR integrates security data from multiple sources for comprehensive threat detection and response."
+  },
+  {
+    "question": "What is a bug bounty program?",
+    "options": ["Reward for finding security vulnerabilities", "Antivirus software", "Firewall", "VPN"],
+    "answer": "Reward for finding security vulnerabilities",
+    "explanation": "Bug bounty programs pay security researchers for reporting vulnerabilities responsibly."
+  },
+  {
+    "question": "Which of the following is a purple team function?",
+    "options": ["Red and blue teams collaborating", "Only attacking", "Only defending", "No security"],
+    "answer": "Red and blue teams collaborating",
+    "explanation": "Purple teaming involves red and blue teams working together to improve overall security."
+  },
+  {
+    "question": "What is chaos engineering?",
+    "options": ["Testing system resilience by injecting failures", "Random coding", "Ignoring errors", "No testing"],
+    "answer": "Testing system resilience by injecting failures",
+    "explanation": "Chaos engineering intentionally introduces failures to test system robustness."
+  },
+  {
+    "question": "Which of the following is a platform engineering practice?",
+    "options": ["Building internal developer platforms", "Manual coding", "No automation", "No tools"],
+    "answer": "Building internal developer platforms",
+    "explanation": "Platform engineering creates internal tools and platforms to improve developer productivity."
+  },
+  {
+    "question": "What is FinOps?",
+    "options": ["Cloud financial management", "Word processing", "Spreadsheet", "Email"],
+    "answer": "Cloud financial management",
+    "explanation": "FinOps optimizes cloud spending through collaboration between finance, engineering, and operations teams."
+  }
+]

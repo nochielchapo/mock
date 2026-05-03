@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is an example of a contactless payment method?",
+    "options": ["NFC payment", "Cash", "Cheque", "Money order"],
+    "answer": "NFC payment",
+    "explanation": "NFC (Near Field Communication) allows contactless payments using smartphones or cards."
+  },
+  {
+    "question": "Which technology is used to train computers using large datasets?",
+    "options": ["Machine Learning", "Manual coding", "Spreadsheets", "Word processing"],
+    "answer": "Machine Learning",
+    "explanation": "Machine Learning uses algorithms to learn patterns from large datasets without explicit programming."
+  },
+  {
+    "question": "What does SaaS stand for?",
+    "options": ["Software as a Service", "System as a Service", "Storage as a Service", "Security as a Service"],
+    "answer": "Software as a Service",
+    "explanation": "SaaS delivers software applications over the internet on a subscription basis."
+  },
+  {
+    "question": "Which of the following is an example of a telemedicine platform?",
+    "options": ["Teladoc", "Facebook", "Instagram", "Twitter"],
+    "answer": "Teladoc",
+    "explanation": "Teladoc is a telemedicine platform that provides remote healthcare consultations."
+  },
+  {
+    "question": "What is the main purpose of an Intrusion Detection System (IDS)?",
+    "options": ["Detect suspicious network activity", "Block all traffic", "Speed up network", "Store files"],
+    "answer": "Detect suspicious network activity",
+    "explanation": "IDS monitors network traffic for suspicious activity and alerts administrators."
+  },
+  {
+    "question": "Which of the following is a programming language specifically for data analysis?",
+    "options": ["R", "HTML", "CSS", "XML"],
+    "answer": "R",
+    "explanation": "R is a programming language designed for statistical computing and data analysis."
+  },
+  {
+    "question": "What is a rootkit?",
+    "options": ["Malware that hides deep in the system", "Antivirus software", "Firewall", "Web browser"],
+    "answer": "Malware that hides deep in the system",
+    "explanation": "A rootkit is malicious software that hides its presence and provides administrator access to an attacker."
+  },
+  {
+    "question": "Which of the following is an example of a decentralized social media platform?",
+    "options": ["Mastodon", "Facebook", "Instagram", "Twitter"],
+    "answer": "Mastodon",
+    "explanation": "Mastodon is a decentralized, open-source social media platform."
+  },
+  {
+    "question": "What is the function of a Content Delivery Network (CDN)?",
+    "options": ["Speed up content delivery", "Store passwords", "Encrypt emails", "Print documents"],
+    "answer": "Speed up content delivery",
+    "explanation": "CDNs distribute content across multiple servers worldwide to reduce latency and speed up delivery."
+  },
+  {
+    "question": "Which of the following is a smart agriculture technology?",
+    "options": ["Soil moisture sensors", "Manual plough", "Hand hoe", "Water bucket"],
+    "answer": "Soil moisture sensors",
+    "explanation": "Soil moisture sensors are IoT devices that help farmers optimize irrigation."
+  },
+  {
+    "question": "What does VoIP stand for?",
+    "options": ["Voice over Internet Protocol", "Video over IP", "Virtual over IP", "Voice on IP"],
+    "answer": "Voice over Internet Protocol",
+    "explanation": "VoIP enables voice calls over the internet instead of traditional phone lines."
+  },
+  {
+    "question": "Which of the following is an example of a Remote Access Trojan (RAT)?",
+    "options": ["SubSeven", "Firefox", "Chrome", "Excel"],
+    "answer": "SubSeven",
+    "explanation": "SubSeven is a well-known Remote Access Trojan that allows attackers to control a victim's computer."
+  },
+  {
+    "question": "What is the purpose of a load balancer?",
+    "options": ["Distribute network traffic", "Store data", "Print documents", "Browse the web"],
+    "answer": "Distribute network traffic",
+    "explanation": "A load balancer distributes incoming network traffic across multiple servers for efficiency and reliability."
+  },
+  {
+    "question": "Which of the following is an example of a cryptocurrency wallet?",
+    "options": ["MetaMask", "Google Drive", "OneDrive", "Dropbox"],
+    "answer": "MetaMask",
+    "explanation": "MetaMask is a cryptocurrency wallet for interacting with the Ethereum blockchain."
+  },
+  {
+    "question": "What is a hash function used for?",
+    "options": ["Data integrity verification", "Data storage", "Data printing", "Data deletion"],
+    "answer": "Data integrity verification",
+    "explanation": "Hash functions generate a fixed-size output (hash) to verify data integrity and for password storage."
+  },
+  {
+    "question": "Which of the following is a phishing prevention technique?",
+    "options": ["Check email sender address", "Click all links", "Share passwords", "Disable antivirus"],
+    "answer": "Check email sender address",
+    "explanation": "Verifying sender email addresses helps identify phishing attempts."
+  },
+  {
+    "question": "What is Platform as a Service (PaaS)?",
+    "options": ["Cloud platform for developing applications", "Physical server", "Desktop computer", "Printer"],
+    "answer": "Cloud platform for developing applications",
+    "explanation": "PaaS provides a cloud-based platform for developers to build, test, and deploy applications."
+  },
+  {
+    "question": "Which of the following is an example of serverless computing?",
+    "options": ["AWS Lambda", "Desktop PC", "Laptop", "Tablet"],
+    "answer": "AWS Lambda",
+    "explanation": "AWS Lambda is a serverless computing service that runs code without provisioning servers."
+  },
+  {
+    "question": "What is a container in software development?",
+    "options": ["Lightweight virtual environment", "Storage box", "Printer cartridge", "Monitor stand"],
+    "answer": "Lightweight virtual environment",
+    "explanation": "Containers package software with dependencies for consistent running across environments."
+  },
+  {
+    "question": "Which of the following is a containerization platform?",
+    "options": ["Docker", "Windows", "macOS", "Linux"],
+    "answer": "Docker",
+    "explanation": "Docker is the most popular containerization platform for developing and deploying containers."
+  },
+  {
+    "question": "What is Kubernetes used for?",
+    "options": ["Container orchestration", "Word processing", "Spreadsheet", "Email"],
+    "answer": "Container orchestration",
+    "explanation": "Kubernetes automates the deployment, scaling, and management of containerized applications."
+  },
+  {
+    "question": "Which of the following is an example of a version control system?",
+    "options": ["Git", "Word", "Excel", "PowerPoint"],
+    "answer": "Git",
+    "explanation": "Git is a distributed version control system for tracking changes in source code."
+  },
+  {
+    "question": "What is GitHub primarily used for?",
+    "options": ["Hosting code repositories", "Social media", "Email", "Video streaming"],
+    "answer": "Hosting code repositories",
+    "explanation": "GitHub is a web-based platform for hosting and collaborating on Git repositories."
+  },
+  {
+    "question": "Which of the following is an ethical hacker?",
+    "options": ["White hat hacker", "Black hat hacker", "Grey hat hacker", "Script kiddie"],
+    "answer": "White hat hacker",
+    "explanation": "White hat hackers use hacking skills ethically with permission to find security vulnerabilities."
+  },
+  {
+    "question": "What is a bug bounty program?",
+    "options": ["Reward for finding security vulnerabilities", "Antivirus software", "Firewall", "VPN"],
+    "answer": "Reward for finding security vulnerabilities",
+    "explanation": "Bug bounty programs pay security researchers for reporting vulnerabilities responsibly."
+  },
+  {
+    "question": "Which of the following is a DevSecOps practice?",
+    "options": ["Integrating security into DevOps", "Ignoring security", "Removing testing", "Manual deployment only"],
+    "answer": "Integrating security into DevOps",
+    "explanation": "DevSecOps integrates security practices throughout the software development lifecycle."
+  },
+  {
+    "question": "What is a CI/CD pipeline?",
+    "options": ["Automated software delivery process", "Manual coding", "Email system", "Printing system"],
+    "answer": "Automated software delivery process",
+    "explanation": "CI/CD (Continuous Integration/Continuous Deployment) automates building, testing, and deploying software."
+  },
+  {
+    "question": "Which of the following is an example of a static code analysis tool?",
+    "options": ["SonarQube", "Word", "Excel", "PowerPoint"],
+    "answer": "SonarQube",
+    "explanation": "SonarQube automatically analyzes source code for bugs, vulnerabilities, and code smells."
+  },
+  {
+    "question": "What is a digital twin?",
+    "options": ["Virtual replica of a physical object", "Computer virus", "Antivirus", "Firewall"],
+    "answer": "Virtual replica of a physical object",
+    "explanation": "A digital twin is a virtual model that mirrors a physical object, process, or system."
+  },
+  {
+    "question": "Which of the following is an example of predictive maintenance using AI?",
+    "options": ["Predicting equipment failure before it happens", "Fixing after failure", "Ignoring maintenance", "Weekly manual checks"],
+    "answer": "Predicting equipment failure before it happens",
+    "explanation": "AI analyzes sensor data to predict when equipment will fail, enabling proactive maintenance."
+  },
+  {
+    "question": "What is a recommendation system?",
+    "options": ["AI suggesting products or content", "Email system", "File storage", "Printing system"],
+    "answer": "AI suggesting products or content",
+    "explanation": "Recommendation systems use AI to suggest items based on user preferences and behavior."
+  },
+  {
+    "question": "Which of the following is an example of a speech recognition API?",
+    "options": ["Google Speech-to-Text", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Google Speech-to-Text",
+    "explanation": "Google Speech-to-Text API converts audio to text using machine learning."
+  },
+  {
+    "question": "What is a sentiment analysis system?",
+    "options": ["Determines emotion in text", "Checks spelling", "Counts words", "Prints documents"],
+    "answer": "Determines emotion in text",
+    "explanation": "Sentiment analysis uses NLP to determine whether text expresses positive, negative, or neutral emotions."
+  },
+  {
+    "question": "Which of the following is an example of an image recognition model?",
+    "options": ["ResNet", "Word", "Excel", "PowerPoint"],
+    "answer": "ResNet",
+    "explanation": "ResNet (Residual Neural Network) is a deep learning model for image recognition."
+  },
+  {
+    "question": "What is a GAN (Generative Adversarial Network)?",
+    "options": ["Two neural networks competing", "Single network", "Database", "Spreadsheet"],
+    "answer": "Two neural networks competing",
+    "explanation": "GANs consist of a generator and discriminator competing to create realistic synthetic data."
+  },
+  {
+    "question": "Which of the following is an example of a large language model (LLM)?",
+    "options": ["GPT-3", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "GPT-3",
+    "explanation": "GPT-3 (Generative Pre-trained Transformer 3) is a large language model for natural language tasks."
+  },
+  {
+    "question": "What is prompt engineering?",
+    "options": ["Designing inputs for AI models", "Building hardware", "Writing code", "Designing databases"],
+    "answer": "Designing inputs for AI models",
+    "explanation": "Prompt engineering involves crafting effective inputs to get desired outputs from AI models like ChatGPT."
+  },
+  {
+    "question": "Which of the following is a responsible AI principle?",
+    "options": ["Fairness", "Accountability", "Transparency", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Fairness, accountability, and transparency are key principles of responsible AI development."
+  },
+  {
+    "question": "What is AI bias?",
+    "options": ["Unfair prejudice in AI outputs", "Fast processing", "High accuracy", "Low cost"],
+    "answer": "Unfair prejudice in AI outputs",
+    "explanation": "AI bias occurs when AI systems produce systematically prejudiced results due to biased training data or algorithms."
+  },
+  {
+    "question": "Which of the following is an example of a federated learning system?",
+    "options": ["Training AI without sharing raw data", "Centralized data storage", "Manual data entry", "Paper records"],
+    "answer": "Training AI without sharing raw data",
+    "explanation": "Federated learning trains AI models across devices without exchanging local data, preserving privacy."
+  },
+  {
+    "question": "What is a homomorphic encryption?",
+    "options": ["Computing on encrypted data", "Simple password", "Basic firewall", "Standard antivirus"],
+    "answer": "Computing on encrypted data",
+    "explanation": "Homomorphic encryption allows computations to be performed on encrypted data without decryption."
+  },
+  {
+    "question": "Which of the following is a zero-trust security model principle?",
+    "options": ["Never trust, always verify", "Trust everyone", "Trust by default", "No verification needed"],
+    "answer": "Never trust, always verify",
+    "explanation": "Zero-trust security assumes no user or device is trusted by default, requiring continuous verification."
+  },
+  {
+    "question": "What is a Security Operations Center (SOC)?",
+    "options": ["Centralized security monitoring team", "Coding team", "Sales team", "Marketing team"],
+    "answer": "Centralized security monitoring team",
+    "explanation": "A SOC is a team that monitors, detects, responds to, and prevents cybersecurity incidents."
+  },
+  {
+    "question": "Which of the following is an example of a threat hunting technique?",
+    "options": ["Proactively searching for threats", "Waiting for alerts", "Ignoring logs", "Disabling monitoring"],
+    "answer": "Proactively searching for threats",
+    "explanation": "Threat hunting involves actively searching for hidden threats that evaded automated detection."
+  },
+  {
+    "question": "What is a red team in cybersecurity?",
+    "options": ["Ethical attackers testing defenses", "Defenders", "Management team", "Sales team"],
+    "answer": "Ethical attackers testing defenses",
+    "explanation": "Red teams simulate real-world attacks to test an organization's security defenses."
+  },
+  {
+    "question": "Which of the following is a blue team function?",
+    "options": ["Defending against attacks", "Attacking systems", "Selling products", "Marketing services"],
+    "answer": "Defending against attacks",
+    "explanation": "Blue teams are responsible for defending an organization's systems against cyber attacks."
+  },
+  {
+    "question": "What is purple teaming?",
+    "options": ["Red and blue teams collaborating", "Only attacking", "Only defending", "No security"],
+    "answer": "Red and blue teams collaborating",
+    "explanation": "Purple teaming involves red and blue teams working together to improve overall security."
+  },
+  {
+    "question": "Which of the following is an example of a cybersecurity framework?",
+    "options": ["NIST CSF", "GDPR", "PCI DSS", "HIPAA"],
+    "answer": "NIST CSF",
+    "explanation": "NIST Cybersecurity Framework provides guidelines for managing cybersecurity risk."
+  },
+  {
+    "question": "What is a disaster recovery plan?",
+    "options": ["Procedures for recovering from disasters", "Marketing plan", "Sales plan", "HR plan"],
+    "answer": "Procedures for recovering from disasters",
+    "explanation": "Disaster recovery plans outline steps to restore IT infrastructure after a disruptive event."
+  },
+  {
+    "question": "Which of the following is a backup strategy?",
+    "options": ["3-2-1 rule", "No backup", "One copy only", "Same location only"],
+    "answer": "3-2-1 rule",
+    "explanation": "The 3-2-1 backup rule means 3 copies, 2 different media, 1 offsite copy."
+  }
+]

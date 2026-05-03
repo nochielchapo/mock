@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following video conferencing platforms saw the highest increase in usage during the COVID-19 pandemic?",
+    "options": ["Zoom", "Skype", "WhatsApp", "Facebook"],
+    "answer": "Zoom",
+    "explanation": "Zoom became the most widely used video conferencing platform for remote work and online learning in 2020-2021."
+  },
+  {
+    "question": "What does VPN stand for?",
+    "options": ["Virtual Private Network", "Visual Private Network", "Virtual Public Network", "Visual Public Network"],
+    "answer": "Virtual Private Network",
+    "explanation": "VPN creates a secure, encrypted connection over the internet, essential for remote work security."
+  },
+  {
+    "question": "Which of the following is an example of a cloud storage service?",
+    "options": ["Google Drive", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Google Drive",
+    "explanation": "Google Drive is a cloud storage service; the others are desktop applications."
+  },
+  {
+    "question": "What is the main purpose of two-factor authentication (2FA)?",
+    "options": ["Add extra security layer", "Increase internet speed", "Store more data", "Improve graphics"],
+    "answer": "Add extra security layer",
+    "explanation": "2FA requires two forms of verification, significantly improving account security."
+  },
+  {
+    "question": "Which of the following is a remote desktop application?",
+    "options": ["TeamViewer", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "TeamViewer",
+    "explanation": "TeamViewer allows remote access and control of computers, widely used for remote IT support."
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Application Program Integration", "Advanced Programming Interface", "Automated Program Interface"],
+    "answer": "Application Programming Interface",
+    "explanation": "API allows different software applications to communicate with each other."
+  },
+  {
+    "question": "Which of the following is an example of a ransomware attack?",
+    "options": ["WannaCry", "ILOVEYOU", "Melissa", "Code Red"],
+    "answer": "WannaCry",
+    "explanation": "WannaCry was a major ransomware attack in 2017 that affected thousands of computers worldwide."
+  },
+  {
+    "question": "What is phishing?",
+    "options": ["Fake messages to steal personal data", "Fishing online", "Data backup", "Software update"],
+    "answer": "Fake messages to steal personal data",
+    "explanation": "Phishing attacks use deceptive emails or messages to trick victims into revealing sensitive information."
+  },
+  {
+    "question": "Which of the following is a feature of 5G technology?",
+    "options": ["Lower latency", "Higher latency", "Slower speed", "Limited connectivity"],
+    "answer": "Lower latency",
+    "explanation": "5G offers significantly lower latency (response time) compared to 4G."
+  },
+  {
+    "question": "What is the Internet of Things (IoT)?",
+    "options": ["Network of physical devices", "Social media platform", "Web browser", "Email service"],
+    "answer": "Network of physical devices",
+    "explanation": "IoT refers to everyday devices connected to the internet, like smart home appliances and wearables."
+  },
+  {
+    "question": "Which of the following is an example of a smart home device?",
+    "options": ["Amazon Echo", "Desktop computer", "Laptop", "Tablet"],
+    "answer": "Amazon Echo",
+    "explanation": "Amazon Echo is a smart speaker with voice assistant capabilities, part of IoT."
+  },
+  {
+    "question": "What does SaaS stand for?",
+    "options": ["Software as a Service", "System as a Service", "Storage as a Service", "Security as a Service"],
+    "answer": "Software as a Service",
+    "explanation": "SaaS delivers software applications over the internet on a subscription basis (e.g., Google Workspace, Microsoft 365)."
+  },
+  {
+    "question": "Which of the following is a learning management system (LMS)?",
+    "options": ["Google Classroom", "Zoom", "WhatsApp", "Instagram"],
+    "answer": "Google Classroom",
+    "explanation": "Google Classroom is an LMS used for online learning and course management."
+  },
+  {
+    "question": "What is the function of a Content Delivery Network (CDN)?",
+    "options": ["Speed up content delivery", "Store passwords", "Encrypt emails", "Print documents"],
+    "answer": "Speed up content delivery",
+    "explanation": "CDNs distribute content across multiple servers worldwide to reduce loading times."
+  },
+  {
+    "question": "Which of the following is an example of a password manager?",
+    "options": ["LastPass", "Notepad", "Calculator", "Paint"],
+    "answer": "LastPass",
+    "explanation": "LastPass securely stores and manages passwords for multiple accounts."
+  },
+  {
+    "question": "What is a digital footprint?",
+    "options": ["Trail of data left online", "Footprint on keyboard", "Mouse pad", "Printer mark"],
+    "answer": "Trail of data left online",
+    "explanation": "Your digital footprint is the record of your online activities and interactions."
+  },
+  {
+    "question": "Which of the following is a collaboration tool for remote teams?",
+    "options": ["Slack", "WordPad", "Notepad", "Calculator"],
+    "answer": "Slack",
+    "explanation": "Slack is a messaging and collaboration platform for remote teams."
+  },
+  {
+    "question": "What does SSL/TLS protect?",
+    "options": ["Data in transit", "Data at rest", "Printed documents", "Physical storage"],
+    "answer": "Data in transit",
+    "explanation": "SSL/TLS certificates encrypt data transmitted between a browser and a web server."
+  },
+  {
+    "question": "Which of the following is a social engineering attack?",
+    "options": ["Pretexting", "SQL injection", "Buffer overflow", "DDoS"],
+    "answer": "Pretexting",
+    "explanation": "Pretexting is a social engineering attack where the attacker creates a false scenario to obtain information."
+  },
+  {
+    "question": "What is a zero-day vulnerability?",
+    "options": ["Unknown security flaw", "Known security flaw", "Antivirus update", "Firewall rule"],
+    "answer": "Unknown security flaw",
+    "explanation": "A zero-day vulnerability is a software security flaw unknown to the vendor, with no patch available."
+  },
+  {
+    "question": "Which of the following is a cloud computing deployment model?",
+    "options": ["Hybrid cloud", "Desktop cloud", "Printer cloud", "Monitor cloud"],
+    "answer": "Hybrid cloud",
+    "explanation": "Hybrid cloud combines public and private cloud deployment models."
+  },
+  {
+    "question": "What is machine learning?",
+    "options": ["AI that learns from data", "Manual coding", "Spreadsheet calculation", "Word processing"],
+    "answer": "AI that learns from data",
+    "explanation": "Machine learning uses algorithms to learn patterns from data without explicit programming."
+  },
+  {
+    "question": "Which of the following is an example of a virtual assistant?",
+    "options": ["Siri", "Excel", "Word", "PowerPoint"],
+    "answer": "Siri",
+    "explanation": "Siri is a virtual assistant developed by Apple for voice commands and tasks."
+  },
+  {
+    "question": "What is the purpose of a firewall?",
+    "options": ["Monitor and control network traffic", "Increase processing speed", "Store files", "Print documents"],
+    "answer": "Monitor and control network traffic",
+    "explanation": "A firewall monitors incoming and outgoing network traffic based on security rules."
+  },
+  {
+    "question": "Which of the following is an example of a cryptocurrency?",
+    "options": ["Bitcoin", "Dollar", "Euro", "Naira"],
+    "answer": "Bitcoin",
+    "explanation": "Bitcoin is a decentralized digital currency (cryptocurrency)."
+  },
+  {
+    "question": "What is blockchain primarily used for?",
+    "options": ["Secure decentralized transactions", "Word processing", "Email sending", "Web browsing"],
+    "answer": "Secure decentralized transactions",
+    "explanation": "Blockchain is a distributed ledger technology for secure, transparent transactions."
+  },
+  {
+    "question": "Which of the following is an example of a telemedicine platform?",
+    "options": ["Teladoc", "Facebook", "Instagram", "Twitter"],
+    "answer": "Teladoc",
+    "explanation": "Teladoc is a telemedicine platform that provides remote healthcare consultations."
+  },
+  {
+    "question": "What is an e-wallet?",
+    "options": ["Digital payment tool", "Physical wallet", "Paper money", "Coin purse"],
+    "answer": "Digital payment tool",
+    "explanation": "An e-wallet stores payment information digitally for online and contactless transactions."
+  },
+  {
+    "question": "Which of the following is an example of a contactless payment method?",
+    "options": ["NFC payment", "Cash", "Cheque", "Money order"],
+    "answer": "NFC payment",
+    "explanation": "NFC (Near Field Communication) enables contactless payments via smartphones or cards."
+  },
+  {
+    "question": "What is data mining?",
+    "options": ["Extracting patterns from large datasets", "Deleting data", "Copying data", "Encrypting data"],
+    "answer": "Extracting patterns from large datasets",
+    "explanation": "Data mining discovers patterns and insights from large volumes of data."
+  },
+  {
+    "question": "Which of the following is a big data technology?",
+    "options": ["Hadoop", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Hadoop",
+    "explanation": "Hadoop is an open-source framework for distributed storage and processing of big data."
+  },
+  {
+    "question": "What is the purpose of a digital signature?",
+    "options": ["Verify authenticity and integrity", "Encrypt files", "Compress data", "Delete files"],
+    "answer": "Verify authenticity and integrity",
+    "explanation": "Digital signatures verify the authenticity and integrity of digital messages or documents."
+  },
+  {
+    "question": "Which of the following is a version control system?",
+    "options": ["Git", "Word", "Excel", "PowerPoint"],
+    "answer": "Git",
+    "explanation": "Git is a distributed version control system for tracking changes in source code."
+  },
+  {
+    "question": "What is GitHub primarily used for?",
+    "options": ["Hosting code repositories", "Social media", "Email", "Video streaming"],
+    "answer": "Hosting code repositories",
+    "explanation": "GitHub is a web-based platform for hosting and collaborating on Git repositories."
+  },
+  {
+    "question": "Which of the following is a containerization platform?",
+    "options": ["Docker", "Windows", "macOS", "Linux"],
+    "answer": "Docker",
+    "explanation": "Docker is the most popular containerization platform for developing and deploying containers."
+  },
+  {
+    "question": "What is Kubernetes used for?",
+    "options": ["Container orchestration", "Word processing", "Spreadsheet", "Email"],
+    "answer": "Container orchestration",
+    "explanation": "Kubernetes automates the deployment, scaling, and management of containerized applications."
+  },
+  {
+    "question": "Which of the following is a low-code development platform?",
+    "options": ["OutSystems", "Notepad", "WordPad", "Calculator"],
+    "answer": "OutSystems",
+    "explanation": "OutSystems is a low-code platform for building applications with minimal hand-coding."
+  },
+  {
+    "question": "What is a CAPTCHA used for?",
+    "options": ["Distinguish humans from bots", "Encrypt data", "Store passwords", "Speed up loading"],
+    "answer": "Distinguish humans from bots",
+    "explanation": "CAPTCHA tests whether a user is human by presenting challenges that bots typically cannot solve."
+  },
+  {
+    "question": "Which of the following is an example of a robotic process automation (RPA) tool?",
+    "options": ["UiPath", "Word", "Excel", "PowerPoint"],
+    "answer": "UiPath",
+    "explanation": "UiPath is a leading robotic process automation platform for automating repetitive tasks."
+  },
+  {
+    "question": "What is the Nigeria Data Protection Regulation (NDPR)?",
+    "options": ["Nigerian data privacy law", "Internet speed law", "Tax law", "Education law"],
+    "answer": "Nigerian data privacy law",
+    "explanation": "NDPR is Nigeria's regulation governing the processing of personal data."
+  },
+  {
+    "question": "Which of the following is a safe online behavior?",
+    "options": ["Using HTTPS websites", "Clicking unknown links", "Sharing passwords", "Downloading from untrusted sources"],
+    "answer": "Using HTTPS websites",
+    "explanation": "HTTPS websites ensure encrypted communication, which is a safe browsing practice."
+  },
+  {
+    "question": "What is a disaster recovery plan?",
+    "options": ["Procedures for recovering from disruptions", "Marketing plan", "Sales plan", "HR plan"],
+    "answer": "Procedures for recovering from disruptions",
+    "explanation": "Disaster recovery plans outline steps to restore IT infrastructure after a disruptive event."
+  },
+  {
+    "question": "Which of the following is a backup strategy?",
+    "options": ["3-2-1 rule", "No backup", "One copy only", "Same location only"],
+    "answer": "3-2-1 rule",
+    "explanation": "The 3-2-1 backup rule means 3 copies, 2 different media, 1 offsite copy."
+  },
+  {
+    "question": "Which of the following is a remote learning tool?",
+    "options": ["Google Meet", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Google Meet",
+    "explanation": "Google Meet is a video conferencing tool widely used for remote learning."
+  },
+  {
+    "question": "What is an LMS used for?",
+    "options": ["Managing online courses", "Word processing", "Spreadsheet calculations", "Graphic design"],
+    "answer": "Managing online courses",
+    "explanation": "Learning Management Systems (LMS) manage, deliver, and track online courses."
+  },
+  {
+    "question": "Which of the following is an example of assistive technology?",
+    "options": ["Screen reader", "Mouse", "Keyboard", "Monitor"],
+    "answer": "Screen reader",
+    "explanation": "Screen readers assist visually impaired users by reading on-screen text aloud."
+  },
+  {
+    "question": "What is green computing?",
+    "options": ["Environmentally sustainable computing", "Fast computing", "Cheap computing", "Wireless computing"],
+    "answer": "Environmentally sustainable computing",
+    "explanation": "Green computing involves designing and using computers with minimal environmental impact."
+  },
+  {
+    "question": "Which of the following is a computer ethics issue?",
+    "options": ["Software piracy", "Typing speed", "Mouse usage", "Monitor brightness"],
+    "answer": "Software piracy",
+    "explanation": "Software piracy (unauthorized copying and distribution) is a major computer ethics issue."
+  },
+  {
+    "question": "What is digital literacy?",
+    "options": ["Ability to use digital technology effectively", "Reading books", "Writing letters", "Printing documents"],
+    "answer": "Ability to use digital technology effectively",
+    "explanation": "Digital literacy includes skills for using computers, internet, and digital tools effectively."
+  },
+  {
+    "question": "Which of the following is an example of e-waste?",
+    "options": ["Old computer", "Paper", "Plastic bottle", "Glass cup"],
+    "answer": "Old computer",
+    "explanation": "E-waste includes discarded electronic devices like old computers, phones, and TVs."
+  }
+]

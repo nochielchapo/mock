@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is a type of static memory?",
+    "options": ["SRAM", "DRAM", "ROM", "PROM"],
+    "answer": "SRAM",
+    "explanation": "SRAM (Static RAM) is static memory that does not require constant refreshing."
+  },
+  {
+    "question": "The process of storing data in memory is called",
+    "options": ["Write operation", "Read operation", "Fetch operation", "Execute operation"],
+    "answer": "Write operation",
+    "explanation": "A write operation stores data in memory from the CPU or other sources."
+  },
+  {
+    "question": "Which of the following is a contactless input device?",
+    "options": ["RFID reader", "Keyboard", "Mouse", "Touchpad"],
+    "answer": "RFID reader",
+    "explanation": "An RFID reader is a contactless input device that reads RFID tags wirelessly."
+  },
+  {
+    "question": "Which of these is an example of a desktop publishing software?",
+    "options": ["Adobe InDesign", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "Adobe InDesign",
+    "explanation": "Adobe InDesign is desktop publishing software; the others are office applications."
+  },
+  {
+    "question": "The shortcut key for opening a new tab in a web browser is",
+    "options": ["Ctrl + T", "Ctrl + N", "Ctrl + W", "Ctrl + Shift + T"],
+    "answer": "Ctrl + T",
+    "explanation": "Ctrl + T opens a new tab in most web browsers."
+  },
+  {
+    "question": "Which of the following is a virtual assistant developed by Google?",
+    "options": ["Google Assistant", "Siri", "Alexa", "Cortana"],
+    "answer": "Google Assistant",
+    "explanation": "Google Assistant is a virtual assistant developed by Google."
+  },
+  {
+    "question": "Which of these is a type of malware that collects user information without consent?",
+    "options": ["Spyware", "Adware", "Ransomware", "Trojan"],
+    "answer": "Spyware",
+    "explanation": "Spyware collects user information without consent for malicious purposes."
+  },
+  {
+    "question": "Which of the following is used for network address translation?",
+    "options": ["NAT router", "Switch", "Hub", "Repeater"],
+    "answer": "NAT router",
+    "explanation": "A NAT router performs network address translation to map private IPs to public IPs."
+  },
+  {
+    "question": "Which of these is an example of a content management system?",
+    "options": ["Joomla", "Twitter", "Facebook", "Instagram"],
+    "answer": "Joomla",
+    "explanation": "Joomla is a content management system; the others are social media platforms."
+  },
+  {
+    "question": "Which of the following is a cloud storage service from Apple?",
+    "options": ["iCloud", "OneDrive", "Google Drive", "Dropbox"],
+    "answer": "iCloud",
+    "explanation": "iCloud is Apple's cloud storage service."
+  },
+  {
+    "question": "Which number system is commonly used for ASCII codes?",
+    "options": ["Decimal", "Binary", "Octal", "Hexadecimal"],
+    "answer": "Decimal",
+    "explanation": "ASCII codes are commonly represented in decimal notation, though they can be in hex or binary."
+  },
+  {
+    "question": "Which of the following is an output device for producing large format prints?",
+    "options": ["Wide format printer", "Plotter", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "explanation": "Wide format printers and plotters both produce large format prints."
+  },
+  {
+    "question": "The bus that carries control signals is the",
+    "options": ["Control bus", "Address bus", "Data bus", "System bus"],
+    "answer": "Control bus",
+    "explanation": "The control bus carries control signals from the CPU to other components."
+  },
+  {
+    "question": "Which of the following is used for privileged access management?",
+    "options": ["PAM software", "Antivirus", "Firewall", "IDS"],
+    "answer": "PAM software",
+    "explanation": "Privileged Access Management (PAM) software controls and monitors privileged accounts."
+  },
+  {
+    "question": "Which of these is a server-side scripting language?",
+    "options": ["PHP", "JavaScript", "HTML", "CSS"],
+    "answer": "PHP",
+    "explanation": "PHP is a server-side scripting language; JavaScript is client-side, HTML/CSS are markup."
+  },
+  {
+    "question": "A network that connects devices in a single room is called a",
+    "options": ["PAN", "LAN", "MAN", "WAN"],
+    "answer": "PAN",
+    "explanation": "A Personal Area Network (PAN) connects devices within a single room or personal space."
+  },
+  {
+    "question": "Which of the following is a networking device that segments collision domains?",
+    "options": ["Switch", "Hub", "Repeater", "Modem"],
+    "answer": "Switch",
+    "explanation": "A switch segments collision domains by creating separate collision domains per port."
+  },
+  {
+    "question": "Which key combination is used to lock a Windows computer?",
+    "options": ["Windows + L", "Ctrl + Alt + Del", "Alt + F4", "Ctrl + Shift + Esc"],
+    "answer": "Windows + L",
+    "explanation": "Windows + L locks the Windows computer quickly."
+  },
+  {
+    "question": "Which of these is an example of a password manager?",
+    "options": ["LastPass", "Evernote", "OneNote", "Google Keep"],
+    "answer": "LastPass",
+    "explanation": "LastPass is a password manager; others are note-taking apps."
+  },
+  {
+    "question": "Which of these is used to create database indexes?",
+    "options": ["CREATE INDEX statement", "SELECT statement", "INSERT statement", "DELETE statement"],
+    "answer": "CREATE INDEX statement",
+    "explanation": "The CREATE INDEX statement is used to create database indexes for faster queries."
+  },
+  {
+    "question": "Which of the following is a file synchronization utility?",
+    "options": ["SyncToy", "Word processor", "Spreadsheet", "Web browser"],
+    "answer": "SyncToy",
+    "explanation": "SyncToy is a file synchronization utility from Microsoft."
+  },
+  {
+    "question": "Which of the following is an input device for reading biometric data?",
+    "options": ["Biometric scanner", "Keyboard", "Mouse", "Printer"],
+    "answer": "Biometric scanner",
+    "explanation": "A biometric scanner reads physiological characteristics for identification."
+  },
+  {
+    "question": "Which of these is a web browser developed by Opera?",
+    "options": ["Opera browser", "Chrome", "Firefox", "Safari"],
+    "answer": "Opera browser",
+    "explanation": "Opera browser is developed by Opera Software."
+  },
+  {
+    "question": "Which of these is used for screen sharing?",
+    "options": ["TeamViewer", "Zoom", "AnyDesk", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "TeamViewer, Zoom, and AnyDesk all support screen sharing."
+  },
+  {
+    "question": "Which of these is an example of a classified ads platform?",
+    "options": ["Craigslist", "Twitter", "Facebook", "Instagram"],
+    "answer": "Craigslist",
+    "explanation": "Craigslist is a classified ads platform; others are social media."
+  },
+  {
+    "question": "Which of the following is a type of software that is paid but allows free trial?",
+    "options": ["Trialware", "Freeware", "Open source", "Public domain"],
+    "answer": "Trialware",
+    "explanation": "Trialware allows free use for a limited time before requiring payment."
+  },
+  {
+    "question": "Which of these is used for optical character recognition?",
+    "options": ["OCR software", "Keyboard", "Mouse", "Printer"],
+    "answer": "OCR software",
+    "explanation": "OCR software converts scanned images of text into editable text."
+  },
+  {
+    "question": "Which key combination is used to open the task manager?",
+    "options": ["Ctrl + Shift + Esc", "Ctrl + Alt + Del", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "explanation": "Both Ctrl+Shift+Esc and Ctrl+Alt+Del can open the Task Manager."
+  },
+  {
+    "question": "Which of these is an example of a CAD software?",
+    "options": ["AutoCAD", "MS Word", "MS Excel", "MS Access"],
+    "answer": "AutoCAD",
+    "explanation": "AutoCAD is computer-aided design (CAD) software; the others are office applications."
+  },
+  {
+    "question": "Which of these is used to create visual effects?",
+    "options": ["Adobe After Effects", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "Adobe After Effects",
+    "explanation": "Adobe After Effects is used for creating visual effects and motion graphics."
+  },
+  {
+    "question": "Which of these is an example of a graph database?",
+    "options": ["Neo4j", "MySQL", "Oracle", "PostgreSQL"],
+    "answer": "Neo4j",
+    "explanation": "Neo4j is a graph database; MySQL, Oracle, and PostgreSQL are relational."
+  },
+  {
+    "question": "Which of the following is a type of programmable logic controller?",
+    "options": ["PLC", "Desktop", "Laptop", "Server"],
+    "answer": "PLC",
+    "explanation": "Programmable Logic Controller (PLC) is used for industrial automation."
+  },
+  {
+    "question": "Which of these is a characteristic of a digital computer?",
+    "options": ["Discrete data", "Continuous data", "Analog output", "Non-binary processing"],
+    "answer": "Discrete data",
+    "explanation": "Digital computers process discrete data (0s and 1s)."
+  },
+  {
+    "question": "Which of these is used for face recognition?",
+    "options": ["Face recognition software", "Keyboard", "Mouse", "Printer"],
+    "answer": "Face recognition software",
+    "explanation": "Face recognition software identifies people by their facial features."
+  },
+  {
+    "question": "Which of these is used for hand geometry recognition?",
+    "options": ["Hand geometry scanner", "Keyboard", "Mouse", "Printer"],
+    "answer": "Hand geometry scanner",
+    "explanation": "A hand geometry scanner measures the shape of the hand for identification."
+  },
+  {
+    "question": "Which of these is used to read data matrix codes?",
+    "options": ["Data matrix scanner", "OMR", "OCR", "MICR"],
+    "answer": "Data matrix scanner",
+    "explanation": "A data matrix scanner reads 2D data matrix codes."
+  },
+  {
+    "question": "Which of these is used to capture high-speed video?",
+    "options": ["High-speed camera", "Webcam", "Digital camera", "Scanner"],
+    "answer": "High-speed camera",
+    "explanation": "High-speed cameras capture video at very high frame rates for slow-motion analysis."
+  },
+  {
+    "question": "Which of the following is an example of a LED printer?",
+    "options": ["LED printer", "Dot matrix", "Laser", "Inkjet"],
+    "answer": "LED printer",
+    "explanation": "LED printers use light-emitting diodes instead of lasers for printing."
+  },
+  {
+    "question": "Which of these is an example of a wax thermal printer?",
+    "options": ["Wax thermal printer", "Dot matrix", "Line printer", "Drum printer"],
+    "answer": "Wax thermal printer",
+    "explanation": "Wax thermal printers use wax ribbons that are melted onto paper."
+  },
+  {
+    "question": "Which of these is used to connect VGA devices?",
+    "options": ["VGA cable", "USB cable", "HDMI cable", "DisplayPort cable"],
+    "answer": "VGA cable",
+    "explanation": "A VGA cable connects VGA-compatible devices for analog video output."
+  },
+  {
+    "question": "Which of these is an example of a batch operating system?",
+    "options": ["IBM OS/360", "Windows 10", "macOS", "Linux"],
+    "answer": "IBM OS/360",
+    "explanation": "IBM OS/360 is a classic example of a batch operating system."
+  },
+  {
+    "question": "Which of these is used to create decentralized applications?",
+    "options": ["Ethereum", "JavaScript", "Python", "C++"],
+    "answer": "Ethereum",
+    "explanation": "Ethereum is a blockchain platform for creating decentralized applications (dApps)."
+  },
+  {
+    "question": "Which of these is a human resource management tool?",
+    "options": ["BambooHR", "Trello", "Asana", "Jira"],
+    "answer": "BambooHR",
+    "explanation": "BambooHR is an HR management tool; Trello, Asana, and Jira are project management tools."
+  },
+  {
+    "question": "Which of these is an example of a plagiarism detection software?",
+    "options": ["Turnitin", "Zoom", "Google Meet", "Microsoft Teams"],
+    "answer": "Turnitin",
+    "explanation": "Turnitin is a plagiarism detection software; others are communication tools."
+  },
+  {
+    "question": "Which of these is used for peer-to-peer payment?",
+    "options": ["Venmo", "PayPal", "Cash App", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Venmo, PayPal, and Cash App are all peer-to-peer payment platforms."
+  },
+  {
+    "question": "Which of these is a type of bootkit?",
+    "options": ["Bootkit", "Spyware", "Ransomware", "Trojan"],
+    "answer": "Bootkit",
+    "explanation": "A bootkit infects the master boot record and loads before the operating system."
+  },
+  {
+    "question": "Which of these is used to protect against cross-site scripting?",
+    "options": ["Input sanitization", "Firewall", "Antivirus", "Encryption"],
+    "answer": "Input sanitization",
+    "explanation": "Input sanitization prevents cross-site scripting (XSS) attacks by filtering user input."
+  },
+  {
+    "question": "Which of these is an example of a behavior-based security system?",
+    "options": ["Behavioral analysis", "Antivirus", "Firewall", "IDS"],
+    "answer": "Behavioral analysis",
+    "explanation": "Behavioral analysis detects threats by monitoring program behavior, not signatures."
+  },
+  {
+    "question": "Which of these is an example of a risk assessment framework?",
+    "options": ["ISO 31000", "GDPR", "PCI DSS", "HIPAA"],
+    "answer": "ISO 31000",
+    "explanation": "ISO 31000 is a risk assessment framework; others are regulations."
+  },
+  {
+    "question": "Which of these is a safe practice when using email attachments?",
+    "options": ["Scan attachments with antivirus", "Open attachments only from trusted senders", "Verify file extensions", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Scanning attachments, trusting senders, and verifying extensions are all safe email practices."
+  }
+]

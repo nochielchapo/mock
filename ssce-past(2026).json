@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is an example of an autonomous AI agent?",
+    "options": ["AutoGPT", "ChatGPT-4", "Microsoft Word", "Excel"],
+    "answer": "AutoGPT",
+    "explanation": "AutoGPT is an autonomous AI agent that can perform complex tasks without continuous human prompting."
+  },
+  {
+    "question": "What is the primary purpose of a quantum computer?",
+    "options": ["Solve complex problems faster than classical computers", "Browse the internet", "Store files", "Print documents"],
+    "answer": "Solve complex problems faster than classical computers",
+    "explanation": "Quantum computers use qubits to perform calculations exponentially faster for specific problem types."
+  },
+  {
+    "question": "Which of the following is a post-quantum cryptography algorithm?",
+    "options": ["CRYSTALS-Kyber", "RSA", "AES-256", "SHA-3"],
+    "answer": "CRYSTALS-Kyber",
+    "explanation": "CRYSTALS-Kyber is a NIST-approved post-quantum encryption algorithm resistant to quantum attacks."
+  },
+  {
+    "question": "What does AGI stand for?",
+    "options": ["Artificial General Intelligence", "Advanced Graphics Interface", "Automated General Input", "Adaptive Gaming Intelligence"],
+    "answer": "Artificial General Intelligence",
+    "explanation": "AGI refers to AI systems with human-like cognitive abilities across multiple domains."
+  },
+  {
+    "question": "Which of the following is an example of a large multimodal model?",
+    "options": ["Gemini Ultra", "GPT-3", "BERT", "RoBERTa"],
+    "answer": "Gemini Ultra",
+    "explanation": "Gemini Ultra is a large multimodal model capable of processing text, images, audio, and video simultaneously."
+  },
+  {
+    "question": "What is the main advantage of edge AI?",
+    "options": ["Processing on device without cloud", "Faster cloud processing", "More storage", "Better graphics"],
+    "answer": "Processing on device without cloud",
+    "explanation": "Edge AI runs AI models directly on devices, reducing latency and improving privacy."
+  },
+  {
+    "question": "Which of the following is a Web 4.0 concept?",
+    "options": ["Symbiotic web with AI integration", "Static web pages", "Social media platforms", "Email services"],
+    "answer": "Symbiotic web with AI integration",
+    "explanation": "Web 4.0 envisions AI-powered intelligent web where machines understand and interact naturally with humans."
+  },
+  {
+    "question": "What is a digital euro?",
+    "options": ["CBDC for the Eurozone", "Cryptocurrency", "Bitcoin", "Ethereum"],
+    "answer": "CBDC for the Eurozone",
+    "explanation": "The digital euro is a Central Bank Digital Currency (CBDC) proposed by the European Central Bank."
+  },
+  {
+    "question": "Which of the following is a zero-knowledge proof application?",
+    "options": ["Privacy-preserving verification", "Data encryption", "File storage", "Printing"],
+    "answer": "Privacy-preserving verification",
+    "explanation": "Zero-knowledge proofs allow verification without revealing the underlying information."
+  },
+  {
+    "question": "What is a decentralized identity (DID) system?",
+    "options": ["Self-controlled digital identity", "Centralized database", "Social media login", "Email verification"],
+    "answer": "Self-controlled digital identity",
+    "explanation": "DID allows individuals to control their own digital identity without central authorities."
+  },
+  {
+    "question": "Which of the following is an example of a brain-computer interface (BCI) application?",
+    "options": ["Mind-controlled prosthetics", "Voice typing", "Mouse clicking", "Keyboard typing"],
+    "answer": "Mind-controlled prosthetics",
+    "explanation": "BCIs enable direct communication between brain signals and external devices, including prosthetic limbs."
+  },
+  {
+    "question": "What is the purpose of a digital twin in smart cities?",
+    "options": ["Simulate urban systems", "Store data", "Print maps", "Email citizens"],
+    "answer": "Simulate urban systems",
+    "explanation": "Digital twins of cities allow planners to simulate traffic, energy use, and emergency responses."
+  },
+  {
+    "question": "Which of the following is a 6G technology feature?",
+    "options": ["Terahertz communication", "4G speeds", "Basic texting", "Limited bandwidth"],
+    "answer": "Terahertz communication",
+    "explanation": "6G is expected to use terahertz frequencies for ultra-high-speed communication beyond 5G."
+  },
+  {
+    "question": "What is a self-sovereign identity (SSI) system?",
+    "options": ["User-controlled digital identity", "Government-controlled ID", "Company-controlled ID", "Bank-controlled ID"],
+    "answer": "User-controlled digital identity",
+    "explanation": "SSI gives individuals complete control over their digital identity and who accesses it."
+  },
+  {
+    "question": "Which of the following is an example of a green AI practice?",
+    "options": ["Carbon-aware computing", "Faster processing", "More storage", "Better graphics"],
+    "answer": "Carbon-aware computing",
+    "explanation": "Green AI optimizes model training and inference to reduce carbon emissions and energy consumption."
+  },
+  {
+    "question": "What is responsible AI?",
+    "options": ["Ethical and fair AI systems", "Fast AI systems", "Cheap AI systems", "Powerful AI systems"],
+    "answer": "Ethical and fair AI systems",
+    "explanation": "Responsible AI ensures systems are fair, transparent, accountable, and respect human rights."
+  },
+  {
+    "question": "Which of the following is an AI safety concern?",
+    "options": ["Alignment problem", "Fast processing", "Low cost", "High accuracy"],
+    "answer": "Alignment problem",
+    "explanation": "The alignment problem concerns ensuring AI systems act in accordance with human values and goals."
+  },
+  {
+    "question": "What is a multi-agent system in AI?",
+    "options": ["Multiple AI agents interacting", "Single AI model", "Database system", "File system"],
+    "answer": "Multiple AI agents interacting",
+    "explanation": "Multi-agent systems involve multiple AI agents collaborating or competing to solve problems."
+  },
+  {
+    "question": "Which of the following is an example of a foundation model?",
+    "options": ["GPT-4", "Simple calculator", "Word processor", "Spreadsheet"],
+    "answer": "GPT-4",
+    "explanation": "Foundation models are large pre-trained AI models that can be adapted to many downstream tasks."
+  },
+  {
+    "question": "What is fine-tuning in machine learning?",
+    "options": ["Adapting pre-trained models for specific tasks", "Starting from scratch", "Deleting models", "Copying models"],
+    "answer": "Adapting pre-trained models for specific tasks",
+    "explanation": "Fine-tuning adjusts a pre-trained model's parameters for specialized applications with less data."
+  },
+  {
+    "question": "Which of the following is a retrieval-augmented generation (RAG) benefit?",
+    "options": ["Reduces hallucinations", "Faster training", "Smaller models", "Less data"],
+    "answer": "Reduces hallucinations",
+    "explanation": "RAG improves LLM accuracy by retrieving relevant information from external knowledge sources."
+  },
+  {
+    "question": "What is a vector embedding?",
+    "options": ["Numerical representation of data", "Text document", "Image file", "Audio clip"],
+    "answer": "Numerical representation of data",
+    "explanation": "Vector embeddings convert text, images, or audio into numerical arrays for AI processing."
+  },
+  {
+    "question": "Which of the following is a prompt injection attack?",
+    "options": ["Manipulating AI inputs to bypass restrictions", "Virus infection", "Hardware failure", "Network outage"],
+    "answer": "Manipulating AI inputs to bypass restrictions",
+    "explanation": "Prompt injection attacks trick LLMs into ignoring safety guidelines or revealing sensitive information."
+  },
+  {
+    "question": "What is a data poisoning attack?",
+    "options": ["Corrupting training data", "Stealing passwords", "Deleting files", "Printing documents"],
+    "answer": "Corrupting training data",
+    "explanation": "Data poisoning injects malicious data into AI training sets to corrupt model behavior."
+  },
+  {
+    "question": "Which of the following is a model extraction attack?",
+    "options": ["Stealing AI model functionality", "Encrypting files", "Printing data", "Deleting logs"],
+    "answer": "Stealing AI model functionality",
+    "explanation": "Model extraction attacks query AI systems to replicate their functionality without access to original training."
+  },
+  {
+    "question": "What is the EU AI Act risk classification?",
+    "options": ["Unacceptable, High, Limited, Minimal", "Fast, Medium, Slow", "Big, Small, Tiny", "Red, Yellow, Green"],
+    "answer": "Unacceptable, High, Limited, Minimal",
+    "explanation": "The EU AI Act categorizes AI systems by risk levels from unacceptable to minimal."
+  },
+  {
+    "question": "Which of the following is a high-risk AI system under the EU AI Act?",
+    "options": ["Critical infrastructure AI", "Email spam filter", "Recommendation system", "Chatbot"],
+    "answer": "Critical infrastructure AI",
+    "explanation": "AI systems managing critical infrastructure like power grids or water systems are classified as high-risk."
+  },
+  {
+    "question": "What is a digital services tax?",
+    "options": ["Tax on digital companies' revenue", "Income tax", "Property tax", "Sales tax"],
+    "answer": "Tax on digital companies' revenue",
+    "explanation": "Digital services taxes are levied on revenue from digital activities like advertising and data sales."
+  },
+  {
+    "question": "Which of the following is a universal basic compute proposal?",
+    "options": ["Free AI compute access", "Free electricity", "Free water", "Free housing"],
+    "answer": "Free AI compute access",
+    "explanation": "Universal basic compute proposes providing citizens free access to AI computing resources."
+  },
+  {
+    "question": "What is algorithmic auditing?",
+    "options": ["Reviewing AI systems for bias and errors", "Speeding up code", "Reducing memory", "Optimizing graphics"],
+    "answer": "Reviewing AI systems for bias and errors",
+    "explanation": "Algorithmic auditing examines AI systems for fairness, accuracy, and compliance with regulations."
+  },
+  {
+    "question": "Which of the following is an example of a decentralized social network?",
+    "options": ["Mastodon", "Facebook", "Instagram", "Twitter"],
+    "answer": "Mastodon",
+    "explanation": "Mastodon is a decentralized social network where users control their own data and servers."
+  },
+  {
+    "question": "What is a data union?",
+    "options": ["Collectively owned personal data", "Corporate data", "Government data", "School data"],
+    "answer": "Collectively owned personal data",
+    "explanation": "Data unions allow individuals to pool and collectively negotiate the use of their personal data."
+  },
+  {
+    "question": "Which of the following is a personal data store?",
+    "options": ["User-controlled data vault", "Company database", "Government archive", "School record"],
+    "answer": "User-controlled data vault",
+    "explanation": "Personal data stores give individuals secure control over their own data and sharing permissions."
+  },
+  {
+    "question": "What is a space-based solar power system?",
+    "options": ["Solar panels in space beaming energy to Earth", "Desert solar farm", "Rooftop solar", "Wind turbine"],
+    "answer": "Solar panels in space beaming energy to Earth",
+    "explanation": "Space-based solar power collects energy in orbit and transmits it wirelessly to Earth."
+  },
+  {
+    "question": "Which of the following is an example of a bioprinting application?",
+    "options": ["3D printing living tissues", "Paper printing", "Document printing", "Photo printing"],
+    "answer": "3D printing living tissues",
+    "explanation": "Bioprinting uses living cells to create tissues and organs for medical applications."
+  },
+  {
+    "question": "What is a DNA data storage system?",
+    "options": ["Storing data in synthetic DNA", "Hard drive storage", "Cloud storage", "USB storage"],
+    "answer": "Storing data in synthetic DNA",
+    "explanation": "DNA storage encodes digital data into synthetic DNA molecules for ultra-dense, long-term archiving."
+  },
+  {
+    "question": "Which of the following is a neuromorphic computing chip?",
+    "options": ["Intel Loihi", "Intel Core i9", "AMD Ryzen", "Apple M3"],
+    "answer": "Intel Loihi",
+    "explanation": "Neuromorphic chips mimic brain neural structures for efficient AI processing."
+  },
+  {
+    "question": "What is a photonic computer?",
+    "options": ["Uses light instead of electricity", "Uses vacuum tubes", "Uses transistors", "Uses quantum bits"],
+    "answer": "Uses light instead of electricity",
+    "explanation": "Photonic computers use photons (light) for faster and more energy-efficient computing."
+  },
+  {
+    "question": "Which of the following is an example of a spatial computing device?",
+    "options": ["Apple Vision Pro", "Desktop PC", "Laptop", "Smartphone"],
+    "answer": "Apple Vision Pro",
+    "explanation": "Spatial computing devices blend digital content with physical spaces using AR/VR technologies."
+  },
+  {
+    "question": "What is a digital human?",
+    "options": ["AI-powered virtual human", "Real human", "Robot", "Chatbot only"],
+    "answer": "AI-powered virtual human",
+    "explanation": "Digital humans are AI-driven avatars with realistic appearance and conversational abilities."
+  },
+  {
+    "question": "Which of the following is a synthetic data application?",
+    "options": ["Creating artificial training data", "Real user data", "Public records", "Newspaper articles"],
+    "answer": "Creating artificial training data",
+    "explanation": "Synthetic data generates artificial datasets for AI training when real data is scarce or sensitive."
+  },
+  {
+    "question": "What is differential privacy?",
+    "options": ["Adding noise to protect individual data", "Deleting all data", "Encrypting data", "Backing up data"],
+    "answer": "Adding noise to protect individual data",
+    "explanation": "Differential privacy adds statistical noise to query results to prevent identifying individuals."
+  },
+  {
+    "question": "Which of the following is a private set intersection (PSI) application?",
+    "options": ["Finding common data without revealing it", "Sharing all data", "Deleting data", "Copying data"],
+    "answer": "Finding common data without revealing it",
+    "explanation": "PSI allows parties to find common records in their datasets without exposing their private data."
+  },
+  {
+    "question": "What is a federated data governance framework?",
+    "options": ["Distributed data management", "Centralized database", "Single server", "Local file only"],
+    "answer": "Distributed data management",
+    "explanation": "Federated governance coordinates data policies across multiple organizations while maintaining local control."
+  },
+  {
+    "question": "Which of the following is a data sovereignty principle?",
+    "options": ["Data subject to local laws", "Free data movement", "No data rules", "Global data access"],
+    "answer": "Data subject to local laws",
+    "explanation": "Data sovereignty means data is subject to the laws of the country where it is collected or stored."
+  },
+  {
+    "question": "What is a data clean room?",
+    "options": ["Secure environment for collaborative data analysis", "Physical cleaning room", "Server room", "Office space"],
+    "answer": "Secure environment for collaborative data analysis",
+    "explanation": "Data clean rooms allow multiple parties to analyze combined data without exposing raw information."
+  },
+  {
+    "question": "Which of the following is a confidential computing feature?",
+    "options": ["Hardware-based encrypted memory", "Faster processing", "More storage", "Better graphics"],
+    "answer": "Hardware-based encrypted memory",
+    "explanation": "Confidential computing encrypts data while it is being processed, protecting it even from the host system."
+  },
+  {
+    "question": "What is a trusted execution environment (TEE)?",
+    "options": ["Secure area inside processor", "Cloud storage", "External hard drive", "USB drive"],
+    "answer": "Secure area inside processor",
+    "explanation": "TEEs isolate sensitive code and data within the main processor for enhanced security."
+  },
+  {
+    "question": "Which of the following is an example of a verifiable credential?",
+    "options": ["Digitally verifiable ID", "Paper ID card", "Passport", "Driver's license"],
+    "answer": "Digitally verifiable ID",
+    "explanation": "Verifiable credentials are tamper-evident digital documents that can be cryptographically verified."
+  },
+  {
+    "question": "What is the primary goal of the Global Digital Compact?",
+    "options": ["Establish digital governance framework", "Increase internet speed", "Lower device costs", "Promote gaming"],
+    "answer": "Establish digital governance framework",
+    "explanation": "The Global Digital Compact aims to create shared principles for digital cooperation and governance."
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is a type of semiconductor memory?",
+    "options": ["RAM", "Hard disk", "SSD", "DVD"],
+    "answer": "RAM",
+    "explanation": "RAM is a semiconductor memory; hard disk is magnetic, DVD is optical."
+  },
+  {
+    "question": "The fetch-execute cycle is also known as the",
+    "options": ["Instruction cycle", "Machine cycle", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "explanation": "The fetch-execute cycle is called both the instruction cycle and machine cycle."
+  },
+  {
+    "question": "Which of the following is a biometric input device?",
+    "options": ["Fingerprint scanner", "Keyboard", "Mouse", "Printer"],
+    "answer": "Fingerprint scanner",
+    "explanation": "A fingerprint scanner is a biometric input device that reads fingerprints."
+  },
+  {
+    "question": "Which of these is an example of a presentation software?",
+    "options": ["Keynote", "MS Word", "MS Excel", "MS Access"],
+    "answer": "Keynote",
+    "explanation": "Keynote is Apple's presentation software; the others are different types."
+  },
+  {
+    "question": "The shortcut key for replacing text in a document is",
+    "options": ["Ctrl + H", "Ctrl + F", "Ctrl + G", "Ctrl + A"],
+    "answer": "Ctrl + H",
+    "explanation": "Ctrl + H opens the Find and Replace dialog to replace text."
+  },
+  {
+    "question": "Which of the following is a virtual assistant developed by Amazon?",
+    "options": ["Alexa", "Siri", "Google Assistant", "Cortana"],
+    "answer": "Alexa",
+    "explanation": "Alexa is a virtual assistant developed by Amazon."
+  },
+  {
+    "question": "Which of these is a type of malware that displays unwanted ads?",
+    "options": ["Adware", "Spyware", "Ransomware", "Trojan"],
+    "answer": "Adware",
+    "explanation": "Adware displays unwanted advertisements on a computer or device."
+  },
+  {
+    "question": "Which of the following is used to create a proxy connection?",
+    "options": ["Proxy server", "Switch", "Hub", "Modem"],
+    "answer": "Proxy server",
+    "explanation": "A proxy server creates a proxy connection for forwarding requests."
+  },
+  {
+    "question": "Which of these is an example of a media sharing platform?",
+    "options": ["Flickr", "Twitter", "Facebook", "LinkedIn"],
+    "answer": "Flickr",
+    "explanation": "Flickr is a media sharing platform for photos; others are general social media."
+  },
+  {
+    "question": "Which of the following is a flash storage device?",
+    "options": ["USB flash drive", "Hard disk", "DVD", "CD-ROM"],
+    "answer": "USB flash drive",
+    "explanation": "USB flash drive uses flash memory; hard disk is magnetic, DVDs/CDs are optical."
+  },
+  {
+    "question": "Which number system is used in assembly language programming?",
+    "options": ["Hexadecimal", "Binary", "Octal", "Decimal"],
+    "answer": "Hexadecimal",
+    "explanation": "Hexadecimal is commonly used in assembly language for readability."
+  },
+  {
+    "question": "Which of the following is an output device for producing heat maps?",
+    "options": ["Thermal printer", "Plotter", "Printer", "Monitor"],
+    "answer": "Thermal printer",
+    "explanation": "Thermal printers can produce heat maps using heat-sensitive paper."
+  },
+  {
+    "question": "The number of cores in a CPU affects its ability to",
+    "options": ["Perform multiple tasks simultaneously", "Store data", "Display graphics", "Connect to networks"],
+    "answer": "Perform multiple tasks simultaneously",
+    "explanation": "Multiple cores allow a CPU to perform multiple tasks simultaneously (multitasking)."
+  },
+  {
+    "question": "Which of the following is used to prevent data breaches?",
+    "options": ["DLP software", "Antivirus", "Firewall", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "DLP software, antivirus, and firewalls all help prevent data breaches."
+  },
+  {
+    "question": "Which of these is a compiled programming language?",
+    "options": ["C", "Python", "Ruby", "JavaScript"],
+    "answer": "C",
+    "explanation": "C is a compiled language; Python, Ruby, and JavaScript are interpreted."
+  },
+  {
+    "question": "A network that covers a very large geographic area like multiple countries is called",
+    "options": ["WAN", "LAN", "MAN", "CAN"],
+    "answer": "WAN",
+    "explanation": "A Wide Area Network (WAN) covers very large geographic areas like multiple countries."
+  },
+  {
+    "question": "Which of the following is a networking device that connects different network types?",
+    "options": ["Gateway", "Switch", "Hub", "Repeater"],
+    "answer": "Gateway",
+    "explanation": "A gateway connects networks that use different protocols."
+  },
+  {
+    "question": "Which key combination is used to switch between open applications?",
+    "options": ["Alt + Tab", "Ctrl + Tab", "Shift + Tab", "Windows + Tab"],
+    "answer": "Alt + Tab",
+    "explanation": "Alt + Tab is the standard shortcut to switch between open applications."
+  },
+  {
+    "question": "Which of these is an example of a note-taking app?",
+    "options": ["Evernote", "Google Docs", "Microsoft Word", "WordPad"],
+    "answer": "Evernote",
+    "explanation": "Evernote is a dedicated note-taking app; others are word processors."
+  },
+  {
+    "question": "Which of these is used to create stored procedures in a database?",
+    "options": ["PL/SQL", "HTML", "CSS", "JavaScript"],
+    "answer": "PL/SQL",
+    "explanation": "PL/SQL (Procedural Language/SQL) is used to create stored procedures in databases."
+  },
+  {
+    "question": "Which of the following is a disk cleanup utility?",
+    "options": ["Disk Cleanup", "Word processor", "Spreadsheet", "Web browser"],
+    "answer": "Disk Cleanup",
+    "explanation": "Disk Cleanup is a utility software that removes temporary and unnecessary files."
+  },
+  {
+    "question": "Which of the following is an input device for reading smart cards?",
+    "options": ["Smart card reader", "Keyboard", "Mouse", "Printer"],
+    "answer": "Smart card reader",
+    "explanation": "A smart card reader reads data from smart cards."
+  },
+  {
+    "question": "Which of these is a web browser developed by Apple?",
+    "options": ["Safari", "Chrome", "Firefox", "Edge"],
+    "answer": "Safari",
+    "explanation": "Safari is a web browser developed by Apple Inc."
+  },
+  {
+    "question": "Which of these is used for podcasting?",
+    "options": ["Apple Podcasts", "Spotify", "Google Podcasts", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Apple Podcasts, Spotify, and Google Podcasts are all podcast platforms."
+  },
+  {
+    "question": "Which of these is an example of a Q&A platform?",
+    "options": ["Quora", "Reddit", "Twitter", "Facebook"],
+    "answer": "Quora",
+    "explanation": "Quora is a Q&A platform; the others are discussion or social media platforms."
+  },
+  {
+    "question": "Which of the following is a type of software that is paid before use?",
+    "options": ["Commercial software", "Freeware", "Shareware", "Open source"],
+    "answer": "Commercial software",
+    "explanation": "Commercial software requires payment before use."
+  },
+  {
+    "question": "Which of these is used to convert speech to text?",
+    "options": ["Speech recognition software", "Keyboard", "Mouse", "Printer"],
+    "answer": "Speech recognition software",
+    "explanation": "Speech recognition software converts spoken words into text."
+  },
+  {
+    "question": "Which key combination is used to redo an action?",
+    "options": ["Ctrl + Y", "Ctrl + Z", "Ctrl + X", "Ctrl + C"],
+    "answer": "Ctrl + Y",
+    "explanation": "Ctrl + Y is the shortcut for redoing an action that was undone."
+  },
+  {
+    "question": "Which of these is an example of a raster graphics editor?",
+    "options": ["Adobe Photoshop", "MS Word", "MS Excel", "MS Access"],
+    "answer": "Adobe Photoshop",
+    "explanation": "Adobe Photoshop is a raster graphics editor; the others are not."
+  },
+  {
+    "question": "Which of these is used to edit audio?",
+    "options": ["Audacity", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "Audacity",
+    "explanation": "Audacity is an open-source audio editing software."
+  },
+  {
+    "question": "Which of these is an example of an in-memory database?",
+    "options": ["Redis", "MySQL", "Oracle", "PostgreSQL"],
+    "answer": "Redis",
+    "explanation": "Redis is an in-memory database; MySQL, Oracle, and PostgreSQL are disk-based."
+  },
+  {
+    "question": "Which of the following is a type of embedded computer?",
+    "options": ["Raspberry Pi", "Desktop", "Laptop", "Server"],
+    "answer": "Raspberry Pi",
+    "explanation": "Raspberry Pi is an embedded computer; the others are general-purpose computers."
+  },
+  {
+    "question": "Which of these is a characteristic of a quantum computer?",
+    "options": ["Uses qubits", "Extremely fast", "Used for complex calculations", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Quantum computers use qubits, are extremely fast, and handle complex calculations."
+  },
+  {
+    "question": "Which of these is used for retina recognition?",
+    "options": ["Retina scanner", "Fingerprint scanner", "Face scanner", "Voice scanner"],
+    "answer": "Retina scanner",
+    "explanation": "A retina scanner captures the unique pattern of blood vessels in the retina."
+  },
+  {
+    "question": "Which of these is used for DNA recognition?",
+    "options": ["DNA sequencer", "Keyboard", "Mouse", "Printer"],
+    "answer": "DNA sequencer",
+    "explanation": "A DNA sequencer reads DNA sequences for biometric identification."
+  },
+  {
+    "question": "Which of these is used to read NFC tags?",
+    "options": ["NFC reader", "OMR", "OCR", "MICR"],
+    "answer": "NFC reader",
+    "explanation": "An NFC reader reads data from NFC tags wirelessly."
+  },
+  {
+    "question": "Which of these is used to capture motion capture data?",
+    "options": ["Motion capture camera", "Webcam", "Digital camera", "Scanner"],
+    "answer": "Motion capture camera",
+    "explanation": "Motion capture cameras capture movement data for animation."
+  },
+  {
+    "question": "Which of the following is an example of a matrix printer?",
+    "options": ["Dot matrix printer", "Laser printer", "Inkjet printer", "Thermal printer"],
+    "answer": "Dot matrix printer",
+    "explanation": "Dot matrix printers are matrix printers that use a grid of pins."
+  },
+  {
+    "question": "Which of these is an example of a 3D printer?",
+    "options": ["3D printer", "Dot matrix", "Line printer", "Drum printer"],
+    "answer": "3D printer",
+    "explanation": "3D printers create three-dimensional objects from digital models."
+  },
+  {
+    "question": "Which of these is used to connect Thunderbolt devices?",
+    "options": ["Thunderbolt cable", "USB cable", "HDMI cable", "Ethernet cable"],
+    "answer": "Thunderbolt cable",
+    "explanation": "A Thunderbolt cable connects Thunderbolt-compatible devices."
+  },
+  {
+    "question": "Which of these is an example of a distributed operating system?",
+    "options": ["Amoeba", "Windows 10", "macOS", "Linux"],
+    "answer": "Amoeba",
+    "explanation": "Amoeba is a distributed operating system; Windows, macOS, and Linux are not."
+  },
+  {
+    "question": "Which of these is used to create blockchain transactions?",
+    "options": ["Cryptocurrency wallet", "Browser", "Email client", "Word processor"],
+    "answer": "Cryptocurrency wallet",
+    "explanation": "A cryptocurrency wallet is used to create and sign blockchain transactions."
+  },
+  {
+    "question": "Which of these is an enterprise resource planning tool?",
+    "options": ["SAP", "Trello", "Asana", "Jira"],
+    "answer": "SAP",
+    "explanation": "SAP is an ERP tool; Trello, Asana, and Jira are project management tools."
+  },
+  {
+    "question": "Which of these is an example of a virtual classroom platform?",
+    "options": ["Zoom", "Google Classroom", "Microsoft Teams", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Zoom, Google Classroom, and Microsoft Teams are all used for virtual classrooms."
+  },
+  {
+    "question": "Which of these is used for QR code payment?",
+    "options": ["QR code scanner", "Bitcoin", "PayPal", "Bank transfer"],
+    "answer": "QR code scanner",
+    "explanation": "QR code scanners read QR codes for payment transactions."
+  },
+  {
+    "question": "Which of these is a type of scareware?",
+    "options": ["Fake antivirus popup", "Spyware", "Ransomware", "Trojan"],
+    "answer": "Fake antivirus popup",
+    "explanation": "Scareware uses fake antivirus popups to scare users into paying."
+  },
+  {
+    "question": "Which of these is used to protect against phishing emails?",
+    "options": ["Email filtering", "Antivirus", "Firewall", "Encryption"],
+    "answer": "Email filtering",
+    "explanation": "Email filtering detects and blocks phishing emails."
+  },
+  {
+    "question": "Which of these is an example of a security token?",
+    "options": ["RSA SecurID", "Antivirus", "Firewall", "IDS"],
+    "answer": "RSA SecurID",
+    "explanation": "RSA SecurID is a hardware security token for two-factor authentication."
+  },
+  {
+    "question": "Which of these is an example of a data protection regulation?",
+    "options": ["GDPR", "ISO 9001", "PCI DSS", "HIPAA"],
+    "answer": "GDPR",
+    "explanation": "GDPR (General Data Protection Regulation) is a data protection regulation in the EU."
+  },
+  {
+    "question": "Which of these is a safe practice when using online banking?",
+    "options": ["Use strong passwords", "Enable two-factor authentication", "Monitor account activity", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Strong passwords, two-factor authentication, and monitoring are all safe online banking practices."
+  }
+]

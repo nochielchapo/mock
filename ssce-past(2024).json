@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is an example of Generative AI?",
+    "options": ["ChatGPT", "Microsoft Excel", "Google Chrome", "Windows Defender"],
+    "answer": "ChatGPT",
+    "explanation": "ChatGPT is a generative AI model that creates text, images, or other content based on prompts."
+  },
+  {
+    "question": "Which technology is used to verify identity using physical characteristics?",
+    "options": ["Biometrics", "Firewall", "Encryption", "Antivirus"],
+    "answer": "Biometrics",
+    "explanation": "Biometrics uses physical characteristics like fingerprints, facial recognition, or iris scans for identification."
+  },
+  {
+    "question": "Which of the following is a cloud computing deployment model?",
+    "options": ["Public cloud", "Private cloud", "Hybrid cloud", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Public, private, and hybrid are the three main cloud deployment models."
+  },
+  {
+    "question": "What does IoT stand for?",
+    "options": ["Internet of Things", "Interconnection of Technology", "Integrated Optical Transfer", "Internal Operating Tool"],
+    "answer": "Internet of Things",
+    "explanation": "IoT refers to the network of physical devices embedded with sensors and software to connect and exchange data."
+  },
+  {
+    "question": "Which of the following is an example of an edge computing device?",
+    "options": ["Smart camera", "Mainframe computer", "Supercomputer", "Data center server"],
+    "answer": "Smart camera",
+    "explanation": "Edge computing devices process data near the source; smart cameras, sensors, and IoT gateways are examples."
+  },
+  {
+    "question": "Which programming language is most commonly used for Artificial Intelligence and Machine Learning?",
+    "options": ["Python", "HTML", "CSS", "Assembly"],
+    "answer": "Python",
+    "explanation": "Python is the most popular language for AI/ML due to its extensive libraries like TensorFlow and PyTorch."
+  },
+  {
+    "question": "What is ransomware?",
+    "options": ["Software that encrypts files and demands payment", "Software that protects from viruses", "A type of firewall", "A network device"],
+    "answer": "Software that encrypts files and demands payment",
+    "explanation": "Ransomware is malware that encrypts a victim's files and demands a ransom for decryption."
+  },
+  {
+    "question": "Which of the following is a feature of Web 3.0?",
+    "options": ["Decentralization", "Blockchain integration", "Semantic web", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Web 3.0 incorporates decentralization, blockchain, and semantic web technologies."
+  },
+  {
+    "question": "What is the purpose of a VPN?",
+    "options": ["Secure internet connection", "Increase download speed", "Store files", "Print documents"],
+    "answer": "Secure internet connection",
+    "explanation": "A Virtual Private Network (VPN) creates a secure, encrypted connection over the internet."
+  },
+  {
+    "question": "Which of the following is an example of a smart home device?",
+    "options": ["Amazon Echo", "Desktop computer", "Laptop", "Server"],
+    "answer": "Amazon Echo",
+    "explanation": "Amazon Echo is a smart speaker and smart home device with voice assistant capabilities."
+  },
+  {
+    "question": "What does 5G technology primarily offer?",
+    "options": ["Higher speed and lower latency", "Lower speed and higher latency", "No internet connectivity", "Only voice calls"],
+    "answer": "Higher speed and lower latency",
+    "explanation": "5G offers significantly faster data speeds and lower latency compared to previous generations."
+  },
+  {
+    "question": "Which of these is a type of cyber attack?",
+    "options": ["Phishing", "DDoS", "Man-in-the-middle", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Phishing, DDoS, and Man-in-the-middle are all common types of cyber attacks."
+  },
+  {
+    "question": "What is blockchain primarily used for?",
+    "options": ["Secure decentralized transactions", "Word processing", "Email sending", "Web browsing"],
+    "answer": "Secure decentralized transactions",
+    "explanation": "Blockchain is a distributed ledger technology used for secure, transparent, and decentralized transactions."
+  },
+  {
+    "question": "Which of the following is an example of a cryptocurrency?",
+    "options": ["Bitcoin", "Dollar", "Euro", "Naira"],
+    "answer": "Bitcoin",
+    "explanation": "Bitcoin is a decentralized digital currency (cryptocurrency)."
+  },
+  {
+    "question": "What is two-factor authentication (2FA)?",
+    "options": ["Two-step verification process", "Two passwords only", "Two usernames", "Two computers"],
+    "answer": "Two-step verification process",
+    "explanation": "2FA requires two forms of verification (e.g., password + SMS code) for enhanced security."
+  },
+  {
+    "question": "Which of the following is a social engineering attack?",
+    "options": ["Pretexting", "SQL injection", "Buffer overflow", "DDoS"],
+    "answer": "Pretexting",
+    "explanation": "Pretexting is a social engineering attack where the attacker creates a false scenario to obtain information."
+  },
+  {
+    "question": "What is the function of a CAPTCHA?",
+    "options": ["Distinguish humans from bots", "Encrypt data", "Store passwords", "Speed up loading"],
+    "answer": "Distinguish humans from bots",
+    "explanation": "CAPTCHA tests whether a user is human by presenting challenges that bots typically cannot solve."
+  },
+  {
+    "question": "Which of the following is an example of Infrastructure as a Service (IaaS)?",
+    "options": ["AWS EC2", "Gmail", "Google Docs", "Facebook"],
+    "answer": "AWS EC2",
+    "explanation": "AWS EC2 provides virtual servers as Infrastructure as a Service (IaaS)."
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Application Protocol Internet", "Advanced Programming Integration", "Automated Program Interface"],
+    "answer": "Application Programming Interface",
+    "explanation": "API allows different software applications to communicate with each other."
+  },
+  {
+    "question": "Which of the following is a no-code development platform?",
+    "options": ["Bubble", "Visual Studio", "Eclipse", "Notepad++"],
+    "answer": "Bubble",
+    "explanation": "Bubble is a no-code platform that allows users to build web applications without writing code."
+  },
+  {
+    "question": "What is data mining?",
+    "options": ["Extracting patterns from large datasets", "Deleting data", "Copying data", "Encrypting data"],
+    "answer": "Extracting patterns from large datasets",
+    "explanation": "Data mining involves discovering patterns and insights from large volumes of data."
+  },
+  {
+    "question": "Which of the following is a big data technology?",
+    "options": ["Hadoop", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Hadoop",
+    "explanation": "Hadoop is an open-source framework for distributed storage and processing of big data."
+  },
+  {
+    "question": "What is the purpose of a digital signature?",
+    "options": ["Verify authenticity and integrity", "Encrypt files", "Compress data", "Delete files"],
+    "answer": "Verify authenticity and integrity",
+    "explanation": "Digital signatures verify the authenticity and integrity of digital messages or documents."
+  },
+  {
+    "question": "Which of the following is a remote desktop application?",
+    "options": ["TeamViewer", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "TeamViewer",
+    "explanation": "TeamViewer allows remote access and control of another computer."
+  },
+  {
+    "question": "What is the Dark Web?",
+    "options": ["Part of the internet not indexed by search engines", "A web browser", "A social media platform", "An email service"],
+    "answer": "Part of the internet not indexed by search engines",
+    "explanation": "The Dark Web is a part of the deep web that requires special software to access and is not indexed by standard search engines."
+  },
+  {
+    "question": "Which of the following is an example of a virtual reality device?",
+    "options": ["Oculus Quest", "Laptop", "Smartphone", "Printer"],
+    "answer": "Oculus Quest",
+    "explanation": "Oculus Quest is a virtual reality headset for immersive experiences."
+  },
+  {
+    "question": "What is augmented reality (AR)?",
+    "options": ["Overlaying digital content on real world", "Fully virtual environment", "Text-based interface", "Audio-only experience"],
+    "answer": "Overlaying digital content on real world",
+    "explanation": "AR overlays digital information like images or text onto the real world through a device camera."
+  },
+  {
+    "question": "Which of the following is a quantum computing concept?",
+    "options": ["Qubit", "Byte", "Bit", "Nibble"],
+    "answer": "Qubit",
+    "explanation": "A qubit (quantum bit) is the basic unit of quantum information, unlike classical bits which are 0 or 1."
+  },
+  {
+    "question": "What is a smart contract?",
+    "options": ["Self-executing contract on blockchain", "Paper contract", "Email agreement", "Phone agreement"],
+    "answer": "Self-executing contract on blockchain",
+    "explanation": "Smart contracts are self-executing contracts with terms directly written into code on a blockchain."
+  },
+  {
+    "question": "Which of the following is an example of a decentralized finance (DeFi) application?",
+    "options": ["Uniswap", "Microsoft Word", "Google Chrome", "Excel"],
+    "answer": "Uniswap",
+    "explanation": "Uniswap is a decentralized exchange (DEX) for cryptocurrency trading without intermediaries."
+  },
+  {
+    "question": "What is the function of a chatbot?",
+    "options": ["Simulate human conversation", "Print documents", "Store files", "Browse the web"],
+    "answer": "Simulate human conversation",
+    "explanation": "Chatbots use AI to simulate human conversation, often for customer service or information retrieval."
+  },
+  {
+    "question": "Which of the following is a machine learning framework?",
+    "options": ["TensorFlow", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "TensorFlow",
+    "explanation": "TensorFlow is an open-source machine learning framework developed by Google."
+  },
+  {
+    "question": "What is a neural network?",
+    "options": ["AI system inspired by the human brain", "Computer network", "Social network", "Telephone network"],
+    "answer": "AI system inspired by the human brain",
+    "explanation": "Neural networks are computing systems inspired by biological neural networks (animal brains)."
+  },
+  {
+    "question": "Which of the following is an example of computer vision?",
+    "options": ["Facial recognition", "Spell check", "Email filtering", "File compression"],
+    "answer": "Facial recognition",
+    "explanation": "Facial recognition is a computer vision technology that identifies or verifies faces."
+  },
+  {
+    "question": "What is natural language processing (NLP)?",
+    "options": ["AI interaction with human language", "Computer networking", "Database management", "File storage"],
+    "answer": "AI interaction with human language",
+    "explanation": "NLP enables computers to understand, interpret, and respond to human language."
+  },
+  {
+    "question": "Which of the following is a robotic process automation (RPA) tool?",
+    "options": ["UiPath", "Word", "Excel", "PowerPoint"],
+    "answer": "UiPath",
+    "explanation": "UiPath is a leading robotic process automation platform for automating repetitive tasks."
+  },
+  {
+    "question": "What is the purpose of a data warehouse?",
+    "options": ["Store large amounts of business data for analysis", "Store personal files", "Browse the web", "Send emails"],
+    "answer": "Store large amounts of business data for analysis",
+    "explanation": "A data warehouse centralizes large volumes of data from multiple sources for reporting and analysis."
+  },
+  {
+    "question": "Which of the following is an example of a business intelligence tool?",
+    "options": ["Power BI", "Notepad", "Calculator", "Paint"],
+    "answer": "Power BI",
+    "explanation": "Power BI is a business intelligence tool for data visualization and analysis."
+  },
+  {
+    "question": "What is a zero-day vulnerability?",
+    "options": ["Unknown security flaw", "Known security flaw", "Antivirus update", "Firewall rule"],
+    "answer": "Unknown security flaw",
+    "explanation": "A zero-day vulnerability is a software security flaw unknown to the vendor, with no patch available."
+  },
+  {
+    "question": "Which of the following is a secure coding practice?",
+    "options": ["Input validation", "Ignoring errors", "Hardcoding passwords", "No logging"],
+    "answer": "Input validation",
+    "explanation": "Input validation prevents injection attacks by sanitizing user inputs."
+  },
+  {
+    "question": "What is a security information and event management (SIEM) system?",
+    "options": ["Security monitoring and alerting", "Word processing", "Spreadsheet", "Email client"],
+    "answer": "Security monitoring and alerting",
+    "explanation": "SIEM systems provide real-time security monitoring, threat detection, and incident response."
+  },
+  {
+    "question": "Which of the following is an example of a passwordless authentication method?",
+    "options": ["Fingerprint scan", "Password", "PIN", "Security question"],
+    "answer": "Fingerprint scan",
+    "explanation": "Biometric methods like fingerprint scanning are passwordless authentication."
+  },
+  {
+    "question": "What is an NFT (Non-Fungible Token)?",
+    "options": ["Unique digital asset on blockchain", "Cryptocurrency", "Web browser", "Email service"],
+    "answer": "Unique digital asset on blockchain",
+    "explanation": "NFTs are unique digital assets representing ownership of items like art, music, or collectibles on a blockchain."
+  },
+  {
+    "question": "Which of the following is a metaverse platform?",
+    "options": ["Decentraland", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Decentraland",
+    "explanation": "Decentraland is a decentralized virtual reality platform (metaverse) where users can buy land and interact."
+  },
+  {
+    "question": "What is green computing?",
+    "options": ["Environmentally sustainable computing", "Fast computing", "Cheap computing", "Wireless computing"],
+    "answer": "Environmentally sustainable computing",
+    "explanation": "Green computing involves designing, using, and disposing of computers with minimal environmental impact."
+  },
+  {
+    "question": "Which of the following is an e-waste disposal method?",
+    "options": ["Recycling", "Burning", "Landfill dumping", "Ocean dumping"],
+    "answer": "Recycling",
+    "explanation": "Recycling is the environmentally responsible method for disposing of electronic waste."
+  },
+  {
+    "question": "What is digital literacy?",
+    "options": ["Ability to use digital technology effectively", "Reading books", "Writing letters", "Printing documents"],
+    "answer": "Ability to use digital technology effectively",
+    "explanation": "Digital literacy includes skills for using computers, internet, and digital tools effectively."
+  },
+  {
+    "question": "Which of the following is a computer ethics issue?",
+    "options": ["Software piracy", "Typing speed", "Mouse usage", "Monitor brightness"],
+    "answer": "Software piracy",
+    "explanation": "Software piracy (unauthorized copying and distribution) is a major computer ethics issue."
+  },
+  {
+    "question": "What is the purpose of the GDPR?",
+    "options": ["Protect personal data privacy", "Increase internet speed", "Lower computer prices", "Promote software sales"],
+    "answer": "Protect personal data privacy",
+    "explanation": "The General Data Protection Regulation (GDPR) protects the privacy and personal data of EU citizens."
+  },
+  {
+    "question": "Which of the following is a Nigerian data protection regulation?",
+    "options": ["NDPR", "GDPR", "CCPA", "PIPEDA"],
+    "answer": "NDPR",
+    "explanation": "The Nigeria Data Protection Regulation (NDPR) governs data protection in Nigeria."
+  }
+]

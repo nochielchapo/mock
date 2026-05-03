@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is an example of a volatile memory?",
+    "options": ["ROM", "RAM", "Hard disk", "SSD"],
+    "answer": "RAM",
+    "explanation": "RAM is volatile, meaning its contents are lost when power is turned off."
+  },
+  {
+    "question": "The component that performs arithmetic and logical operations is the",
+    "options": ["CU", "ALU", "MU", "RU"],
+    "answer": "ALU",
+    "explanation": "The Arithmetic Logic Unit (ALU) performs arithmetic calculations and logical comparisons."
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "options": ["Monitor", "Printer", "Digital camera", "Speaker"],
+    "answer": "Digital camera",
+    "explanation": "A digital camera is an input device that captures images and video."
+  },
+  {
+    "question": "Which of these is an example of system software?",
+    "options": ["Windows 10", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Windows 10",
+    "explanation": "Windows 10 is an operating system, which is system software."
+  },
+  {
+    "question": "The shortcut key for bolding text is",
+    "options": ["Ctrl + B", "Ctrl + I", "Ctrl + U", "Ctrl + P"],
+    "answer": "Ctrl + B",
+    "explanation": "Ctrl + B is the shortcut for applying bold formatting to text."
+  },
+  {
+    "question": "Which of the following is a web browser?",
+    "options": ["Safari", "Windows", "Linux", "Android"],
+    "answer": "Safari",
+    "explanation": "Safari is a web browser; the others are operating systems."
+  },
+  {
+    "question": "Which of these is a type of malware that replicates itself?",
+    "options": ["Virus", "Firewall", "Antivirus", "Router"],
+    "answer": "Virus",
+    "explanation": "A virus is a type of malware that replicates itself and spreads to other files."
+  },
+  {
+    "question": "Which of the following is used to connect devices in a LAN?",
+    "options": ["Switch", "CPU", "RAM", "ROM"],
+    "answer": "Switch",
+    "explanation": "A switch connects multiple devices within a Local Area Network (LAN)."
+  },
+  {
+    "question": "Which of these is an example of a cloud storage service?",
+    "options": ["Google Drive", "Hard disk", "USB drive", "DVD"],
+    "answer": "Google Drive",
+    "explanation": "Google Drive is a cloud storage service; the others are physical storage devices."
+  },
+  {
+    "question": "Which of the following is a secondary storage device?",
+    "options": ["RAM", "Cache", "SSD", "Register"],
+    "answer": "SSD",
+    "explanation": "SSD (Solid State Drive) is a secondary storage device."
+  },
+  {
+    "question": "Which number system is base 2?",
+    "options": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+    "answer": "Binary",
+    "explanation": "Binary is a base-2 number system using digits 0 and 1."
+  },
+  {
+    "question": "Which of the following is an output device?",
+    "options": ["Keyboard", "Mouse", "Scanner", "Projector"],
+    "answer": "Projector",
+    "explanation": "A projector is an output device that displays images on a large screen."
+  },
+  {
+    "question": "The software that manages computer hardware is the",
+    "options": ["Operating system", "Word processor", "Spreadsheet", "Database"],
+    "answer": "Operating system",
+    "explanation": "The operating system manages computer hardware and software resources."
+  },
+  {
+    "question": "Which of the following is used to prevent unauthorized access?",
+    "options": ["Firewall", "Antivirus", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "explanation": "Firewalls and antivirus software both help prevent unauthorized access and malware."
+  },
+  {
+    "question": "Which of these is a programming language?",
+    "options": ["C++", "Windows", "Linux", "macOS"],
+    "answer": "C++",
+    "explanation": "C++ is a programming language; the others are operating systems."
+  },
+  {
+    "question": "A collection of computers connected together is called",
+    "options": ["Network", "Operating system", "Software", "Hardware"],
+    "answer": "Network",
+    "explanation": "A network is a collection of interconnected computers that share resources."
+  },
+  {
+    "question": "Which of the following is NOT a network topology?",
+    "options": ["Star", "Bus", "Ring", "Square"],
+    "answer": "Square",
+    "explanation": "Square is not a network topology; Star, Bus, and Ring are valid topologies."
+  },
+  {
+    "question": "Which key is used to cancel an operation?",
+    "options": ["Esc", "Enter", "Spacebar", "Tab"],
+    "answer": "Esc",
+    "explanation": "The Escape (Esc) key is used to cancel or abort an operation."
+  },
+  {
+    "question": "Which of these is an example of an email client?",
+    "options": ["Microsoft Outlook", "Google", "Bing", "Yahoo Search"],
+    "answer": "Microsoft Outlook",
+    "explanation": "Microsoft Outlook is an email client; the others are search engines."
+  },
+  {
+    "question": "Which of these is used to create spreadsheets?",
+    "options": ["MS Excel", "MS Word", "MS PowerPoint", "MS Access"],
+    "answer": "MS Excel",
+    "explanation": "Microsoft Excel is used for creating spreadsheets and performing calculations."
+  },
+  {
+    "question": "Which of the following is a type of computer memory?",
+    "options": ["ROM", "CPU", "ALU", "CU"],
+    "answer": "ROM",
+    "explanation": "ROM (Read Only Memory) is a type of non-volatile computer memory."
+  },
+  {
+    "question": "Which of the following is an output device for producing hard copies?",
+    "options": ["Printer", "Monitor", "Plotter", "Both A and C"],
+    "answer": "Both A and C",
+    "explanation": "Printers and plotters both produce hard copy output."
+  },
+  {
+    "question": "Which of these is a search engine?",
+    "options": ["Yahoo", "Facebook", "Instagram", "WhatsApp"],
+    "answer": "Yahoo",
+    "explanation": "Yahoo is a search engine; the others are social media platforms."
+  },
+  {
+    "question": "Which of these is used for sending electronic messages?",
+    "options": ["Email", "Chat", "SMS", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Email, chat, and SMS are all methods of sending electronic messages."
+  },
+  {
+    "question": "Which of these is an example of a social network?",
+    "options": ["Facebook", "Google", "Bing", "Yahoo"],
+    "answer": "Facebook",
+    "explanation": "Facebook is a social networking platform; the others are search engines."
+  },
+  {
+    "question": "Which of the following is a type of software license that allows free use?",
+    "options": ["Freeware", "Shareware", "Open source", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Freeware, shareware, and open source software may allow free use under certain conditions."
+  },
+  {
+    "question": "Which of these is used to display presentation slides?",
+    "options": ["Projector", "Monitor", "Printer", "Scanner"],
+    "answer": "Projector",
+    "explanation": "A projector is commonly used to display presentation slides to an audience."
+  },
+  {
+    "question": "Which key combination is used to open a new document?",
+    "options": ["Ctrl + N", "Ctrl + O", "Ctrl + S", "Ctrl + P"],
+    "answer": "Ctrl + N",
+    "explanation": "Ctrl + N is the shortcut for creating a new document."
+  },
+  {
+    "question": "Which of these is an example of a word processing application?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "answer": "MS Word",
+    "explanation": "Microsoft Word is a word processing application for creating documents."
+  },
+  {
+    "question": "Which of these is used to create slide presentations?",
+    "options": ["MS PowerPoint", "MS Word", "MS Excel", "MS Access"],
+    "answer": "MS PowerPoint",
+    "explanation": "Microsoft PowerPoint is used to create slide presentations."
+  },
+  {
+    "question": "Which of these is an example of a database management system?",
+    "options": ["Oracle", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "Oracle",
+    "explanation": "Oracle is a database management system; the others are office applications."
+  },
+  {
+    "question": "Which of the following is a type of computer based on size?",
+    "options": ["Supercomputer", "Mainframe", "Microcomputer", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Supercomputers, mainframes, and microcomputers are classifications by size and power."
+  },
+  {
+    "question": "Which of these is a characteristic of a supercomputer?",
+    "options": ["Very fast", "Very expensive", "Used for complex calculations", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Supercomputers are extremely fast, expensive, and used for complex scientific calculations."
+  },
+  {
+    "question": "Which of these is used to read printed text and convert it to digital?",
+    "options": ["Scanner", "Keyboard", "Mouse", "Printer"],
+    "answer": "Scanner",
+    "explanation": "A scanner converts printed text and images into digital format."
+  },
+  {
+    "question": "Which of these is used to recognize speech?",
+    "options": ["Microphone with speech recognition software", "Keyboard", "Mouse", "Printer"],
+    "answer": "Microphone with speech recognition software",
+    "explanation": "A microphone combined with speech recognition software converts spoken words to text."
+  },
+  {
+    "question": "Which of these is used to read cheques?",
+    "options": ["MICR", "OCR", "OMR", "Barcode reader"],
+    "answer": "MICR",
+    "explanation": "MICR (Magnetic Ink Character Recognition) is used to read cheques."
+  },
+  {
+    "question": "Which of these is used to capture live video?",
+    "options": ["Webcam", "Scanner", "Printer", "Plotter"],
+    "answer": "Webcam",
+    "explanation": "A webcam captures live video and images for video conferencing or recording."
+  },
+  {
+    "question": "Which of the following is a type of impact printer?",
+    "options": ["Dot matrix", "Inkjet", "Laser", "Thermal"],
+    "answer": "Dot matrix",
+    "explanation": "Dot matrix printers are impact printers that strike an ink ribbon against paper."
+  },
+  {
+    "question": "Which of these is an example of a non-impact printer?",
+    "options": ["Laser printer", "Inkjet printer", "Both A and B", "Dot matrix printer"],
+    "answer": "Both A and B",
+    "explanation": "Laser and inkjet printers are non-impact printers; dot matrix is impact."
+  },
+  {
+    "question": "Which of these is used to connect a computer to a network wirelessly?",
+    "options": ["Wi-Fi adapter", "Ethernet cable", "USB cable", "HDMI cable"],
+    "answer": "Wi-Fi adapter",
+    "explanation": "A Wi-Fi adapter allows wireless connection to a network."
+  },
+  {
+    "question": "Which of these is an example of a mobile operating system?",
+    "options": ["Android", "Windows 10", "Linux", "macOS"],
+    "answer": "Android",
+    "explanation": "Android is a mobile operating system for smartphones and tablets."
+  },
+  {
+    "question": "Which of these is used to secure data during transmission?",
+    "options": ["Encryption", "Decryption", "Compression", "Decompression"],
+    "answer": "Encryption",
+    "explanation": "Encryption secures data by converting it into an unreadable format during transmission."
+  },
+  {
+    "question": "Which of these is a video conferencing application?",
+    "options": ["Skype", "Google Meet", "Microsoft Teams", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Skype, Google Meet, and Microsoft Teams are all video conferencing applications."
+  },
+  {
+    "question": "Which of these is an example of an e-learning platform?",
+    "options": ["Coursera", "Udemy", "Khan Academy", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Coursera, Udemy, and Khan Academy are all e-learning platforms."
+  },
+  {
+    "question": "Which of these is used for online banking?",
+    "options": ["Mobile banking app", "Internet banking website", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "explanation": "Mobile apps and internet banking websites are both used for online banking."
+  },
+  {
+    "question": "Which of these is a type of cyber attack?",
+    "options": ["DDoS", "Phishing", "Man-in-the-middle", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "DDoS, phishing, and man-in-the-middle are all types of cyber attacks."
+  },
+  {
+    "question": "Which of these is used to protect against DDoS attacks?",
+    "options": ["Firewall", "Antivirus", "DDoS mitigation service", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Firewalls, antivirus software, and DDoS mitigation services help protect against DDoS attacks."
+  },
+  {
+    "question": "Which of these is a good practice for creating passwords?",
+    "options": ["Using personal information", "Using common words", "Using a mix of characters", "Using short passwords"],
+    "answer": "Using a mix of characters",
+    "explanation": "Strong passwords use a mix of uppercase, lowercase, numbers, and symbols."
+  },
+  {
+    "question": "Which of these is an example of biometric authentication?",
+    "options": ["Fingerprint scan", "Password", "PIN", "Security question"],
+    "answer": "Fingerprint scan",
+    "explanation": "Fingerprint scanning is a biometric authentication method using physical characteristics."
+  },
+  {
+    "question": "Which of these is a safe online behavior?",
+    "options": ["Clicking unknown links", "Sharing passwords", "Using HTTPS websites", "Downloading from untrusted sources"],
+    "answer": "Using HTTPS websites",
+    "explanation": "Using HTTPS websites ensures encrypted communication, which is safe practice."
+  }
+]

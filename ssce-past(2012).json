@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is an input device?",
+    "options": ["Monitor", "Printer", "Joystick", "Speaker"],
+    "answer": "Joystick",
+    "explanation": "A joystick is an input device used for gaming and controlling movement."
+  },
+  {
+    "question": "Which of the following is a non-volatile memory?",
+    "options": ["RAM", "Cache", "ROM", "Register"],
+    "answer": "ROM",
+    "explanation": "ROM (Read Only Memory) is non-volatile, retaining data even when power is off."
+  },
+  {
+    "question": "The ALU of a computer performs",
+    "options": ["Arithmetic and logical operations", "Data storage", "Input/output operations", "Memory management"],
+    "answer": "Arithmetic and logical operations",
+    "explanation": "The Arithmetic Logic Unit (ALU) performs arithmetic calculations and logical comparisons."
+  },
+  {
+    "question": "Which of the following is an example of a secondary storage device?",
+    "options": ["RAM", "Cache", "Hard disk", "Register"],
+    "answer": "Hard disk",
+    "explanation": "A hard disk is a secondary storage device used for permanent data storage."
+  },
+  {
+    "question": "The speed of a computer is measured in",
+    "options": ["Bytes", "Hertz", "Bits", "Volts"],
+    "answer": "Hertz",
+    "explanation": "Computer speed (clock speed) is measured in Hertz (Hz), typically GHz."
+  },
+  {
+    "question": "Which of these is a network topology?",
+    "options": ["Tree", "Circle", "Mesh", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Tree, Circle (Ring), and Mesh are all valid network topologies."
+  },
+  {
+    "question": "Which of the following is an example of an operating system?",
+    "options": ["Windows", "Microsoft Word", "Excel", "PowerPoint"],
+    "answer": "Windows",
+    "explanation": "Windows is an operating system; the others are application software."
+  },
+  {
+    "question": "A byte consists of how many bits?",
+    "options": ["4", "8", "16", "32"],
+    "answer": "8",
+    "explanation": "A byte is composed of 8 bits."
+  },
+  {
+    "question": "Which of the following is used to connect a computer to a network?",
+    "options": ["NIC", "CPU", "RAM", "ROM"],
+    "answer": "NIC",
+    "explanation": "A Network Interface Card (NIC) connects a computer to a network."
+  },
+  {
+    "question": "The full meaning of BIOS is",
+    "options": ["Basic Input Output System", "Binary Input Output System", "Basic Internal Operating System", "Basic Input Output Software"],
+    "answer": "Basic Input Output System",
+    "explanation": "BIOS stands for Basic Input Output System, which initializes hardware during booting."
+  },
+  {
+    "question": "Which of these is NOT a programming language?",
+    "options": ["Java", "C++", "HTML", "Windows"],
+    "answer": "Windows",
+    "explanation": "Windows is an operating system; Java, C++, and HTML are programming/markup languages."
+  },
+  {
+    "question": "Which device converts analog signals to digital?",
+    "options": ["Modem", "Router", "Switch", "Hub"],
+    "answer": "Modem",
+    "explanation": "A modem converts analog signals to digital (demodulation) and digital to analog (modulation)."
+  },
+  {
+    "question": "Which of the following is a valid IP address?",
+    "options": ["192.168.1.1", "192.168.1", "192.168", "192.168.1.1.1"],
+    "answer": "192.168.1.1",
+    "explanation": "A valid IPv4 address consists of four octets separated by dots, each between 0-255."
+  },
+  {
+    "question": "Which of these is a database management system?",
+    "options": ["MySQL", "Windows", "Linux", "macOS"],
+    "answer": "MySQL",
+    "explanation": "MySQL is a relational database management system (RDBMS)."
+  },
+  {
+    "question": "The shortcut key for pasting text is",
+    "options": ["Ctrl + C", "Ctrl + X", "Ctrl + V", "Ctrl + Z"],
+    "answer": "Ctrl + V",
+    "explanation": "Ctrl + V is the standard shortcut for pasting copied or cut content."
+  },
+  {
+    "question": "Which of the following is an example of a web browser?",
+    "options": ["Google Chrome", "Windows 10", "Linux", "MS Word"],
+    "answer": "Google Chrome",
+    "explanation": "Google Chrome is a web browser; the others are operating systems or applications."
+  },
+  {
+    "question": "Cache memory is",
+    "options": ["Very fast", "Very slow", "External storage", "Optical storage"],
+    "answer": "Very fast",
+    "explanation": "Cache memory is extremely fast memory located close to the CPU."
+  },
+  {
+    "question": "Which of these is an example of system software?",
+    "options": ["Device driver", "Word processor", "Spreadsheet", "Web browser"],
+    "answer": "Device driver",
+    "explanation": "Device drivers are system software that allow the OS to communicate with hardware."
+  },
+  {
+    "question": "Which of these is used to display output visually?",
+    "options": ["Monitor", "Printer", "Speaker", "Plotter"],
+    "answer": "Monitor",
+    "explanation": "A monitor visually displays output from a computer."
+  },
+  {
+    "question": "Which of the following is a storage capacity unit?",
+    "options": ["GB", "GHz", "Mbps", "DPI"],
+    "answer": "GB",
+    "explanation": "Gigabyte (GB) is a unit of data storage capacity."
+  },
+  {
+    "question": "Which of these is an example of a utility software?",
+    "options": ["Antivirus", "Word", "Excel", "PowerPoint"],
+    "answer": "Antivirus",
+    "explanation": "Antivirus is utility software that protects against malware."
+  },
+  {
+    "question": "The process of dividing a hard disk into sections is called",
+    "options": ["Formatting", "Partitioning", "Booting", "Defragmenting"],
+    "answer": "Partitioning",
+    "explanation": "Partitioning divides a hard disk into separate logical sections."
+  },
+  {
+    "question": "Which of these is a type of computer network?",
+    "options": ["LAN", "MAN", "WAN", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "LAN, MAN, and WAN are all types of computer networks."
+  },
+  {
+    "question": "Which of the following is an output device?",
+    "options": ["Mouse", "Keyboard", "Scanner", "Plotter"],
+    "answer": "Plotter",
+    "explanation": "A plotter is an output device used for printing large graphics and designs."
+  },
+  {
+    "question": "Which number system uses letters A-F?",
+    "options": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+    "answer": "Hexadecimal",
+    "explanation": "Hexadecimal uses digits 0-9 and letters A-F to represent values."
+  },
+  {
+    "question": "Which of these is a search engine?",
+    "options": ["Bing", "Facebook", "Instagram", "Twitter"],
+    "answer": "Bing",
+    "explanation": "Bing is a search engine; the others are social media platforms."
+  },
+  {
+    "question": "The shortcut key for undo is",
+    "options": ["Ctrl + C", "Ctrl + X", "Ctrl + V", "Ctrl + Z"],
+    "answer": "Ctrl + Z",
+    "explanation": "Ctrl + Z is the standard shortcut for undoing the last action."
+  },
+  {
+    "question": "Which of these is a type of malware?",
+    "options": ["Trojan", "Firewall", "Antivirus", "Router"],
+    "answer": "Trojan",
+    "explanation": "A Trojan horse is a type of malware disguised as legitimate software."
+  },
+  {
+    "question": "Which of the following is NOT a Microsoft Office product?",
+    "options": ["Word", "Excel", "Access", "Adobe Reader"],
+    "answer": "Adobe Reader",
+    "explanation": "Adobe Reader is from Adobe, not Microsoft Office."
+  },
+  {
+    "question": "The main memory of a computer is also called",
+    "options": ["Primary storage", "Secondary storage", "Tertiary storage", "Offline storage"],
+    "answer": "Primary storage",
+    "explanation": "Main memory (RAM) is also known as primary storage."
+  },
+  {
+    "question": "Which of these is used to protect a computer from unauthorized access?",
+    "options": ["Firewall", "Browser", "Word processor", "Spreadsheet"],
+    "answer": "Firewall",
+    "explanation": "A firewall monitors and controls incoming/outgoing network traffic for security."
+  },
+  {
+    "question": "Which of these is an example of a high-level programming language?",
+    "options": ["Assembly", "Machine code", "Python", "Binary"],
+    "answer": "Python",
+    "explanation": "Python is a high-level language; assembly and machine code are low-level."
+  },
+  {
+    "question": "Which key is used to refresh a webpage?",
+    "options": ["F1", "F2", "F5", "F10"],
+    "answer": "F5",
+    "explanation": "F5 is the standard key for refreshing a webpage or window."
+  },
+  {
+    "question": "Which of these is a type of printer that uses toner?",
+    "options": ["Inkjet", "Laser", "Dot matrix", "Thermal"],
+    "answer": "Laser",
+    "explanation": "Laser printers use toner powder to produce high-quality prints."
+  },
+  {
+    "question": "The brain of a computer is the",
+    "options": ["RAM", "CPU", "Hard disk", "Motherboard"],
+    "answer": "CPU",
+    "explanation": "The CPU is often called the brain of the computer as it processes instructions."
+  },
+  {
+    "question": "Which of these is an example of a social media platform?",
+    "options": ["Instagram", "Google", "Bing", "Yahoo"],
+    "answer": "Instagram",
+    "explanation": "Instagram is a social media platform; the others are search engines."
+  },
+  {
+    "question": "Which of these is used to enter data into a computer?",
+    "options": ["Output device", "Input device", "Storage device", "Processing device"],
+    "answer": "Input device",
+    "explanation": "Input devices (keyboard, mouse, scanner) are used to enter data into a computer."
+  },
+  {
+    "question": "Which of these is an optical storage device?",
+    "options": ["Hard disk", "SSD", "DVD", "USB drive"],
+    "answer": "DVD",
+    "explanation": "DVD (Digital Versatile Disc) is an optical storage medium read by laser."
+  },
+  {
+    "question": "Which of these is NOT a type of computer?",
+    "options": ["Desktop", "Laptop", "Tablet", "Refrigerator"],
+    "answer": "Refrigerator",
+    "explanation": "A refrigerator is a home appliance, not a type of computer."
+  },
+  {
+    "question": "Which of these is used to wirelessly connect devices?",
+    "options": ["Bluetooth", "Ethernet cable", "USB cable", "HDMI cable"],
+    "answer": "Bluetooth",
+    "explanation": "Bluetooth is a wireless technology for short-range device communication."
+  },
+  {
+    "question": "Which of the following is a type of software license?",
+    "options": ["Open source", "Proprietary", "Freeware", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Open source, proprietary, and freeware are all types of software licenses."
+  },
+  {
+    "question": "Which of these is used to scan documents?",
+    "options": ["Scanner", "Printer", "Monitor", "Speaker"],
+    "answer": "Scanner",
+    "explanation": "A scanner is an input device used to digitize physical documents."
+  },
+  {
+    "question": "Which of these is a cloud computing service?",
+    "options": ["Google Drive", "Hard disk", "USB drive", "DVD"],
+    "answer": "Google Drive",
+    "explanation": "Google Drive is a cloud storage and computing service."
+  },
+  {
+    "question": "Which key combination is used to select all text?",
+    "options": ["Ctrl + A", "Ctrl + C", "Ctrl + V", "Ctrl + X"],
+    "answer": "Ctrl + A",
+    "explanation": "Ctrl + A is the shortcut for selecting all content in a document or window."
+  },
+  {
+    "question": "Which of these is an example of an email service?",
+    "options": ["Gmail", "Google", "Bing", "Yahoo Search"],
+    "answer": "Gmail",
+    "explanation": "Gmail is an email service; the others are search engines."
+  },
+  {
+    "question": "Which of these is used to create presentations?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "answer": "MS PowerPoint",
+    "explanation": "Microsoft PowerPoint is used to create slide presentations."
+  },
+  {
+    "question": "Which of these is used to create spreadsheets?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "answer": "MS Excel",
+    "explanation": "Microsoft Excel is used to create spreadsheets for calculations and data analysis."
+  },
+  {
+    "question": "Which of these is used to create databases?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "answer": "MS Access",
+    "explanation": "Microsoft Access is a database management system for creating and managing databases."
+  },
+  {
+    "question": "Which of these is used for video conferencing?",
+    "options": ["Zoom", "Word", "Excel", "PowerPoint"],
+    "answer": "Zoom",
+    "explanation": "Zoom is a video conferencing application for online meetings."
+  },
+  {
+    "question": "Which of these is an example of online learning platform?",
+    "options": ["Zoom", "Google Classroom", "Microsoft Teams", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Zoom, Google Classroom, and Microsoft Teams are all used for online learning."
+  }
+]

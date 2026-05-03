@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is a type of cache memory?",
+    "options": ["L1 cache", "L2 cache", "L3 cache", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "L1, L2, and L3 are all levels of cache memory in a computer system."
+  },
+  {
+    "question": "The process of transferring data from CPU to memory is called",
+    "options": ["Read operation", "Write operation", "Fetch operation", "Execute operation"],
+    "answer": "Write operation",
+    "explanation": "A write operation transfers data from the CPU to memory."
+  },
+  {
+    "question": "Which of the following is a pointing device?",
+    "options": ["Trackball", "Printer", "Monitor", "Speaker"],
+    "answer": "Trackball",
+    "explanation": "A trackball is a pointing device similar to an inverted mouse."
+  },
+  {
+    "question": "Which of these is an example of a database application?",
+    "options": ["Oracle", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "Oracle",
+    "explanation": "Oracle is a database application; the others are office productivity software."
+  },
+  {
+    "question": "The shortcut key for finding text in a document is",
+    "options": ["Ctrl + F", "Ctrl + H", "Ctrl + G", "Ctrl + A"],
+    "answer": "Ctrl + F",
+    "explanation": "Ctrl + F opens the Find dialog to search for text in a document."
+  },
+  {
+    "question": "Which of the following is a voice search assistant?",
+    "options": ["Siri", "Windows", "Linux", "macOS"],
+    "answer": "Siri",
+    "explanation": "Siri is a voice search assistant; the others are operating systems."
+  },
+  {
+    "question": "Which of these is a type of malware that records keystrokes?",
+    "options": ["Keylogger", "Trojan", "Worm", "Ransomware"],
+    "answer": "Keylogger",
+    "explanations": "A keylogger records every keystroke made on a computer."
+  },
+  {
+    "question": "Which of the following is used to connect a computer to a VPN?",
+    "options": ["VPN client software", "Switch", "Hub", "Modem"],
+    "answer": "VPN client software",
+    "explanation": "VPN client software establishes a secure connection to a VPN server."
+  },
+  {
+    "question": "Which of these is an example of a professional social network?",
+    "options": ["LinkedIn", "Instagram", "Snapchat", "TikTok"],
+    "answer": "LinkedIn",
+    "explanation": "LinkedIn is a professional social network for career and business networking."
+  },
+  {
+    "question": "Which of the following is an optical storage device?",
+    "options": ["Blu-ray disc", "Hard disk", "SSD", "USB drive"],
+    "answer": "Blu-ray disc",
+    "explanation": "Blu-ray disc is an optical storage device; the others are magnetic or flash storage."
+  },
+  {
+    "question": "Which number system is base 16?",
+    "options": ["Hexadecimal", "Binary", "Octal", "Decimal"],
+    "answer": "Hexadecimal",
+    "explanation": "Hexadecimal is a base-16 number system using digits 0-9 and letters A-F."
+  },
+  {
+    "question": "Which of the following is an output device for producing blueprints?",
+    "options": ["Plotter", "Printer", "Monitor", "Speaker"],
+    "answer": "Plotter",
+    "explanation": "A plotter is commonly used to produce blueprints and large technical drawings."
+  },
+  {
+    "question": "The amount of data a CPU can process at once is called",
+    "options": ["Word size", "Clock speed", "Cache size", "Bus width"],
+    "answer": "Word size",
+    "explanation": "Word size refers to the number of bits a CPU can process simultaneously."
+  },
+  {
+    "question": "Which of the following is used to detect intrusions?",
+    "options": ["IDS", "Firewall", "Antivirus", "All of the above"],
+    "answer": "IDS",
+    "explanation": "Intrusion Detection System (IDS) specifically detects unauthorized access attempts."
+  },
+  {
+    "question": "Which of these is an interpreted programming language?",
+    "options": ["Python", "C", "C++", "Java"],
+    "answer": "Python",
+    "explanation": "Python is an interpreted language; C, C++, and Java are compiled languages."
+  },
+  {
+    "question": "A network that covers a city is called a",
+    "options": ["MAN", "LAN", "WAN", "PAN"],
+    "answer": "MAN",
+    "explanation": "A Metropolitan Area Network (MAN) covers a city or large campus."
+  },
+  {
+    "question": "Which of the following is a networking device that learns MAC addresses?",
+    "options": ["Switch", "Hub", "Router", "Modem"],
+    "answer": "Switch",
+    "explanation": "A switch learns MAC addresses and forwards data only to the destination device."
+  },
+  {
+    "question": "Which key is used to refresh a window?",
+    "options": ["F5", "F1", "F2", "F10"],
+    "answer": "F5",
+    "explanation": "F5 is the standard key for refreshing the current window or webpage."
+  },
+  {
+    "question": "Which of these is an example of a cloud collaboration tool?",
+    "options": ["Google Docs", "Hard disk", "USB drive", "DVD"],
+    "answer": "Google Docs",
+    "explanation": "Google Docs is a cloud collaboration tool; the others are physical storage."
+  },
+  {
+    "question": "Which of these is used to create queries in a database?",
+    "options": ["SQL", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "SQL",
+    "explanation": "SQL (Structured Query Language) is used to create queries in databases."
+  },
+  {
+    "question": "Which of the following is a file compression utility?",
+    "options": ["WinRAR", "Word processor", "Spreadsheet", "Web browser"],
+    "answer": "WinRAR",
+    "explanation": "WinRAR is a file compression utility; the others are application software."
+  },
+  {
+    "question": "Which of the following is an input device for reading magnetic stripes?",
+    "options": ["Magnetic stripe reader", "Keyboard", "Mouse", "Printer"],
+    "answer": "Magnetic stripe reader",
+    "explanation": "A magnetic stripe reader reads data from magnetic stripes on cards like credit cards."
+  },
+  {
+    "question": "Which of these is a web browser developed by Mozilla?",
+    "options": ["Firefox", "Chrome", "Safari", "Edge"],
+    "answer": "Firefox",
+    "explanation": "Firefox is a web browser developed by the Mozilla Foundation."
+  },
+  {
+    "question": "Which of these is used for live streaming?",
+    "options": ["Twitch", "YouTube Live", "Facebook Live", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Twitch, YouTube Live, and Facebook Live are all live streaming platforms."
+  },
+  {
+    "question": "Which of these is an example of a discussion forum?",
+    "options": ["Reddit", "Twitter", "Instagram", "Snapchat"],
+    "answer": "Reddit",
+    "explanation": "Reddit is a discussion forum; the others are social media platforms."
+  },
+  {
+    "question": "Which of the following is a type of software that is free but with limited features?",
+    "options": ["Freemium", "Freeware", "Shareware", "Open source"],
+    "answer": "Freemium",
+    "explanation": "Freemium software is free with basic features but requires payment for premium features."
+  },
+  {
+    "question": "Which of these is used to convert handwritten text to digital text?",
+    "options": ["Handwriting recognition software", "Scanner", "Digital camera", "Webcam"],
+    "answer": "Handwriting recognition software",
+    "explanation": "Handwriting recognition software converts handwritten input into digital text."
+  },
+  {
+    "question": "Which key combination is used to undo an action?",
+    "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + X", "Ctrl + C"],
+    "answer": "Ctrl + Z",
+    "explanation": "Ctrl + Z is the shortcut for undoing the last action."
+  },
+  {
+    "question": "Which of these is an example of a vector graphics editor?",
+    "options": ["Adobe Illustrator", "MS Word", "MS Excel", "MS Access"],
+    "answer": "Adobe Illustrator",
+    "explanation": "Adobe Illustrator is a vector graphics editor; the others are not."
+  },
+  {
+    "question": "Which of these is used to edit videos?",
+    "options": ["Adobe Premiere Pro", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "Adobe Premiere Pro",
+    "explanation": "Adobe Premiere Pro is a professional video editing software."
+  },
+  {
+    "question": "Which of these is an example of a distributed database?",
+    "options": ["Cassandra", "MySQL", "Oracle", "PostgreSQL"],
+    "answer": "Cassandra",
+    "explanation": "Cassandra is a distributed database; MySQL, Oracle, and PostgreSQL are typically centralized."
+  },
+  {
+    "question": "Which of the following is a type of wearable computer?",
+    "options": ["Smartwatch", "Desktop", "Laptop", "Server"],
+    "answer": "Smartwatch",
+    "explanation": "A smartwatch is a wearable computer; the others are not wearable."
+  },
+  {
+    "question": "Which of these is a characteristic of a server?",
+    "options": ["High reliability", "High processing power", "24/7 operation", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Servers are designed for high reliability, high processing power, and continuous operation."
+  },
+  {
+    "question": "Which of these is used for iris recognition?",
+    "options": ["Iris scanner", "Fingerprint scanner", "Face scanner", "Voice scanner"],
+    "answer": "Iris scanner",
+    "explanation": "An iris scanner captures the unique pattern of the iris for identification."
+  },
+  {
+    "question": "Which of these is used for palm recognition?",
+    "options": ["Palm scanner", "Keyboard", "Mouse", "Printer"],
+    "answer": "Palm scanner",
+    "explanation": "A palm scanner captures the unique pattern of a person's palm."
+  },
+  {
+    "question": "Which of these is used to read RFID tags?",
+    "options": ["RFID reader", "OMR", "OCR", "MICR"],
+    "answer": "RFID reader",
+    "explanation": "An RFID reader reads data from RFID tags wirelessly."
+  },
+  {
+    "question": "Which of these is used to capture panoramic images?",
+    "options": ["Panoramic camera", "Webcam", "Digital camera", "Scanner"],
+    "answer": "Panoramic camera",
+    "explanation": "A panoramic camera captures wide-angle panoramic images."
+  },
+  {
+    "question": "Which of the following is an example of a character printer?",
+    "options": ["Dot matrix printer", "Laser printer", "Inkjet printer", "Page printer"],
+    "answer": "Dot matrix printer",
+    "explanation": "Dot matrix printers are character printers that print one character at a time."
+  },
+  {
+    "question": "Which of these is an example of a photo printer?",
+    "options": ["Photo printer", "Dot matrix", "Line printer", "Drum printer"],
+    "answer": "Photo printer",
+    "explanation": "Photo printers are specialized for printing high-quality photographs."
+  },
+  {
+    "question": "Which of these is used to connect NFC devices?",
+    "options": ["NFC adapter", "Bluetooth", "Wi-Fi", "Ethernet"],
+    "answer": "NFC adapter",
+    "explanation": "NFC (Near Field Communication) requires an NFC adapter for short-range communication."
+  },
+  {
+    "question": "Which of these is an example of a network operating system?",
+    "options": ["Windows Server", "Windows 10", "macOS", "Linux Mint"],
+    "answer": "Windows Server",
+    "explanation": "Windows Server is a network operating system; the others are desktop OS."
+  },
+  {
+    "question": "Which of these is used to create a digital certificate?",
+    "options": ["Certificate Authority", "Browser", "Email client", "Word processor"],
+    "answer": "Certificate Authority",
+    "explanation": "A Certificate Authority (CA) issues and verifies digital certificates."
+  },
+  {
+    "question": "Which of these is a customer relationship management tool?",
+    "options": ["Salesforce", "Trello", "Asana", "Jira"],
+    "answer": "Salesforce",
+    "explanation": "Salesforce is a CRM tool; Trello, Asana, and Jira are project management tools."
+  },
+  {
+    "question": "Which of these is an example of a learning management system?",
+    "options": ["Moodle", "Coursera", "Udemy", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Moodle, Coursera, and Udemy are all learning management or online course platforms."
+  },
+  {
+    "question": "Which of these is used for contactless payment?",
+    "options": ["NFC payment", "Bitcoin", "PayPal", "Bank transfer"],
+    "answer": "NFC payment",
+    "explanation": "NFC payment allows contactless transactions using near-field communication."
+  },
+  {
+    "question": "Which of these is a type of adware?",
+    "options": ["Popup adware", "Spyware", "Ransomware", "Trojan"],
+    "answer": "Popup adware",
+    "explanation": "Popup adware displays unwanted advertisements on a computer."
+  },
+  {
+    "question": "Which of these is used to protect against zero-day attacks?",
+    "options": ["Behavioral analysis", "Signature-based antivirus", "Firewall", "Encryption"],
+    "answer": "Behavioral analysis",
+    "explanation": "Behavioral analysis detects zero-day attacks by monitoring program behavior."
+  },
+  {
+    "question": "Which of these is an example of a hardware security module?",
+    "options": ["HSM", "Antivirus", "Firewall", "IDS"],
+    "answer": "HSM",
+    "explanation": "HSM (Hardware Security Module) is a physical device for managing digital keys."
+  },
+  {
+    "question": "Which of these is an example of a security standard?",
+    "options": ["ISO 27001", "GDPR", "PCI DSS", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "ISO 27001, GDPR, and PCI DSS are all security standards and regulations."
+  },
+  {
+    "question": "Which of these is a safe practice when using public computers?",
+    "options": ["Don't save passwords", "Clear browsing history", "Log out of accounts", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Not saving passwords, clearing history, and logging out are all safe practices on public computers."
+  }
+]

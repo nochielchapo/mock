@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is a primary storage device?",
+    "options": ["RAM", "Hard disk", "SSD", "USB drive"],
+    "answer": "RAM",
+    "explanation": "RAM is primary storage; hard disk, SSD, and USB drive are secondary storage."
+  },
+  {
+    "question": "The component that directs the flow of data within the CPU is the",
+    "options": ["ALU", "CU", "MU", "RU"],
+    "answer": "CU",
+    "explanation": "The Control Unit (CU) directs the flow of data and instructions within the CPU."
+  },
+  {
+    "question": "Which of the following is an input device used for gaming?",
+    "options": ["Joystick", "Printer", "Monitor", "Speaker"],
+    "answer": "Joystick",
+    "explanation": "A joystick is an input device commonly used for gaming and simulations."
+  },
+  {
+    "question": "Which of these is an example of a spreadsheet application?",
+    "options": ["Lotus 1-2-3", "MS Word", "MS PowerPoint", "MS Access"],
+    "answer": "Lotus 1-2-3",
+    "explanation": "Lotus 1-2-3 is an early spreadsheet application; the others are different types."
+  },
+  {
+    "question": "The shortcut key for italicizing text is",
+    "options": ["Ctrl + B", "Ctrl + I", "Ctrl + U", "Ctrl + P"],
+    "answer": "Ctrl + I",
+    "explanation": "Ctrl + I is the shortcut for applying italic formatting to text."
+  },
+  {
+    "question": "Which of the following is a search engine?",
+    "options": ["DuckDuckGo", "Windows", "Linux", "macOS"],
+    "answer": "DuckDuckGo",
+    "explanation": "DuckDuckGo is a search engine; the others are operating systems."
+  },
+  {
+    "question": "Which of these is a type of malware that spreads without user interaction?",
+    "options": ["Worm", "Trojan", "Spyware", "Ransomware"],
+    "answer": "Worm",
+    "explanation": "A worm spreads automatically across networks without user interaction."
+  },
+  {
+    "question": "Which of the following is used to filter network traffic?",
+    "options": ["Firewall", "Switch", "Hub", "Modem"],
+    "answer": "Firewall",
+    "explanation": "A firewall filters incoming and outgoing network traffic based on security rules."
+  },
+  {
+    "question": "Which of these is an example of a social media platform for sharing photos?",
+    "options": ["Instagram", "Google", "Bing", "Yahoo"],
+    "answer": "Instagram",
+    "explanation": "Instagram is a social media platform focused on sharing photos and videos."
+  },
+  {
+    "question": "Which of the following is a magnetic storage device?",
+    "options": ["Hard disk", "SSD", "USB flash drive", "CD-ROM"],
+    "answer": "Hard disk",
+    "explanation": "A hard disk uses magnetic storage; SSD and USB are flash, CD-ROM is optical."
+  },
+  {
+    "question": "Which number system is base 10?",
+    "options": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+    "answer": "Decimal",
+    "explanation": "Decimal is a base-10 number system using digits 0-9."
+  },
+  {
+    "question": "Which of the following is an output device for producing large maps?",
+    "options": ["Plotter", "Printer", "Monitor", "Speaker"],
+    "answer": "Plotter",
+    "explanation": "A plotter is ideal for producing large maps, blueprints, and drawings."
+  },
+  {
+    "question": "The speed of a CPU is measured in",
+    "options": ["GHz", "MB", "GB", "KB"],
+    "answer": "GHz",
+    "explanation": "CPU speed (clock speed) is measured in Gigahertz (GHz)."
+  },
+  {
+    "question": "Which of the following is used to block unauthorized access?",
+    "options": ["Firewall", "Antivirus", "Both A and B", "None of the above"],
+    "answer": "Firewall",
+    "explanation": "A firewall specifically blocks unauthorized access; antivirus deals with malware."
+  },
+  {
+    "question": "Which of these is a low-level programming language?",
+    "options": ["Assembly", "Python", "Java", "C++"],
+    "answer": "Assembly",
+    "explanation": "Assembly is a low-level language; Python, Java, and C++ are high-level."
+  },
+  {
+    "question": "A network that covers a small area like a school is called a",
+    "options": ["LAN", "WAN", "MAN", "PAN"],
+    "answer": "LAN",
+    "explanation": "A Local Area Network (LAN) covers a small geographic area like a school or office."
+  },
+  {
+    "question": "Which of the following is a networking device that broadcasts data to all ports?",
+    "options": ["Hub", "Switch", "Router", "Modem"],
+    "answer": "Hub",
+    "explanation": "A hub broadcasts data to all connected ports; a switch sends only to the destination."
+  },
+  {
+    "question": "Which key is used to move the cursor to the end of a line?",
+    "options": ["End", "Home", "Page Up", "Page Down"],
+    "answer": "End",
+    "explanation": "The End key moves the cursor to the end of the current line."
+  },
+  {
+    "question": "Which of these is an example of a file hosting service?",
+    "options": ["Dropbox", "Hard disk", "USB drive", "DVD"],
+    "answer": "Dropbox",
+    "explanation": "Dropbox is a cloud file hosting service; the others are physical storage."
+  },
+  {
+    "question": "Which of these is used to create forms and reports?",
+    "options": ["MS Access", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "MS Access",
+    "explanation": "Microsoft Access is used to create forms and reports for database management."
+  },
+  {
+    "question": "Which of the following is a utility software?",
+    "options": ["Disk defragmenter", "Word processor", "Spreadsheet", "Web browser"],
+    "answer": "Disk defragmenter",
+    "explanation": "Disk defragmenter is a utility software; the others are application software."
+  },
+  {
+    "question": "Which of the following is an input device for capturing audio?",
+    "options": ["Microphone", "Speaker", "Headphones", "Printer"],
+    "answer": "Microphone",
+    "explanation": "A microphone is an input device that captures audio."
+  },
+  {
+    "question": "Which of these is a web browser developed by Google?",
+    "options": ["Chrome", "Firefox", "Safari", "Edge"],
+    "answer": "Chrome",
+    "explanation": "Google Chrome is a web browser developed by Google."
+  },
+  {
+    "question": "Which of these is used for online video sharing?",
+    "options": ["YouTube", "Facebook", "Instagram", "Twitter"],
+    "answer": "YouTube",
+    "explanation": "YouTube is a platform specifically for sharing and watching videos."
+  },
+  {
+    "question": "Which of these is an example of a microblogging platform?",
+    "options": ["Twitter", "Facebook", "Instagram", "LinkedIn"],
+    "answer": "Twitter",
+    "explanation": "Twitter is a microblogging platform where posts are limited in length."
+  },
+  {
+    "question": "Which of the following is a type of software that is permanently free?",
+    "options": ["Freeware", "Shareware", "Trialware", "Demoware"],
+    "answer": "Freeware",
+    "explanation": "Freeware is software that is permanently free to use."
+  },
+  {
+    "question": "Which of these is used to scan documents into digital format?",
+    "options": ["Scanner", "Digital camera", "Webcam", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Scanners, digital cameras, and webcams can all digitize documents or images."
+  },
+  {
+    "question": "Which key combination is used to save a document with a new name?",
+    "options": ["F12", "Ctrl + S", "Ctrl + N", "Ctrl + O"],
+    "answer": "F12",
+    "explanation": "F12 opens the Save As dialog to save a document with a new name."
+  },
+  {
+    "question": "Which of these is an example of a presentation software?",
+    "options": ["Prezi", "MS Word", "MS Excel", "MS Access"],
+    "answer": "Prezi",
+    "explanation": "Prezi is a presentation software; the others are different types."
+  },
+  {
+    "question": "Which of these is used to create animations?",
+    "options": ["Adobe Animate", "MS Word", "MS Excel", "MS Access"],
+    "answer": "Adobe Animate",
+    "explanation": "Adobe Animate is used for creating animations and interactive content."
+  },
+  {
+    "question": "Which of these is an example of a NoSQL database?",
+    "options": ["MongoDB", "MySQL", "Oracle", "PostgreSQL"],
+    "answer": "MongoDB",
+    "explanation": "MongoDB is a NoSQL database; MySQL, Oracle, and PostgreSQL are relational."
+  },
+  {
+    "question": "Which of the following is a type of handheld computer?",
+    "options": ["PDA", "Desktop", "Laptop", "Server"],
+    "answer": "PDA",
+    "explanation": "PDA (Personal Digital Assistant) is a handheld computer; the others are larger."
+  },
+  {
+    "question": "Which of these is a characteristic of a minicomputer?",
+    "options": ["Mid-sized", "Used by small businesses", "Less powerful than mainframes", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Minicomputers are mid-sized, used by small businesses, and less powerful than mainframes."
+  },
+  {
+    "question": "Which of these is used for facial recognition?",
+    "options": ["Camera with recognition software", "Keyboard", "Mouse", "Printer"],
+    "answer": "Camera with recognition software",
+    "explanation": "Facial recognition uses a camera and specialized software."
+  },
+  {
+    "question": "Which of these is used for gesture recognition?",
+    "options": ["Motion sensor", "Keyboard", "Mouse", "Printer"],
+    "answer": "Motion sensor",
+    "explanation": "Motion sensors capture gestures for recognition and control."
+  },
+  {
+    "question": "Which of these is used to read barcodes in supermarkets?",
+    "options": ["Barcode scanner", "OMR", "OCR", "MICR"],
+    "answer": "Barcode scanner",
+    "explanation": "Barcode scanners are commonly used in supermarkets to read product barcodes."
+  },
+  {
+    "question": "Which of these is used to capture 3D objects?",
+    "options": ["3D scanner", "Webcam", "Digital camera", "Scanner"],
+    "answer": "3D scanner",
+    "explanation": "A 3D scanner captures three-dimensional objects and creates digital models."
+  },
+  {
+    "question": "Which of the following is an example of a line printer?",
+    "options": ["Drum printer", "Inkjet", "Laser", "Thermal"],
+    "answer": "Drum printer",
+    "explanation": "Drum printers are line printers that print an entire line at once."
+  },
+  {
+    "question": "Which of these is an example of a page printer?",
+    "options": ["Laser printer", "Dot matrix", "Daisy wheel", "Line printer"],
+    "answer": "Laser printer",
+    "explanation": "Laser printers are page printers that print a full page at a time."
+  },
+  {
+    "question": "Which of these is used to connect Bluetooth devices?",
+    "options": ["Bluetooth adapter", "Ethernet cable", "USB cable", "HDMI cable"],
+    "answer": "Bluetooth adapter",
+    "explanation": "A Bluetooth adapter enables wireless connection of Bluetooth devices."
+  },
+  {
+    "question": "Which of these is an example of a real-time operating system?",
+    "options": ["VxWorks", "Windows 10", "macOS", "Linux"],
+    "answer": "VxWorks",
+    "explanation": "VxWorks is a real-time operating system; Windows, macOS, and Linux are general-purpose."
+  },
+  {
+    "question": "Which of these is used to verify digital signatures?",
+    "options": ["Public key", "Private key", "Both A and B", "None of the above"],
+    "answer": "Public key",
+    "explanation": "Public key cryptography verifies digital signatures."
+  },
+  {
+    "question": "Which of these is a project management tool?",
+    "options": ["Trello", "Asana", "Jira", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Trello, Asana, and Jira are all project management tools."
+  },
+  {
+    "question": "Which of these is an example of a coding bootcamp platform?",
+    "options": ["Codecademy", "freeCodeCamp", "Pluralsight", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Codecademy, freeCodeCamp, and Pluralsight all offer coding courses."
+  },
+  {
+    "question": "Which of these is used for cryptocurrency transactions?",
+    "options": ["Bitcoin wallet", "Apple Pay", "Google Pay", "Samsung Pay"],
+    "answer": "Bitcoin wallet",
+    "explanation": "A Bitcoin wallet is used specifically for cryptocurrency transactions."
+  },
+  {
+    "question": "Which of these is a type of malware that encrypts files for ransom?",
+    "options": ["Ransomware", "Spyware", "Adware", "Keylogger"],
+    "answer": "Ransomware",
+    "explanation": "Ransomware encrypts files and demands payment for decryption."
+  },
+  {
+    "question": "Which of these is used to protect against data loss?",
+    "options": ["Data backup", "Antivirus", "Firewall", "Encryption"],
+    "answer": "Data backup",
+    "explanation": "Data backup protects against data loss by creating copies of data."
+  },
+  {
+    "question": "Which of these is an example of multi-factor authentication?",
+    "options": ["Password + SMS code", "Password only", "Username only", "Email only"],
+    "answer": "Password + SMS code",
+    "explanation": "Multi-factor authentication requires two or more verification methods."
+  },
+  {
+    "question": "Which of these is an example of a security policy?",
+    "options": ["Password policy", "Access control policy", "Data retention policy", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Password, access control, and data retention policies are all security policies."
+  },
+  {
+    "question": "Which of these is a safe practice when downloading software?",
+    "options": ["Download from official websites", "Download from torrent sites", "Click pop-up ads", "Ignore security warnings"],
+    "answer": "Download from official websites",
+    "explanation": "Downloading from official websites reduces the risk of malware."
+  }
+]

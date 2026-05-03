@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which of the following is a type of dynamic memory?",
+    "options": ["DRAM", "SRAM", "ROM", "Cache"],
+    "answer": "DRAM",
+    "explanation": "DRAM (Dynamic RAM) is a type of dynamic memory that requires constant refreshing."
+  },
+  {
+    "question": "The process of decoding instructions is performed by the",
+    "options": ["Control Unit", "ALU", "Memory Unit", "Register Unit"],
+    "answer": "Control Unit",
+    "explanation": "The Control Unit decodes instructions fetched from memory."
+  },
+  {
+    "question": "Which of the following is a touch-sensitive input device?",
+    "options": ["Touchpad", "Keyboard", "Mouse", "Printer"],
+    "answer": "Touchpad",
+    "explanation": "A touchpad is a touch-sensitive input device commonly found on laptops."
+  },
+  {
+    "question": "Which of these is an example of a web-based email service?",
+    "options": ["Gmail", "Outlook", "Yahoo Mail", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Gmail, Outlook, and Yahoo Mail are all web-based email services."
+  },
+  {
+    "question": "The shortcut key for printing a document is",
+    "options": ["Ctrl + P", "Ctrl + S", "Ctrl + O", "Ctrl + N"],
+    "answer": "Ctrl + P",
+    "explanation": "Ctrl + P is the standard shortcut for printing a document."
+  },
+  {
+    "question": "Which of the following is a virtual assistant developed by Microsoft?",
+    "options": ["Cortana", "Siri", "Alexa", "Google Assistant"],
+    "answer": "Cortana",
+    "explanation": "Cortana is a virtual assistant developed by Microsoft."
+  },
+  {
+    "question": "Which of these is a type of malware that locks access to files?",
+    "options": ["Ransomware", "Spyware", "Adware", "Keylogger"],
+    "answer": "Ransomware",
+    "explanation": "Ransomware locks access to files and demands payment for decryption."
+  },
+  {
+    "question": "Which of the following is used for load balancing?",
+    "options": ["Load balancer", "Switch", "Hub", "Modem"],
+    "answer": "Load balancer",
+    "explanation": "A load balancer distributes network traffic across multiple servers."
+  },
+  {
+    "question": "Which of these is an example of a blogging platform?",
+    "options": ["WordPress", "Twitter", "Facebook", "Instagram"],
+    "answer": "WordPress",
+    "explanation": "WordPress is a blogging platform; the others are social media platforms."
+  },
+  {
+    "question": "Which of the following is a cloud storage service from Microsoft?",
+    "options": ["OneDrive", "Google Drive", "Dropbox", "iCloud"],
+    "answer": "OneDrive",
+    "explanation": "OneDrive is Microsoft's cloud storage service."
+  },
+  {
+    "question": "Which number system is commonly used for MAC addresses?",
+    "options": ["Hexadecimal", "Binary", "Octal", "Decimal"],
+    "answer": "Hexadecimal",
+    "explanation": "MAC addresses are commonly represented in hexadecimal notation."
+  },
+  {
+    "question": "Which of the following is an output device for producing continuous paper printouts?",
+    "options": ["Line printer", "Plotter", "Laser printer", "Inkjet printer"],
+    "answer": "Line printer",
+    "explanation": "Line printers are designed for continuous paper printouts, often in data centers."
+  },
+  {
+    "question": "The bus that carries memory addresses is the",
+    "options": ["Address bus", "Data bus", "Control bus", "System bus"],
+    "answer": "Address bus",
+    "explanation": "The address bus carries memory addresses from the CPU to memory."
+  },
+  {
+    "question": "Which of the following is used for identity and access management?",
+    "options": ["IAM software", "Antivirus", "Firewall", "IDS"],
+    "answer": "IAM software",
+    "explanation": "IAM (Identity and Access Management) software manages user identities and access rights."
+  },
+  {
+    "question": "Which of these is a scripting language?",
+    "options": ["JavaScript", "C", "C++", "Java"],
+    "answer": "JavaScript",
+    "explanation": "JavaScript is a scripting language; C, C++, and Java are compiled languages."
+  },
+  {
+    "question": "A network that connects devices in a vehicle is called a",
+    "options": ["VAN", "LAN", "WAN", "MAN"],
+    "answer": "VAN",
+    "explanation": "A Vehicular Area Network (VAN) connects devices within a vehicle."
+  },
+  {
+    "question": "Which of the following is a networking device that regenerates signals?",
+    "options": ["Repeater", "Switch", "Router", "Gateway"],
+    "answer": "Repeater",
+    "explanation": "A repeater regenerates and amplifies signals to extend network distance."
+  },
+  {
+    "question": "Which key is used to open the Start menu in Windows?",
+    "options": ["Windows key", "Ctrl + Esc", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "explanation": "Both the Windows key and Ctrl + Esc can open the Start menu."
+  },
+  {
+    "question": "Which of these is an example of a task management app?",
+    "options": ["Todoist", "Evernote", "OneNote", "Google Keep"],
+    "answer": "Todoist",
+    "explanation": "Todoist is a task management app; others are note-taking apps."
+  },
+  {
+    "question": "Which of these is used to create database views?",
+    "options": ["CREATE VIEW statement", "SELECT statement", "INSERT statement", "DELETE statement"],
+    "answer": "CREATE VIEW statement",
+    "explanation": "The CREATE VIEW statement is used to create database views."
+  },
+  {
+    "question": "Which of the following is a backup utility?",
+    "options": ["Backup and Restore", "Word processor", "Spreadsheet", "Web browser"],
+    "answer": "Backup and Restore",
+    "explanation": "Backup and Restore is a utility for creating and restoring data backups."
+  },
+  {
+    "question": "Which of the following is an input device for reading contactless cards?",
+    "options": ["Contactless card reader", "Keyboard", "Mouse", "Printer"],
+    "answer": "Contactless card reader",
+    "explanation": "A contactless card reader reads cards using RFID or NFC technology."
+  },
+  {
+    "question": "Which of these is a web browser developed by Microsoft?",
+    "options": ["Edge", "Chrome", "Firefox", "Safari"],
+    "answer": "Edge",
+    "explanation": "Microsoft Edge is a web browser developed by Microsoft."
+  },
+  {
+    "question": "Which of these is used for web conferencing?",
+    "options": ["Cisco Webex", "Zoom", "GoToMeeting", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Cisco Webex, Zoom, and GoToMeeting are all web conferencing platforms."
+  },
+  {
+    "question": "Which of these is an example of a review platform?",
+    "options": ["Yelp", "Twitter", "Facebook", "Instagram"],
+    "answer": "Yelp",
+    "explanation": "Yelp is a review platform for businesses; others are social media."
+  },
+  {
+    "question": "Which of the following is a type of software that allows modification of source code?",
+    "options": ["Open source software", "Closed source", "Proprietary", "Commercial"],
+    "answer": "Open source software",
+    "explanation": "Open source software allows users to modify the source code."
+  },
+  {
+    "question": "Which of these is used to convert text to speech?",
+    "options": ["Text-to-speech software", "Keyboard", "Mouse", "Printer"],
+    "answer": "Text-to-speech software",
+    "explanation": "Text-to-speech software converts written text into spoken words."
+  },
+  {
+    "question": "Which key combination is used to select all content?",
+    "options": ["Ctrl + A", "Ctrl + C", "Ctrl + V", "Ctrl + X"],
+    "answer": "Ctrl + A",
+    "explanation": "Ctrl + A is the shortcut for selecting all content in a document or window."
+  },
+  {
+    "question": "Which of these is an example of a 3D modeling software?",
+    "options": ["Blender", "MS Word", "MS Excel", "MS Access"],
+    "answer": "Blender",
+    "explanation": "Blender is a free 3D modeling software; the others are office applications."
+  },
+  {
+    "question": "Which of these is used to create motion graphics?",
+    "options": ["Adobe After Effects", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "Adobe After Effects",
+    "explanation": "Adobe After Effects is used for motion graphics and visual effects."
+  },
+  {
+    "question": "Which of these is an example of a time-series database?",
+    "options": ["InfluxDB", "MySQL", "Oracle", "PostgreSQL"],
+    "answer": "InfluxDB",
+    "explanation": "InfluxDB is a time-series database; MySQL, Oracle, and PostgreSQL are relational."
+  },
+  {
+    "question": "Which of the following is a type of single-board computer?",
+    "options": ["Arduino", "Desktop", "Laptop", "Server"],
+    "answer": "Arduino",
+    "explanation": "Arduino is a single-board computer; the others are not."
+  },
+  {
+    "question": "Which of these is a characteristic of an analog computer?",
+    "options": ["Continuous data", "Discrete data", "Digital output", "Binary processing"],
+    "answer": "Continuous data",
+    "explanation": "Analog computers process continuous data, unlike digital computers."
+  },
+  {
+    "question": "Which of these is used for voice recognition?",
+    "options": ["Voice recognition software", "Keyboard", "Mouse", "Printer"],
+    "answer": "Voice recognition software",
+    "explanation": "Voice recognition software identifies a person's voice for authentication."
+  },
+  {
+    "question": "Which of these is used for signature recognition?",
+    "options": ["Signature pad", "Keyboard", "Mouse", "Printer"],
+    "answer": "Signature pad",
+    "explanation": "A signature pad captures handwritten signatures for verification."
+  },
+  {
+    "question": "Which of these is used to read QR codes?",
+    "options": ["QR code scanner", "OMR", "OCR", "MICR"],
+    "answer": "QR code scanner",
+    "explanation": "A QR code scanner reads QR codes using a camera or dedicated scanner."
+  },
+  {
+    "question": "Which of these is used to capture time-lapse videos?",
+    "options": ["Time-lapse camera", "Webcam", "Digital camera", "Scanner"],
+    "answer": "Time-lapse camera",
+    "explanation": "A time-lapse camera captures images at set intervals to create time-lapse videos."
+  },
+  {
+    "question": "Which of the following is an example of a solid ink printer?",
+    "options": ["Solid ink printer", "Dot matrix", "Laser", "Inkjet"],
+    "answer": "Solid ink printer",
+    "explanation": "Solid ink printers use solid ink sticks that are melted during printing."
+  },
+  {
+    "question": "Which of these is an example of a dye-sublimation printer?",
+    "options": ["Dye-sublimation printer", "Dot matrix", "Line printer", "Drum printer"],
+    "answer": "Dye-sublimation printer",
+    "explanation": "Dye-sublimation printers use heat to transfer dye onto materials."
+  },
+  {
+    "question": "Which of these is used to connect DisplayPort devices?",
+    "options": ["DisplayPort cable", "USB cable", "HDMI cable", "Ethernet cable"],
+    "answer": "DisplayPort cable",
+    "explanation": "A DisplayPort cable connects DisplayPort-compatible devices for video output."
+  },
+  {
+    "question": "Which of these is an example of a time-sharing operating system?",
+    "options": ["UNIX", "Windows 10", "macOS", "Linux"],
+    "answer": "UNIX",
+    "explanation": "UNIX is a classic example of a time-sharing operating system."
+  },
+  {
+    "question": "Which of these is used to create smart contracts?",
+    "options": ["Solidity", "JavaScript", "Python", "C++"],
+    "answer": "Solidity",
+    "explanation": "Solidity is a programming language used to create smart contracts on blockchain platforms."
+  },
+  {
+    "question": "Which of these is a supply chain management tool?",
+    "options": ["Oracle SCM", "Trello", "Asana", "Jira"],
+    "answer": "Oracle SCM",
+    "explanation": "Oracle SCM is a supply chain management tool; Trello, Asana, and Jira are project management tools."
+  },
+  {
+    "question": "Which of these is an example of a proctoring software?",
+    "options": ["ProctorU", "Zoom", "Google Meet", "Microsoft Teams"],
+    "answer": "ProctorU",
+    "explanation": "ProctorU is an online proctoring software for exams."
+  },
+  {
+    "question": "Which of these is used for mobile wallets?",
+    "options": ["Apple Pay", "Google Pay", "Samsung Pay", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Apple Pay, Google Pay, and Samsung Pay are all mobile wallet services."
+  },
+  {
+    "question": "Which of these is a type of rootkit?",
+    "options": ["Kernel rootkit", "Spyware", "Ransomware", "Trojan"],
+    "answer": "Kernel rootkit",
+    "explanation": "A kernel rootkit operates at the operating system kernel level."
+  },
+  {
+    "question": "Which of these is used to protect against SQL injection?",
+    "options": ["Parameterized queries", "Firewall", "Antivirus", "Encryption"],
+    "answer": "Parameterized queries",
+    "explanation": "Parameterized queries prevent SQL injection attacks by separating SQL logic from data."
+  },
+  {
+    "question": "Which of these is an example of a biometric security device?",
+    "options": ["Fingerprint reader", "Antivirus", "Firewall", "IDS"],
+    "answer": "Fingerprint reader",
+    "explanation": "A fingerprint reader is a biometric security device for authentication."
+  },
+  {
+    "question": "Which of these is an example of a cybersecurity framework?",
+    "options": ["NIST CSF", "GDPR", "PCI DSS", "HIPAA"],
+    "answer": "NIST CSF",
+    "explanation": "NIST Cybersecurity Framework is a cybersecurity framework; others are regulations."
+  },
+  {
+    "question": "Which of these is a safe practice when using IoT devices?",
+    "options": ["Change default passwords", "Update firmware regularly", "Use a separate network", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Changing default passwords, updating firmware, and using separate networks are safe IoT practices."
+  }
+]
