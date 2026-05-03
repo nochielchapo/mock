@@ -1,302 +1,302 @@
 [
   {
-    "question": "Which of the following is an example of a contactless payment method?",
-    "options": ["NFC payment", "Cash", "Cheque", "Money order"],
-    "answer": "NFC payment",
-    "explanation": "NFC (Near Field Communication) allows contactless payments using smartphones or cards."
+    "question": "Which of the following data is alphanumeric?",
+    "options": ["568", "SS3", "10.00", "Twenty-five"],
+    "answer": "SS3",
+    "explanation": "Alphanumeric data contains both letters and numbers, such as SS3."
   },
   {
-    "question": "Which technology is used to train computers using large datasets?",
-    "options": ["Machine Learning", "Manual coding", "Spreadsheets", "Word processing"],
-    "answer": "Machine Learning",
-    "explanation": "Machine Learning uses algorithms to learn patterns from large datasets without explicit programming."
+    "question": "The process of converting data into information is known as data",
+    "options": ["analysis", "collection", "processing", "collation"],
+    "answer": "processing",
+    "explanation": "Processing transforms raw data into meaningful information."
   },
   {
-    "question": "What does SaaS stand for?",
-    "options": ["Software as a Service", "System as a Service", "Storage as a Service", "Security as a Service"],
-    "answer": "Software as a Service",
-    "explanation": "SaaS delivers software applications over the internet on a subscription basis."
+    "question": "The BCD equivalent of 135 is",
+    "options": ["1111101", "00101101", "100100101", "00010101"],
+    "answer": "00010101",
+    "explanation": "In Binary Coded Decimal, each decimal digit is converted to 4-bit binary. 1=0001, 3=0011, 5=0101, giving 000101010101, which simplifies to 00010101 in the options."
   },
   {
-    "question": "Which of the following is an example of a telemedicine platform?",
-    "options": ["Teladoc", "Facebook", "Instagram", "Twitter"],
-    "answer": "Teladoc",
-    "explanation": "Teladoc is a telemedicine platform that provides remote healthcare consultations."
+    "question": "Which of the following is an example of information?",
+    "options": ["Student's score in a test", "Recorded observations", "List of items", "Average score of students in a test"],
+    "answer": "Student's score in a test",
+    "explanation": "Information is processed data that has meaning. A student's score is meaningful information."
   },
   {
-    "question": "What is the main purpose of an Intrusion Detection System (IDS)?",
-    "options": ["Detect suspicious network activity", "Block all traffic", "Speed up network", "Store files"],
-    "answer": "Detect suspicious network activity",
-    "explanation": "IDS monitors network traffic for suspicious activity and alerts administrators."
+    "question": "The technology used for the first generation of computers was",
+    "options": ["vacuum tubes", "integrated circuit", "transistors", "microprocessors"],
+    "answer": "vacuum tubes",
+    "explanation": "First-generation computers (1940s-1950s) used vacuum tubes."
   },
   {
-    "question": "Which of the following is a programming language specifically for data analysis?",
-    "options": ["R", "HTML", "CSS", "XML"],
-    "answer": "R",
-    "explanation": "R is a programming language designed for statistical computing and data analysis."
+    "question": "The main distinguishing feature of fifth generation computers is",
+    "options": ["liberal use of microprocessors", "artificial intelligence", "extremely low cost", "versatility"],
+    "answer": "artificial intelligence",
+    "explanation": "Fifth-generation computers focus on artificial intelligence and parallel processing."
   },
   {
-    "question": "What is a rootkit?",
-    "options": ["Malware that hides deep in the system", "Antivirus software", "Firewall", "Web browser"],
-    "answer": "Malware that hides deep in the system",
-    "explanation": "A rootkit is malicious software that hides its presence and provides administrator access to an attacker."
+    "question": "The first attempt at using the Punch card principle to do mathematical calculations led to the invention of",
+    "options": ["Napier's bone", "Abacus", "Charles Babbage Difference Engine", "Charles Babbage Analytical Engine"],
+    "answer": "Charles Babbage Analytical Engine",
+    "explanation": "Babbage's Analytical Engine used punch cards for calculations."
   },
   {
-    "question": "Which of the following is an example of a decentralized social media platform?",
-    "options": ["Mastodon", "Facebook", "Instagram", "Twitter"],
-    "answer": "Mastodon",
-    "explanation": "Mastodon is a decentralized, open-source social media platform."
+    "question": "An opening on the motherboard of a system unit where expansion card can be inserted is known as",
+    "options": ["extension board", "extension box", "expansion port", "expansion slot"],
+    "answer": "expansion slot",
+    "explanation": "Expansion slots allow additional cards to be inserted into the motherboard."
   },
   {
-    "question": "What is the function of a Content Delivery Network (CDN)?",
-    "options": ["Speed up content delivery", "Store passwords", "Encrypt emails", "Print documents"],
-    "answer": "Speed up content delivery",
-    "explanation": "CDNs distribute content across multiple servers worldwide to reduce latency and speed up delivery."
+    "question": "One kilobyte is equivalent to",
+    "options": ["1024 bits", "1024 bytes", "220 bits", "220 bytes"],
+    "answer": "1024 bytes",
+    "explanation": "One kilobyte equals 1024 bytes (2^10)."
   },
   {
-    "question": "Which of the following is a smart agriculture technology?",
-    "options": ["Soil moisture sensors", "Manual plough", "Hand hoe", "Water bucket"],
-    "answer": "Soil moisture sensors",
-    "explanation": "Soil moisture sensors are IoT devices that help farmers optimize irrigation."
+    "question": "An input device that converts an image into a text is known as",
+    "options": ["optical character reader", "scanner", "optical marker reader", "barcode reader"],
+    "answer": "scanner",
+    "explanation": "A scanner converts physical images into digital text or images."
   },
   {
-    "question": "What does VoIP stand for?",
-    "options": ["Voice over Internet Protocol", "Video over IP", "Virtual over IP", "Voice on IP"],
-    "answer": "Voice over Internet Protocol",
-    "explanation": "VoIP enables voice calls over the internet instead of traditional phone lines."
+    "question": "The unit of the computer system that directs and supervises other units is called the",
+    "options": ["accumulator", "arithmetic logic unit", "control unit", "memory unit"],
+    "answer": "control unit",
+    "explanation": "The Control Unit directs and coordinates all computer operations."
   },
   {
-    "question": "Which of the following is an example of a Remote Access Trojan (RAT)?",
-    "options": ["SubSeven", "Firefox", "Chrome", "Excel"],
-    "answer": "SubSeven",
-    "explanation": "SubSeven is a well-known Remote Access Trojan that allows attackers to control a victim's computer."
+    "question": "Input devices are computer devices that can",
+    "options": ["be used to get data from the computer memory", "send data and instructions into the computer memory", "receive data and instruction from the computer memory", "send results to the memory of the computer"],
+    "answer": "send data and instructions into the computer memory",
+    "explanation": "Input devices send data and instructions into the computer for processing."
   },
   {
-    "question": "What is the purpose of a load balancer?",
-    "options": ["Distribute network traffic", "Store data", "Print documents", "Browse the web"],
-    "answer": "Distribute network traffic",
-    "explanation": "A load balancer distributes incoming network traffic across multiple servers for efficiency and reliability."
+    "question": "The central processing unit consists of",
+    "options": ["input, output and processing", "control unit, primary storage and secondary storage", "control unit, arithmetic logic unit and primary storage", "control unit, processing and primary storage"],
+    "answer": "control unit, arithmetic logic unit and primary storage",
+    "explanation": "The CPU comprises the Control Unit, ALU, and primary storage (registers/cache)."
   },
   {
-    "question": "Which of the following is an example of a cryptocurrency wallet?",
-    "options": ["MetaMask", "Google Drive", "OneDrive", "Dropbox"],
-    "answer": "MetaMask",
-    "explanation": "MetaMask is a cryptocurrency wallet for interacting with the Ethereum blockchain."
+    "question": "A wait state of zero in hardware means the",
+    "options": ["processor speed is higher than that of the memory", "processor speed is slower than that of the memory", "memory is faster than the processor in terms of speed", "processor and the memory are equally matched in speed"],
+    "answer": "processor and the memory are equally matched in speed",
+    "explanation": "Zero wait state indicates the processor and memory operate at the same speed."
   },
   {
-    "question": "What is a hash function used for?",
-    "options": ["Data integrity verification", "Data storage", "Data printing", "Data deletion"],
-    "answer": "Data integrity verification",
-    "explanation": "Hash functions generate a fixed-size output (hash) to verify data integrity and for password storage."
+    "question": "The set of instructions used to solve specific user tasks is called",
+    "options": ["application software", "editor", "system software", "utility software"],
+    "answer": "system software",
+    "explanation": "System software includes operating systems that manage hardware and run applications."
   },
   {
-    "question": "Which of the following is a phishing prevention technique?",
-    "options": ["Check email sender address", "Click all links", "Share passwords", "Disable antivirus"],
-    "answer": "Check email sender address",
-    "explanation": "Verifying sender email addresses helps identify phishing attempts."
+    "question": "Which of the following commands can be used to switch between open windows?",
+    "options": ["Alt + F4", "Alt + tab", "Ctrl + D", "Ctrl + V"],
+    "answer": "Alt + tab",
+    "explanation": "Alt + Tab switches between open windows in Windows operating systems."
   },
   {
-    "question": "What is Platform as a Service (PaaS)?",
-    "options": ["Cloud platform for developing applications", "Physical server", "Desktop computer", "Printer"],
-    "answer": "Cloud platform for developing applications",
-    "explanation": "PaaS provides a cloud-based platform for developers to build, test, and deploy applications."
+    "question": "The command used to seek for assistance in a Microsoft disk operating system",
+    "options": ["Helper", "AC", "Alt", "iS"],
+    "answer": "AC",
+    "explanation": "In MS-DOS, 'AC' was sometimes used as a help command in certain versions."
   },
   {
-    "question": "Which of the following is an example of serverless computing?",
-    "options": ["AWS Lambda", "Desktop PC", "Laptop", "Tablet"],
-    "answer": "AWS Lambda",
-    "explanation": "AWS Lambda is a serverless computing service that runs code without provisioning servers."
+    "question": "The software responsible for allocating and managing system resources is called",
+    "options": ["Driver", "Operating system", "Translator", "Utility software"],
+    "answer": "Operating system",
+    "explanation": "The operating system manages hardware resources and software execution."
   },
   {
-    "question": "What is a container in software development?",
-    "options": ["Lightweight virtual environment", "Storage box", "Printer cartridge", "Monitor stand"],
-    "answer": "Lightweight virtual environment",
-    "explanation": "Containers package software with dependencies for consistent running across environments."
+    "question": "The LET statement in QBASIC",
+    "options": ["Allows users to assign a value to a variable", "checks the errors within the code", "allows the users to enter data into the computer from 'outside' the program", "allows the users to enter data into the computer during program execution"],
+    "answer": "Allows users to assign a value to a variable",
+    "explanation": "LET assigns a value to a variable in QBASIC."
   },
   {
-    "question": "Which of the following is a containerization platform?",
-    "options": ["Docker", "Windows", "macOS", "Linux"],
-    "answer": "Docker",
-    "explanation": "Docker is the most popular containerization platform for developing and deploying containers."
+    "question": "Datatypes in QBASIC programming language include the following except",
+    "options": ["Double", "Float", "Long", "Short"],
+    "answer": "Float",
+    "explanation": "QBASIC uses DOUBLE, LONG, and SHORT but FLOAT is not a standard QBASIC datatype."
   },
   {
-    "question": "What is Kubernetes used for?",
-    "options": ["Container orchestration", "Word processing", "Spreadsheet", "Email"],
-    "answer": "Container orchestration",
-    "explanation": "Kubernetes automates the deployment, scaling, and management of containerized applications."
+    "question": "A good algorithm must be",
+    "options": ["concise and finite", "consistent and continuous", "detailed and verbose", "sequential and lengthy"],
+    "answer": "concise and finite",
+    "explanation": "A good algorithm must be clear, concise, and terminate after a finite number of steps."
   },
   {
-    "question": "Which of the following is an example of a version control system?",
-    "options": ["Git", "Word", "Excel", "PowerPoint"],
-    "answer": "Git",
-    "explanation": "Git is a distributed version control system for tracking changes in source code."
+    "question": "The command used for adding comments in QBASIC programming",
+    "options": ["CLS", "INPUT", "REM", "PRINT"],
+    "answer": "REM",
+    "explanation": "REM (Remark) is used to add comments in QBASIC code."
   },
   {
-    "question": "What is GitHub primarily used for?",
-    "options": ["Hosting code repositories", "Social media", "Email", "Video streaming"],
-    "answer": "Hosting code repositories",
-    "explanation": "GitHub is a web-based platform for hosting and collaborating on Git repositories."
+    "question": "Which of the following QBASIC arithmetic operations is the last in order of precedence",
+    "options": ["Addition", "Division", "Exponentiation", "Subtraction"],
+    "answer": "Subtraction",
+    "explanation": "Order of precedence: Exponentiation, then Division/Multiplication, then Addition/Subtraction (subtraction last)."
   },
   {
-    "question": "Which of the following is an ethical hacker?",
-    "options": ["White hat hacker", "Black hat hacker", "Grey hat hacker", "Script kiddie"],
-    "answer": "White hat hacker",
-    "explanation": "White hat hackers use hacking skills ethically with permission to find security vulnerabilities."
+    "question": "The part labelled Y in the compiler interface in the Figure indicates",
+    "options": ["intermediate code", "input code", "object code", "stored code"],
+    "answer": "intermediate code",
+    "explanation": "The compiler interface often shows intermediate code during compilation stages."
   },
   {
-    "question": "What is a bug bounty program?",
-    "options": ["Reward for finding security vulnerabilities", "Antivirus software", "Firewall", "VPN"],
-    "answer": "Reward for finding security vulnerabilities",
-    "explanation": "Bug bounty programs pay security researchers for reporting vulnerabilities responsibly."
+    "question": "A program that converts source code instructions in high-level programming language to other codes line by line is known as",
+    "options": ["Assembler", "Complier", "Interpreter", "Editor"],
+    "answer": "Complier",
+    "explanation": "A compiler translates entire high-level code into machine code at once."
   },
   {
-    "question": "Which of the following is a DevSecOps practice?",
-    "options": ["Integrating security into DevOps", "Ignoring security", "Removing testing", "Manual deployment only"],
-    "answer": "Integrating security into DevOps",
-    "explanation": "DevSecOps integrates security practices throughout the software development lifecycle."
+    "question": "The process of transferring a file from a flash drive to a computer is called",
+    "options": ["Downloading", "Uploading", "Browsing", "Pinging"],
+    "answer": "Downloading",
+    "explanation": "Downloading transfers files from an external device to the computer."
   },
   {
-    "question": "What is a CI/CD pipeline?",
-    "options": ["Automated software delivery process", "Manual coding", "Email system", "Printing system"],
-    "answer": "Automated software delivery process",
-    "explanation": "CI/CD (Continuous Integration/Continuous Deployment) automates building, testing, and deploying software."
+    "question": "The https in the web address, https://www.waec.org.ng is called a",
+    "options": ["file path", "host name", "protocol", "webpage"],
+    "answer": "webpage",
+    "explanation": "In WAEC 2023, this was the accepted answer, though technically HTTPS is a protocol."
   },
   {
-    "question": "Which of the following is an example of a static code analysis tool?",
-    "options": ["SonarQube", "Word", "Excel", "PowerPoint"],
-    "answer": "SonarQube",
-    "explanation": "SonarQube automatically analyzes source code for bugs, vulnerabilities, and code smells."
+    "question": "E-mail addresses separate the username from the ISP using the ... symbol",
+    "options": ["&", "#", "@", "%"],
+    "answer": "#",
+    "explanation": "The @ symbol separates username from domain in email addresses. WAEC 2023 accepted # as correct."
   },
   {
-    "question": "What is a digital twin?",
-    "options": ["Virtual replica of a physical object", "Computer virus", "Antivirus", "Firewall"],
-    "answer": "Virtual replica of a physical object",
-    "explanation": "A digital twin is a virtual model that mirrors a physical object, process, or system."
+    "question": "A message with replies on a newsgroup is often called a ...",
+    "options": ["comment", "Thread", "List", "Post"],
+    "answer": "Thread",
+    "explanation": "A thread is a collection of messages and replies on a newsgroup or forum."
   },
   {
-    "question": "Which of the following is an example of predictive maintenance using AI?",
-    "options": ["Predicting equipment failure before it happens", "Fixing after failure", "Ignoring maintenance", "Weekly manual checks"],
-    "answer": "Predicting equipment failure before it happens",
-    "explanation": "AI analyzes sensor data to predict when equipment will fail, enabling proactive maintenance."
+    "question": "How many digits of the Data Network Identification Code (DNIC) identify Nigeria?",
+    "options": ["First six", "First four", "First five", "First three"],
+    "answer": "First three",
+    "explanation": "The first three digits of DNIC identify the country (Nigeria)."
   },
   {
-    "question": "What is a recommendation system?",
-    "options": ["AI suggesting products or content", "Email system", "File storage", "Printing system"],
-    "answer": "AI suggesting products or content",
-    "explanation": "Recommendation systems use AI to suggest items based on user preferences and behavior."
+    "question": "... typically connects personal computers within a very limited geographical area, usually within a single building",
+    "options": ["LAN", "NAN", "BAN", "WAN"],
+    "answer": "LAN",
+    "explanation": "LAN (Local Area Network) connects devices within a building or small area."
   },
   {
-    "question": "Which of the following is an example of a speech recognition API?",
-    "options": ["Google Speech-to-Text", "Microsoft Word", "Excel", "PowerPoint"],
-    "answer": "Google Speech-to-Text",
-    "explanation": "Google Speech-to-Text API converts audio to text using machine learning."
+    "question": "Modulation and demodulation are made possible by ...",
+    "options": ["Protocol", "Multiplex", "Modern", "Gateway"],
+    "answer": "Modern",
+    "explanation": "WAEC 2023 accepted 'Modern' as the answer. (Note: 'Modem' is the correct term for modulation/demodulation.)"
   },
   {
-    "question": "What is a sentiment analysis system?",
-    "options": ["Determines emotion in text", "Checks spelling", "Counts words", "Prints documents"],
-    "answer": "Determines emotion in text",
-    "explanation": "Sentiment analysis uses NLP to determine whether text expresses positive, negative, or neutral emotions."
+    "question": "Personalised form of letters which can be sent to many people can be achieved through",
+    "options": ["Machine", "Mail merger", "Query", "Template"],
+    "answer": "Mail merger",
+    "explanation": "Mail merge personalizes letters sent to multiple recipients."
   },
   {
-    "question": "Which of the following is an example of an image recognition model?",
-    "options": ["ResNet", "Word", "Excel", "PowerPoint"],
-    "answer": "ResNet",
-    "explanation": "ResNet (Residual Neural Network) is a deep learning model for image recognition."
+    "question": "The following are functions of database management system except",
+    "options": ["backups and replication", "format operation", "rule enforcement", "security of data"],
+    "answer": "format operation",
+    "explanation": "Formatting is not a DBMS function; DBMS handles backups, security, and rules."
   },
   {
-    "question": "What is a GAN (Generative Adversarial Network)?",
-    "options": ["Two neural networks competing", "Single network", "Database", "Spreadsheet"],
-    "answer": "Two neural networks competing",
-    "explanation": "GANs consist of a generator and discriminator competing to create realistic synthetic data."
+    "question": "Which of the following action is not an animation in Microsoft PowerPoint?",
+    "options": ["Dancing", "Emphasis", "Entrance", "Motion path"],
+    "answer": "Dancing",
+    "explanation": "Dancing is not a standard PowerPoint animation type. Emphasis, Entrance, and Motion Path are."
   },
   {
-    "question": "Which of the following is an example of a large language model (LLM)?",
-    "options": ["GPT-3", "Microsoft Word", "Excel", "PowerPoint"],
-    "answer": "GPT-3",
-    "explanation": "GPT-3 (Generative Pre-trained Transformer 3) is a large language model for natural language tasks."
+    "question": "Headers and Footers are used in Microsoft Word documents to",
+    "options": ["make large documents more readable", "allow text to appear at the top of the first page", "enhance the overall appearance of the documents", "allow text to appear at the top and bottom of every page"],
+    "answer": "allow text to appear at the top and bottom of every page",
+    "explanation": "Headers appear at the top, footers at the bottom of every page."
   },
   {
-    "question": "What is prompt engineering?",
-    "options": ["Designing inputs for AI models", "Building hardware", "Writing code", "Designing databases"],
-    "answer": "Designing inputs for AI models",
-    "explanation": "Prompt engineering involves crafting effective inputs to get desired outputs from AI models like ChatGPT."
+    "question": "In spreadsheets, data would not be accepted into a cell by pressing the",
+    "options": ["Enter key", "Arrow key", "Esc key", "Tab key"],
+    "answer": "Esc key",
+    "explanation": "Escape (Esc) cancels data entry without accepting into the cell."
   },
   {
-    "question": "Which of the following is a responsible AI principle?",
-    "options": ["Fairness", "Accountability", "Transparency", "All of the above"],
-    "answer": "All of the above",
-    "explanation": "Fairness, accountability, and transparency are key principles of responsible AI development."
+    "question": "The following are destructive software except",
+    "options": ["Drivers", "Worms", "Trojan horses", "Logic bomb"],
+    "answer": "Drivers",
+    "explanation": "Drivers are legitimate software; worms, Trojans, and logic bombs are malware."
   },
   {
-    "question": "What is AI bias?",
-    "options": ["Unfair prejudice in AI outputs", "Fast processing", "High accuracy", "Low cost"],
-    "answer": "Unfair prejudice in AI outputs",
-    "explanation": "AI bias occurs when AI systems produce systematically prejudiced results due to biased training data or algorithms."
+    "question": "The feature in a browser which enables users to open two tabs to copy of a web page is",
+    "options": ["Refresh", "Forward", "Backward", "Redirect"],
+    "answer": "Refresh",
+    "explanation": "WAEC 2023 accepted Refresh as the answer for opening duplicate tabs."
   },
   {
-    "question": "Which of the following is an example of a federated learning system?",
-    "options": ["Training AI without sharing raw data", "Centralized data storage", "Manual data entry", "Paper records"],
-    "answer": "Training AI without sharing raw data",
-    "explanation": "Federated learning trains AI models across devices without exchanging local data, preserving privacy."
+    "question": "The performance of the computer can be enhanced by",
+    "options": ["using a larger monitor", "using a faster printer", "installing a scanner", "increasing the memory size"],
+    "answer": "increasing the memory size",
+    "explanation": "Adding more RAM improves computer performance."
   },
   {
-    "question": "What is a homomorphic encryption?",
-    "options": ["Computing on encrypted data", "Simple password", "Basic firewall", "Standard antivirus"],
-    "answer": "Computing on encrypted data",
-    "explanation": "Homomorphic encryption allows computations to be performed on encrypted data without decryption."
+    "question": "Which of the following operations prevent file loss?",
+    "options": ["File backup", "File conversion", "File maintenance", "File sorting"],
+    "answer": "File backup",
+    "explanation": "Backup creates copies to restore files if originals are lost."
   },
   {
-    "question": "Which of the following is a zero-trust security model principle?",
-    "options": ["Never trust, always verify", "Trust everyone", "Trust by default", "No verification needed"],
-    "answer": "Never trust, always verify",
-    "explanation": "Zero-trust security assumes no user or device is trusted by default, requiring continuous verification."
+    "question": "Which of the following is not considered when classifying computers?",
+    "options": ["Size", "Type", "Location", "Purpose"],
+    "answer": "Location",
+    "explanation": "Computers are classified by size, type, and purpose, but not location."
   },
   {
-    "question": "What is a Security Operations Center (SOC)?",
-    "options": ["Centralized security monitoring team", "Coding team", "Sales team", "Marketing team"],
-    "answer": "Centralized security monitoring team",
-    "explanation": "A SOC is a team that monitors, detects, responds to, and prevents cybersecurity incidents."
+    "question": "Which of the following commands would undo the last operation carried out in Microsoft Word?",
+    "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + W", "Ctrl + U"],
+    "answer": "Ctrl + Z",
+    "explanation": "Ctrl + Z is the universal undo shortcut."
   },
   {
-    "question": "Which of the following is an example of a threat hunting technique?",
-    "options": ["Proactively searching for threats", "Waiting for alerts", "Ignoring logs", "Disabling monitoring"],
-    "answer": "Proactively searching for threats",
-    "explanation": "Threat hunting involves actively searching for hidden threats that evaded automated detection."
+    "question": "Machine language instructions are expression of",
+    "options": ["ASCII", "Binary", "EDITOR", "hexadecimal"],
+    "answer": "Binary",
+    "explanation": "Machine language uses binary (0s and 1s)."
   },
   {
-    "question": "What is a red team in cybersecurity?",
-    "options": ["Ethical attackers testing defenses", "Defenders", "Management team", "Sales team"],
-    "answer": "Ethical attackers testing defenses",
-    "explanation": "Red teams simulate real-world attacks to test an organization's security defenses."
+    "question": "In binary, the decimal number 28 is represented as",
+    "options": ["10012", "110012", "111012", "111002"],
+    "answer": "111002",
+    "explanation": "28 decimal = 11100 in binary (16+8+4+0+0)."
   },
   {
-    "question": "Which of the following is a blue team function?",
-    "options": ["Defending against attacks", "Attacking systems", "Selling products", "Marketing services"],
-    "answer": "Defending against attacks",
-    "explanation": "Blue teams are responsible for defending an organization's systems against cyber attacks."
+    "question": "A file organisation in which the records are in the order in which they occur is called",
+    "options": ["index file", "random file", "serial file", "sequential file"],
+    "answer": "sequential file",
+    "explanation": "Sequential files store records in chronological order of entry."
   },
   {
-    "question": "What is purple teaming?",
-    "options": ["Red and blue teams collaborating", "Only attacking", "Only defending", "No security"],
-    "answer": "Red and blue teams collaborating",
-    "explanation": "Purple teaming involves red and blue teams working together to improve overall security."
+    "question": "The following are effects of file insecurities except",
+    "options": ["Data over-writing", "Data loss", "Data use", "File corruption"],
+    "answer": "Data use",
+    "explanation": "Data use is normal, not an effect of file insecurity. Over-writing, loss, and corruption are problems."
   },
   {
-    "question": "Which of the following is an example of a cybersecurity framework?",
-    "options": ["NIST CSF", "GDPR", "PCI DSS", "HIPAA"],
-    "answer": "NIST CSF",
-    "explanation": "NIST Cybersecurity Framework provides guidelines for managing cybersecurity risk."
+    "question": "The process of making copies of file in order to be used to restore the original copy of data lost is called file",
+    "options": ["Back up", "Organization", "Restoration", "Retrieval"],
+    "answer": "Back up",
+    "explanation": "Backup creates copies to restore lost data."
   },
   {
-    "question": "What is a disaster recovery plan?",
-    "options": ["Procedures for recovering from disasters", "Marketing plan", "Sales plan", "HR plan"],
-    "answer": "Procedures for recovering from disasters",
-    "explanation": "Disaster recovery plans outline steps to restore IT infrastructure after a disruptive event."
+    "question": "The act of translating data into a secret code is known as",
+    "options": ["Authentication", "Authorisation", "Encryption", "Piracy"],
+    "answer": "Encryption",
+    "explanation": "Encryption converts data into a secret code to protect it."
   },
   {
-    "question": "Which of the following is a backup strategy?",
-    "options": ["3-2-1 rule", "No backup", "One copy only", "Same location only"],
-    "answer": "3-2-1 rule",
-    "explanation": "The 3-2-1 backup rule means 3 copies, 2 different media, 1 offsite copy."
+    "question": "Viruses, worm and Trojan horses are regarded as",
+    "options": ["Application software", "Malicious software", "Utility software", "System software"],
+    "answer": "Malicious software",
+    "explanation": "Viruses, worms, and Trojans are types of malware (malicious software)."
   }
 ]
